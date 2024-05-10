@@ -1,0 +1,2689 @@
+Who?	को?	
+Hide.	लुकाउनुहोस्।	
+Hide.	लुक।	
+Stay.	बस्नुहोस्।	
+Hello!	नमस्ते!	
+Smile.	मुस्कान।	
+Attack!	आक्रमण!	
+Go slow.	बिस्तारै जाउ।	
+I'm Tom.	म टम हुँ।	
+Find Tom.	टमलाई खोज।	
+I am Tom.	म टम हुँ।	
+I danced.	मैले नाचे।	
+Who am I?	म को हु?	
+Can I eat?	के म खान सक्छु ?	
+He is old.	उहाँ वृद्ध हुनुहुन्छ।	
+I am okay.	म ठिक छु।	
+I am sick.	म बिरामी छु।	
+I am sure.	म पक्का छु।	
+I am tall.	म अग्लो छु।	
+I am well.	म कुशल छु।	
+I'm crazy.	म पागल छु।	
+I'm crazy.	म पागल हुँ।	
+I'm sorry.	मलाई माफ गर्नुहोस्।	
+Is it bad?	यो खराब छ?	
+Is it bad?	यो नराम्रो हो?	
+May I eat?	के म खान सक्छु ?	
+Who is he?	ऊ को हो?	
+Good night.	शुभ रात्री।	
+He is lazy.	ऊ अल्छी छ ।	
+He is nice.	उहाँ राम्रो हुनुहुन्छ।	
+He is nice.	उ राम्रो छ।	
+He is poor.	ऊ गरिब छ।	
+He is sick.	उहाँ बिरामी हुनुहुन्छ।	
+He is sick.	ऊ बिरामी छ।	
+How lovely!	कति प्यारो!	
+I am a boy.	म केटा हुँ।	
+I am a man.	म एक मानिस हुँ।	
+I am happy.	म खुशी छु।	
+I am human.	म मानव हुँ।	
+I am human.	म मान्छे हुँ।	
+I am short.	म होचो छु।	
+I am smart.	म स्मार्ट छु।	
+I eat fish.	म माछा खान्छु।	
+I eat here.	म यहाँ खान्छु।	
+I eat meat.	म मासु खान्छु।	
+I eat pork.	म सुँगुरको मासु खान्छु।	
+I eat pork.	म पोर्क खान्छु।	
+I eat rice.	म भात खान्छु।	
+I feel old.	मलाई बुढो हुदै गए जस्तो लाग्छ।	
+I like you.	म तिमीलाई मन पराउँछु।	
+I love you.	म तिमीलाई माया गर्छु।	
+I miss you.	म तिमीलाई सम्झन्छु।	
+I'm chubby.	म मोटो छु।	
+I'm chubby.	म मोटी छु।	
+Love hurts.	मायाले दुख दिन्छ।	
+Turn it up.	अलिक ठूलो बनाउनुहोस्।	
+We are men.	हामी पुरुष हौं।	
+Who is Tom?	टम को हो?	
+Beer's good.	बियर राम्रो हो।	
+Beer's good.	बियर राम्रो छ।	
+Don't worry.	चिन्ता नगर।	
+Don't worry.	चिन्ता नगर!	
+Have a beer.	बियर खानुहोस्।	
+He is alone.	ऊ एक्लै छ ।	
+He is alone.	उहाँ एक्लै हुनुहुन्छ।	
+He is eight.	ऊ आठ वर्षको छ।	
+He is happy.	ऊ खुसी छ।	
+He is happy.	उहाँ खुसी हुनुहुन्छ।	
+Here we are!	हामी यहाँ छौ!	
+Here we are.	हामी यहाँ छौ।	
+I also went.	म पनि गएँ।	
+I am a cook.	म कुक हुँ।	
+I am coming.	म आउदै छु।	
+I am taller.	म अग्लो छु।	
+I assume so.	म त्यसै मान्छु।	
+I came back.	म फर्केर आएँ ।	
+I eat alone.	म एक्लै खान्छु।	
+I eat beans.	म गेडागुडी खान्छु।	
+I eat bread.	म रोटी खान्छु।	
+I eat bread.	म पाउरोटी खान्छु।	
+I eat fruit.	म फलफूल खान्छु।	
+I like peas.	मलाई मटर मन पर्छ।	
+I live here.	म यहाँ बस्छु।	
+I read lips.	म ओठ पढ्छु ।	
+I trust him.	म उसलाई विश्वास गर्छु।	
+I went home.	म घर गए।	
+I went, too.	म पनि गएँ।	
+I will stay.	म बस्नेछु।	
+I'll decide.	म निर्णय गर्छु।	
+I'll decide.	म निर्णय गर्नेछु।	
+I'm starved.	मलाई धेरै भोक लागेको छ।	
+Let's hurry.	हतार गरौं।	
+OK, you win.	ठिक छ, तिमीले जित्यौ।	
+Say my name.	मेरो नाम भन।	
+She is dead.	तिनी मरिसकेकी छिन्।	
+She is kind.	उनी दयालु छिन्।	
+Tom is here.	टम यहाँ छ।	
+We are sick.	हामी बिरामी छौं।	
+What's this?	यो के हो?	
+Am I in debt?	के म ऋणमा छु?	
+Did Tom fall?	के टम खसेको थियो?	
+Drive faster.	छिटो चलाउनुहोस्।	
+Ghosts exist.	भूतहरू छन्।	
+He is asleep.	ऊ सुतिरहेको छ।	
+He is cranky.	ऊ चकचके छ।	
+He is eating.	उ खादै छ।	
+He seems ill.	ऊ बिरामी देखिन्छ।	
+I am Chinese.	म चिनियाँ हुँ।	
+I am Chinese.	म चाइनिज हुँ।	
+I am curious.	म उत्सुक छु।	
+I am curious.	म जिज्ञासु छु	
+I am working.	म काम गर्दैछु।	
+I am working.	म काम गरिरहेको छु।	
+I don't know.	मलाई थाहा छैन।	
+I don't know.	थाहा छैन।	
+I drink beer.	म बियर पिउँछु।	
+I drink milk.	म दूध पिउँछु।	
+I drink wine.	म वाइन पिउँछु।	
+I eat cheese.	म चीज खान्छु।	
+I eat slowly.	म बिस्तारै खान्छु।	
+I have a map.	म सँग नक्सा छ।	
+I like steak.	मलाई स्टेक मन पर्छ।	
+I live alone.	म एक्लै बस्छु।	
+I need a pet.	मलाई एउटा पाल्तु जनावर चाहिन्छ।	
+I read books.	म किताबहरू पढ्छु ।	
+I want a dog.	मलाई एउटा कुकुर चाहियो।	
+I went there.	म त्यहाँ गएँ।	
+I went twice.	म दुई पटक गएँ ।	
+I will fight.	म लड्नेछु।	
+I will learn.	म सिक्नेछु।	
+Make a guess.	अनुमान गर्नुहोस्।	
+My eyes hurt.	मेरो आँखा दुखिरहेको छ!	
+She is eight.	उनी आठ वर्षकी हुन् ।	
+She is happy.	उनी खुसी छिन् ।	
+She is lucky.	उनी भाग्यमानी छिन्।	
+She is quiet.	उनी शान्त छिन्।	
+She is sharp.	तिनी तीक्ष्ण छिन्।	
+She is wrong.	उनी गलत छिन्।	
+Tom got rich.	टम धनी भयो।	
+Tom hates me.	टमले मलाई घृणा गर्छ।	
+We are happy.	हामी खुसी छौं।	
+We don't lie.	हामी झूट बोल्दैनौं।	
+We have room.	हामीसँग कोठा छ।	
+What is this?	यो के हो?	
+Did Tom paint?	टमले पेन्ट गर्यो?	
+He drank beer.	उनले बियर पिए ।	
+He drank beer.	उसले बियर पियो ।	
+He is foolish.	ऊ मूर्ख छ।	
+He seems kind.	उनी दयालु देखिन्छन्।	
+He seems kind.	उहाँ दयालु देखिनुहुन्छ।	
+I am Japanese.	म जापानीज हुँ।	
+I am a runner.	म एक धावक हुँ।	
+I am divorced.	म सम्बन्धविच्छेद भएको हु।	
+I am studying.	म पढिरहेको छु।	
+I am studying.	म पढ्दै छु।	
+I can't watch.	म हेर्न सक्दिन।	
+I drink a lot.	म धेरै पिउँछु।	
+I eat bananas.	म केरा खान्छु।	
+I eat chicken.	म कुखुराको मासु खान्छु ।	
+I live nearby.	म नजिकै बस्छु।	
+I must go out.	म बाहिर जानु पर्छ।	
+I read novels.	मैले उपन्यासहरू पढे।	
+I should quit.	मैले छाड्नु पर्छ।	
+I was excited.	म उत्साहित थिएँ।	
+I went aboard.	म विदेश गएँ ।	
+I went abroad.	म विदेश गएँ ।	
+I went hiking.	म पदयात्रामा गएँ।	
+I went inside.	म भित्र गएँ ।	
+I went skiing.	म स्कीइङ गर्न गएँ।	
+I'm ambitious.	म महत्वाकांक्षी छु।	
+I'm an addict.	म एक लतमा लागेको व्यक्ति हुँ।	
+I'm not brave.	म साहसी छैन।	
+I'm not crazy.	म पागल होइन।	
+I'm not crazy.	म पागल छैन।	
+Is Tom asleep?	के टम सुतिरहेको छ?	
+Is Tom famous?	के टम प्रसिद्ध छ?	
+It'll be easy.	यो सजिलो हुनेछ।	
+It's not mine.	यो मेरो होइन।	
+Life is short.	जिवन छोटो छ।	
+My name's Tom.	मेरो नाम टम हो।	
+Please fix it.	कृपया यसलाई ठीक गर्नुहोस्।	
+She is French.	उनी फ्रान्सेली हुन्।	
+She is active.	उनी सक्रिय छिन्।	
+She is crying.	उनी रुदै छिन् ।	
+She is crying.	उनी रोइरहेकी छिन् ।	
+She is eating.	उनी खाइरहेकि छिन् ।	
+She is strong.	तिनी बलियो छिन्।	
+That's a fake.	त्यो नक्कली हो।	
+This is a map.	यो नक्सा हो।	
+This is a map.	यो एउटा नक्शा हो।	
+Tom isn't new.	टम नयाँ होइन।	
+Tom was scary.	टम डरलाग्दो थियो।	
+We are hungry.	हामी भोकाएका छौं।	
+We drank beer.	हामीले बियर पियौं।	
+Who's driving?	कसले गाडी चलाउदै छ?	
+Who's singing?	कसले गाउँदै छ?	
+Will you clap?	के तिमी ताली बजाउछौ ?	
+A beer, please.	कृपया, एक बियर।	
+Are you sleepy?	के तपाईलाई निद्रा लागेको छ ?	
+Can I eat that?	के म त्यो खान सक्छु?	
+Can I eat this?	के म यो खान सक्छु?	
+Girls love Tom.	केटीहरू टमलाई मन पराउँछन्।	
+Happy birthday!	जन्मदिनको शुभकामना	
+He is a doctor.	उहाँ डाक्टर हुनुहुन्छ।	
+He is powerful.	उहाँ शक्तिशाली हुनुहुन्छ।	
+He is powerful.	ऊ शक्तिशाली छ।	
+He was at home.	ऊ घरमै थियो।	
+Here, try some.	यहाँ, केहि प्रयास गर्नुहोस्।	
+How is it made?	यो कसरी बनेको छ?	
+I am a student.	म विद्यार्थी हुँ।	
+I am a teacher.	म शिक्षक हुँ।	
+I am an artist.	म एक कलाकार हुँ।	
+I can't see it.	म यो देख्न सक्दिन।	
+I can't see it.	म यसलाई देख्न सक्दिन।	
+I danced alone.	म एक्लै नाचेँ ।	
+I drink coffee.	म कफी पिउछु।	
+I eat anything.	म जे पनि खान्छु।	
+I eat tomatoes.	म टमाटर खान्छु।	
+I expect a lot.	म धेरै अपेक्षा गर्छु।	
+I have a dream.	मसँग एउटा सपना छ।	
+I have hiccups.	मलाई बाडुली लागेको छ।	
+I have one kid.	मेरो एउटा बच्चा छ।	
+I just checked.	मैले भर्खरै चेक गरे।	
+I like my name.	मलाई मेरो नाम मन पर्छ।	
+I like sashimi.	मलाई शशिमी मन पर्छ।	
+I need Tom now.	अब मलाई टम चाहिन्छ।	
+I remember Tom.	म टमलाई सम्झन्छु।	
+I speak French.	म फ्रेन्च बोल्न सक्छु।	
+I was sleeping.	म सुतिरहेको थिए।	
+I went fishing.	म माछा मार्न गएँ।	
+I went on foot.	म पैदल गएँ ।	
+I went outside.	म बाहिर गएँ ।	
+I will survive.	म बाच्ने छु।	
+I'm a criminal.	म एक अपराधी हुँ।	
+I'm a rich kid.	म एक धनी बच्चा हुँ।	
+I'm only human.	म मान्छे मात्रै हुँ।	
+I'm very angry.	म धेरै रिसाएको छु।	
+Is he sleeping?	के ऊ सुतिरहेको छ?	
+It was raining.	पानी परिरहेको थियो।	
+Leave me alone!	मलाई एक्लै छाडिदेउ!	
+Let's be clear.	प्रष्ट होऔं।	
+Let's be clear.	प्रष्ट बनौं।	
+Let's hurry up.	हतार गरौं।	
+Many fish died.	धेरै माछा मरे।	
+My name is Tom.	मेरो नाम टम हो।	
+Shall we begin?	सुरु गरौँ कि?	
+Shall we begin?	सुरु गरौँ त?	
+Shall we begin?	श्रीगणेश गरौँ त?	
+Shall we start?	सुरु गरौँ कि?	
+Shall we start?	सुरु गरौँ त?	
+Shall we start?	श्रीगणेश गरौँ त?	
+She is dieting.	उनी डाइटिङ गरिरहेकी छिन् ।	
+This is a book.	यो पुस्तक हो।	
+Tom apologized.	टमले माफी मागे।	
+Tom apologized.	टमले माफी माग्यो।	
+Tom hated Mary.	टम मेरीलाई घृणा गर्थ्यो।	
+Tom hated this.	टमले यसलाई घृणा गर्यो।	
+Tom hates bugs.	टमले किराहरूलाई घृणा गर्छ।	
+Tom is my name.	टम मेरो नाम हो।	
+Tom is talking.	टम बोल्दै छ।	
+Tom seems nice.	टम राम्रो देखिन्छ।	
+Tom wore a cap.	टमले टोपी लगाएको थियो।	
+Tom wore jeans.	टमले जिन्स लगाएका थिए।	
+Tom's not sick.	टम बिरामी छैन।	
+We are cousins.	हामी दाजुभाइ हौं।	
+We are doctors.	हामी डाक्टर हौं।	
+What can I eat?	म के खान सक्छु?	
+What can I eat?	मैले के खादा राम्रो हुन्छ?	
+What do I need?	मलाई के चाहिन्छ?	
+Are you a local?	के तपाइँ स्थानीय हुनुहुन्छ?	
+Are you chicken?	तपाई कुखुरा हो?	
+Did Tom ask you?	के टमले तिमीलाई सोध्यो?	
+Good night, Dad.	शुभ रात्रि, बुबा।	
+Good night, Tom.	शुभ रात्रि, टम।	
+He bought a hat.	उसले टोपी किन्यो।	
+He is unmarried.	उनी अविवाहित छन् ।	
+He is unmarried.	उहाँ अविवाहित हुनुहुन्छ ।	
+He is unmarried.	ऊ अविवाहित छ।	
+How old are you?	तपाई कति बर्सको हुनु भयो ?	
+I am a Japanese.	म जापानी हुँ।	
+I decided to go.	मैले जाने निर्णय गरें।	
+I eat chocolate.	म चकलेट खान्छु।	
+I live in Japan.	म जापानमा बस्छु।	
+I live in Tokyo.	म टोकियोमा बस्छु।	
+I want a friend.	मलाई एउटा साथी चाहियो।	
+I was listening.	म सुनिरहेको थिएँ।	
+I was suspended.	मलाई निलम्बन गरिएको थियो ।	
+I went for help.	म मद्दतको लागि गएँ।	
+I went shopping.	म किनमेल गर्न गए।	
+I went upstairs.	म माथितिर गएँ।	
+I will continue.	म जारी राख्छु।	
+I will stop Tom.	म टमलाई रोक्नेछु।	
+I'm the skipper.	म कप्तान हुँ।	
+I'm very hungry.	मलाई धेरै भोक लागेको छ।	
+Is Tom sleeping?	के टम सुतिरहेको छ?	
+It's not broken.	यो तोडिएको छैन।	
+It's not broken.	यो फुटेको छैन।	
+It's not enough.	यो पर्याप्त छैन।	
+Merry Christmas!	क्रिसमसको शुभकामना!	
+My laptop broke.	मेरो ल्यापटप फुट्यो।	
+Please fix this.	कृपया यसलाई ठीक गर्नुहोस्।	
+Tom abused Mary.	टमले मेरीलाई दुर्व्यवहार गरे।	
+Tom became rich.	टम धनी भयो।	
+Tom can't go in.	टम भित्र जान सक्दैन।	
+Tom is friendly.	टम मिलनसार छ।	
+Tom is my rival.	टम मेरो प्रतिद्वन्द्वी हो।	
+Tom is speaking.	टम बोल्दै छ।	
+Tom is talented.	टम प्रतिभाशाली छ।	
+Tom lived alone.	टम एक्लै बस्थे।	
+Tom looked lost.	टम हराएको देखिन्थ्यो।	
+Tom loves ramen.	टमलाई रामेन मनपर्छ।	
+Tom passed away.	टमको मृत्यु भयो।	
+Tom was a drunk.	टम एक मातेको थियो।	
+Tom was elderly.	टम वृद्ध थिए।	
+Tom will accept.	टमले स्वीकार गर्नेछ।	
+We are brothers.	हामी दाजुभाइ हौं।	
+We are students.	हामी विद्यार्थी हौँ ।	
+We are teachers.	हामी शिक्षक हौं।	
+We need capital.	हामीलाई पुँजी चाहिन्छ ।	
+We'll stay here.	हामी यहाँ बस्नेछौ।	
+Where can I eat?	म कहाँ खान सक्छु?	
+Where did he go?	ऊ कहाँ गयो?	
+Where did he go?	उनी कहाँ गए?	
+Who are you all?	को हौ तिमीहरु सबै?	
+Who are you all?	तिमीहरु सबै को हौ?	
+Who did Tom ask?	टमले कसलाई सोध्यो?	
+Who is this Tom?	यो टम को हो?	
+Answer the phone.	फोन उठाउनुहोस्।	
+Are you a banker?	तपाईं बैंकर हुनुहुन्छ?	
+Are you a couple?	के तपाईहरू जोडी हुनुहुन्छ?	
+Are you a townie?	के तपाई शहरवासी हुनुहुन्छ?	
+Are you stopping?	के तपाइँ रोकिदै हुनुहुन्छ?	
+Can I dance here?	के म यहाँ नाच्न सक्छु?	
+Don't talk to me.	मसँग कुरा नगर।	
+Drink more water.	धेरै पानी पिउनुहोस्।	
+He is delightful.	उहाँ रमाईलो हुनुहुन्छ।	
+He is overweight.	उनको तौल बढी छ ।	
+He is overweight.	उसको तौल बढी छ ।	
+He is unsociable.	ऊ मिलनसार छैन ।	
+He was born dumb.	उनी मुर्ख जन्मेका थिए ।	
+He was born rich.	उनी जन्मिदा खेरि नै धनि हुन्।	
+He's not serious.	उनी गम्भीर छैनन्।	
+I am a foreigner.	म एक विदेशी हुँ।	
+I am a professor.	म प्राध्यापक हुँ।	
+I am eating rice.	म भात खाँदै छु ।	
+I am from Brazil.	म ब्राजिलबाट हुँ।	
+I am truly sorry.	मलाई माफ गर्नुहोस्।	
+I can't beat Tom.	म टमलाई हराउन सक्दिन।	
+I can't beat Tom.	म टमलाई जित्न सक्दिन।	
+I can't eat rice.	म भात खान सक्दिन।	
+I don't eat beef.	म गाईको मासु खाँदिन।	
+I don't eat beef.	म गाईको मासु खान्न।	
+I don't eat rice.	म भात खान्न।	
+I don't know her.	म तिनलाई चिन्दिन।	
+I drink a little.	म अलिकति पिउँछु ।	
+I drink tea, too.	म पनि चिया पिउँछु ।	
+I drink to relax.	म आराम गर्न पिउँछु।	
+I eat everything.	म सबै खान्छु।	
+I eat vegetables.	म तरकारी खान्छु।	
+I have to go out.	म बाहिर जानु पर्छ।	
+I hear something.	म केहि सुन्छु।	
+I like pop music.	मलाई पप गीत मन पर्छ।	
+I live near here.	म यहाँ नजिकै बस्छु।	
+I love egg yolks.	मलाई अण्डाको पहेलो भाग मन पर्छ।	
+I miss you a lot.	मलाई तिम्रो धेरै याद आइरहेको छ।	
+I miss you badly.	मलाई तिम्रो धेरै याद आइरहेको छ।	
+I saw Tom crying.	मैले टम रोइरहेको देखें।	
+I was born there.	म त्यहीँ जन्मिएँ ।	
+I was very upset.	म निकै उदास थिएँ ।	
+I wasn't careful.	म सचेत थिइनँ।	
+I will translate.	म अनुवाद गर्छु।	
+I'm OK with that.	म त्यो संग ठीक छु।	
+I'm middle class.	म मध्यमवर्गीय हुँ।	
+I'm not creative.	म रचनात्मक छुइन।	
+I'm not on drugs.	म लागुऔषध मा छैन।	
+I'm not so brave.	म त्यति बहादुर छैन।	
+I'm not sure yet.	म अझै पक्का छैन।	
+I'm off tomorrow.	म भोलि बिदामा छु।	
+I'm on your side.	म तिमीलाई समर्थन गर्छु।	
+I'm out of ideas.	म बिचारबाट बाहिर छु।	
+I'm out of shape.	मेरो आकार छैन।	
+I'm out of sugar.	मेरो चिनी सकिएको छ।	
+I'm the youngest.	म सबैभन्दा कान्छो हुँ।	
+I'm the youngest.	म सबैभन्दा कान्छी हुँ।	
+I've been stupid.	म मुर्ख भएको छु।	
+Is Tom here, too?	के टम पनि यहाँ छ?	
+Nice to meet you.	तपाईँलाई भेटेर खुशी लाग्यो।	
+People are dying.	मानिसहरु मरिरहेका छन् ।	
+People are dying.	मान्छे मरिरहेका छन् ।	
+Respect yourself.	आफैलाई सम्मान गर्नुहोस्।	
+She is beautiful.	उनी सुन्दर छिन्।	
+She loves coffee.	उनलाई कफी मन पर्छ।	
+Stay for a while.	केही बेर बस्नुहोस्।	
+Stop annoying me.	मलाई कष्ट दिन बन्द गर्नुहोस्।	
+The sea was calm.	समुद्र शान्त थियो।	
+The work is done.	काम सकियो।	
+There's a plan B.	त्यहाँ योजना बी छ।	
+They like French.	तिनीहरू फ्रान्सेली मन पराउँछन्।	
+This TV is heavy.	यो टिभी भारी छ।	
+This is our team.	यो हाम्रो टोली हो।	
+Tom bought a gun.	टमले बन्दुक किन्यो।	
+Tom felt amazing.	टमलाई अचम्म लाग्यो।	
+Tom is in heaven.	टम स्वर्गमा छ।	
+Tom is obnoxious.	टम अपमानजनक छ।	
+Tom is so strong.	टम एकदमै बलियो छ।	
+Tom laughs a lot.	टम धेरै हाँस्छन्।	
+Tom will be over.	टम समाप्त हुनेछ।	
+Tom wouldn't cry.	टम रुने थिएन।	
+Use a calculator.	क्याल्कुलेटर प्रयोग गर्नुहोस्।	
+We just got here.	हामी भर्खरै यहाँ आइ पुग्यौं।	
+What did Tom add?	टमले के थप्यो?	
+What did Tom ask?	टमले के सोधे?	
+What did Tom use?	टमले के प्रयोग गरेको थियो?	
+What did you say?	तपाईले के भन्नु भयो ?	
+Which is correct?	कुन सहि हो?	
+Who cares anyway?	जे भए पनि कसले वास्ता गर्छ?	
+You sound bitter.	तिमी तितो सुनिन्छौ।	
+Are they Japanese?	के ती मानिसहरू जापानी हुन्?	
+Did you draw that?	के तपाईंले त्यो चित्र बनाउनुभएको हो ?	
+Do you have a car?	के तपाईसँग कार छ?	
+Do you have plans?	के तपाईंसँग योजनाहरू छन्?	
+He called my name.	उसले मेरो नाम बोलायो।	
+He is influential.	उहाँ प्रभावशाली हुनुहुन्छ।	
+His eyes are blue.	उसका आँखा नीलो छन्।	
+How was your trip?	तपाइँको यात्रा कस्तो रह्यो?	
+I am 19 years old.	म १९ वर्षको भएँ।	
+I am 19 years old.	म १९ वर्षको हुँ ।	
+I am a translator.	म एक अनुवादक हुँ।	
+I danced with Tom.	मैले टमसँग नाचें।	
+I decided to stay.	मैले बस्ने निर्णय गरें।	
+I decided to wait.	मैले पर्खने निर्णय गरें।	
+I didn't eat rice.	मैले भात खाइनँ ।	
+I didn't get paid.	मैले तलब पाएको छैन।	
+I don't want them.	म तिनीहरूलाई चाहन्न।	
+I drink to forget.	म बिर्सनका लागि पिउँछु ।	
+I enjoy what I do.	म जे गर्छु त्यसमा रमाउछु।	
+I have a headache.	मेरो टाउको दुखेको छ।	
+I have no friends.	मेरा कोही साथी छैनन्।	
+I haven't decided.	मैले निर्णय गरेको छैन।	
+I know Tom is mad.	मलाई थाहा छ टम पागल छ।	
+I like sandwiches.	मलाई स्यान्डविच मन पर्छ।	
+I live in comfort.	म आराममा बस्छु ।	
+I love this store.	मलाई यो स्टोर मन पर्छ।	
+I read everything.	म सबै पढ्छु।	
+I read everything.	मैले सबै पढे।	
+I said good night.	मैले शुभ रात्रि भने ।	
+I want a daiquiri.	म एक डाईक्वरी चाहन्छु।	
+I was hurt by Tom.	टमले मलाई चोट पुर्यायो।	
+I went downstairs.	म तलतिर गएँ।	
+I will do my best.	म सक्दो प्रयास गर्नेछु।	
+I'm a bit worried.	म अलि चिन्तित छु।	
+I'm a taxi driver.	म ट्याक्सी चालक हुँ।	
+I'm having a baby.	म बच्चा जन्माउँदै छु।	
+I'm really hungry.	मलाई धेरै भोक लागेको छ।	
+Is that person OK?	के त्यो मान्छे ठीक छ?	
+It could be risky.	यो जोखिमपूर्ण हुन सक्छ।	
+It was a hard day.	त्यो एक कठिन दिन थियो।	
+It's a risky plan.	यो एक जोखिमपूर्ण योजना हो।	
+It's not that far.	यो त्यति टाढा छैन।	
+Let's eat dessert.	मिठाई, खाऔं।	
+Let's take a look.	एक पटक हेरौं।	
+Please come again.	कृपया फेरि आउनुहोस्।	
+Please come again.	कृपया फेरि आउनुहोला।	
+Please correct it.	कृपया यसलाई सच्याउनुहोस्।	
+Please keep quiet.	कृपया शान्त रहनु होला।	
+Please stop lying.	कृपया झूट बोल्न बन्द गर्नुहोस्।	
+She is aggressive.	उनी आक्रामक छिन्।	
+She is attractive.	उनी आकर्षक छिन्।	
+Take one of these.	यी मध्ये एक लिनुहोस्।	
+Tell me about Tom.	मलाई टमको बारेमा बताउनुहोस्।	
+Tell them to stop.	तिनीहरूलाई रोक्न भन्नुहोस्।	
+Thank you so much.	धेरै धेरै धन्यवाद।	
+That's a big deal.	त्यो ठूलो कुरा हो।	
+The bus just left.	बस भर्खरै छुट्यो।	
+This hat is yours.	यो टोपी तिम्रो हो।	
+This is my choice.	यो मेरो रोजाई हो।	
+Tom became cranky.	टम पागल भयो।	
+Tom bought a coat.	टमले कोट किने।	
+Tom bought a coat.	टमले कोट किन्यो।	
+Tom can't come in.	टम भित्र आउन सक्दैन।	
+Tom disliked Mary.	टम मेरीलाई घृणा गर्थ्यो।	
+Tom disliked Mary.	टम मेरीलाई मन परौउँदैन थियो।	
+Tom isn't certain.	टम निश्चित छैन।	
+Tom lit the stove.	टमले चुलो बाल्यो।	
+Tom lit the stove.	टमले चुलोमा आगो बाल्यो।	
+Tom scored a goal.	टमले गोल गरे !	
+Tom used to smoke.	टम धुम्रपान गर्थे।	
+Tom was in heaven.	टम स्वर्गमा थियो।	
+Tom was very cold.	टम धेरै चिसो थियो।	
+Two beers, please.	कृपया, दुईवटा बियर।	
+We are classmates.	हामी सहपाठी हौं।	
+We waited outside.	हामी बाहिर पर्ख्यौं।	
+Were you truthful?	के तपाई सत्यवादी हुनुहुन्थ्यो?	
+What is your name?	तिम्रो नाम के हो?	
+When was she born?	उनी कहिले जन्मिइन् ?	
+Where was he born?	उ कहाँ जन्मेको थियो?	
+Who is Tom anyway?	जे भए पनि टम को हो?	
+Who is Tom really?	टम साँच्चै को हो?	
+Who is Tom to you?	तपाईको लागि टम को हो?	
+Who's at the door?	ढोकामा को छ?	
+You have no proof.	तपाईंसँग कुनै प्रमाण छैन।	
+You have no proof.	तिमिसँग कुनै प्रमाण छैन।	
+You look very sad.	तिमी धेरै दुःखी देखिन्छौ।	
+You look very sad.	तिमी धेरै उदास देखिन्छौ।	
+You need to sleep.	तपाईंले सुत्नु पर्छ।	
+A lot of fish died.	धेरै माछा मरे।	
+Are you colleagues?	के तपाई सहकर्मी हुनुहुन्छ?	
+Bananas are yellow.	केरा पहेंलो हुन्छ।	
+Can we do it again?	के हामी यसलाई फेरि गर्न सक्छौं?	
+Happy Father's Day!	बुबाको दिनको शुभकामना!	
+Happy Father's Day!	बुवा दिवसको शुभकामना।	
+He enjoyed cycling.	उसलाई साइकल चलाउन रमाइलो लग्यो।	
+He is always right.	उहाँ सधैं सही हुनुहुन्छ।	
+He is always right.	ऊ सधैं सही छ।	
+Hi, how's it going?	नमस्ते, कस्तो भइरहेको छ?	
+How is your sister?	तिम्री बहिनीलाई कस्तो छ?	
+How smart are they?	तिनीहरू कत्तिको बाठा छन्?	
+I climbed Mt. Fuji.	मैले माउन्ट फुजी चढेँ।	
+I dance quite well.	म एकदम राम्रो नृत्य गर्छु।	
+I decided the same.	मैले पनि त्यही निर्णय गरें ।	
+I drive everywhere.	जताततै गाडी चलाउँछु।	
+I had a bad moment.	म सँग नराम्रो क्षण थियो।	
+I like disco music.	मलाई डिस्को संगीत मन पर्छ।	
+I like this guitar.	मलाई यो गिटार मनपर्छ।	
+I like this guitar.	मलाई यो गितार मनपर्छ।	
+I love Korean food.	मलाई कोरियन खाना मन पर्छ।	
+I love Korean food.	कोरियन खाना मन पर्छ।	
+I love Korean food.	कोरियाको खाना मन पर्छ।	
+I love Korean food.	कोरियाको खानेकुरा मन पर्छ।	
+I need to exercise.	मलाई व्यायाम गर्न आवश्यक छ।	
+I teach Tom French.	म टमलाई फ्रेन्च सिकाउँछु।	
+I think he is sick.	मलाई लाग्छ उहाँ बिरामी हुनुहुन्छ।	
+I think he is sick.	मलाई लाग्छ ऊ बिरामी छ।	
+I think he's happy.	मलाई लाग्छ ऊ खुसी छ।	
+I told Tom to wait.	मैले टमलाई पर्खन भनें।	
+I went sightseeing.	म घुम्न गएँ ।	
+I went windsurfing.	म हावा खान गएँ।	
+I'm glad it's over.	यो सकिएकोमा म खुसी छु।	
+I'm not courageous.	म साहसी छुइन।	
+Is this a sentence?	के यो वाक्य हो?	
+Is this room Tom's?	के यो टमको कोठा हो?	
+Is this seat taken?	के यो सिटमा मान्छे हुनुहुन्छ?	
+Is this your house?	यो तपाईको घर हो?	
+Is this your house?	यो तिम्रो घर हो?	
+Is this your house?	यो तेरो घर हो?	
+Is this your house?	यो हजुरको घर हो?	
+Keep away from Tom.	टमबाट टाढा रहनुहोस्।	
+Let me rephrase it.	मलाई यसलाई दोहोर्याउन दिनुहोस्।	
+Mt. Fuji is famous.	माउन्ट फुजी प्रसिद्ध छ।	
+My mailbox is full.	मेरो मेलबक्स भरिएको छ।	
+Please call me Tom.	कृपया मलाई टम भन्नुहोस्।	
+Please don't worry.	कृपया चिन्ता नगर्नुहोस्।	
+Please don't worry.	चिन्ता नलिनुहोस्।	
+Please repair this.	कृपया यसलाई ठीक गर्नुहोस्।	
+Please repeat that.	कृपया यसलाई दोहोर्याउनुहोस्।	
+She is unconscious.	उनी बेहोस छिन् ।	
+She is unconscious.	उनी अचेत छिन् ।	
+She threatened him.	उनले उसलाई धम्की दिइन्।	
+She was born lucky.	उनी भाग्यमानी जन्मिएकी थिइन् ।	
+Take off your mask.	मास्क फुकाल्नुहोस्।	
+That's my umbrella.	यो मेरो छाता हो।	
+The cat drank milk.	बिरालोले दूध खायो।	
+The house is empty.	घर खाली छ ।	
+The lamp is broken.	बत्ती बिग्रिएको छ।	
+They can't get out.	तिनीहरू बाहिर निस्कन सक्दैनन्।	
+This apple is sour.	यो स्याउ अमिलो छ।	
+This is a bus stop.	यो बस स्टप हो।	
+This is a bus stop.	यो बस बिसौनी हो।	
+This should be fun.	यो रमाइलो हुनुपर्छ।	
+Tom became violent.	टम हिंस्रक भयो।	
+Tom gave me advice.	टमले मलाई सल्लाह दिए।	
+Tom is a dog lover.	टम एक कुकुर प्रेमी हो।	
+Tom is a zoologist.	टम एक प्राणीशास्त्री हो।	
+Tom is working now.	टम अहिले काम गर्दैछ।	
+Tom left with Mary.	टम मेरीसँग गए।	
+Tom might be bored.	टम बोर भएको हुन सक्छ।	
+Tom probably knows.	सायद टमलाई थाहा छ।	
+Tom probably knows.	सायद टम जान्दछ।	
+Tom writes scripts.	टमले स्क्रिप्टहरू लेख्छन्।	
+Tom, are you there?	टम, तिमी त्यहाँ छौ?	
+We closed our eyes.	हामीले आँखा बन्द गर्यौं ।	
+What do they think?	तिनीहरू के सोच्छन्?	
+What is this thing?	यो के चिज हो?	
+What's Tom cooking?	टमले के पकाउँदै छ?	
+When were you born?	तपाई कहिले जन्मिनुभयो ?	
+Where was Tom born?	टम कहाँ जन्मिएको थियो?	
+Where's Tom anyway?	जे भए पनि टम कहाँ छ?	
+Where's the toilet?	शौचालय कहाँ छ?	
+Who are you anyway?	जे भए पनि तपाई को हुनुहुन्छ?	
+Who are you anyway?	जे भए पनि तिमी को हौ?	
+Who exactly is Tom?	ठ्याक्कै टम को हो?	
+Who is Tom Jackson?	टम ज्याक्सन को हुन्?	
+Who is Tom, anyway?	जे भए पनि, टम को हो?	
+Who's at the wheel?	कसले गाडी चलाउदै छ?	
+Women like to talk.	महिलाहरु कुरा गर्न मन पराउँछन्।	
+You have a message.	तपाईंलाई एउटा सन्देश छ।	
+You're replaceable.	तपाईं प्रतिस्थापन योग्य हुनुहुन्छ।	
+Are you out of work?	के तपाईसंग काम छैन ?	
+Can I eat this cake?	के म यो केक खान सक्छु?	
+Don't cry in public.	सार्वजनिक स्थानमा नरोऊ ।	
+Give Tom this money.	टमलाई यो पैसा दिनुहोस्।	
+Go easy on the wine.	वाइन संयम भएर पिउनुहोस्।	
+Have you ever flown?	के तपाई कहिल्यै उड्नुभएको छ?	
+He seems to be sick.	ऊ बिरामी देखिन्छ।	
+He seems to be sick.	ऊ अस्वस्थ देखिन्छ।	
+How old are you now?	तपाई अहिले कति वर्षको हुनुभयो?	
+How was your winter?	तपाईको जाडो कस्तो रह्यो ?	
+I bought Tom a book.	मैले टमलाई एउटा किताब किनें।	
+I can see a pattern.	म एउटा ढाँचा देख्न सक्छु।	
+I can teach English.	म अंग्रेजी पढाउन सक्छु।	
+I decided not to go.	मैले नजाने निर्णय गरें।	
+I don't like sports.	मलाई खेलकुद मन पर्दैन।	
+I eat a lot of rice.	म धेरै भात खान्छु।	
+I had a pocketknife.	म सँग कर्द थियो।	
+I hate taking notes.	मलाई नोटहरू लिन मन लाग्दैन।	
+I have bad eyesight.	मेरो आँखाको अवस्था ठिक छैन।	
+I have to study now.	मैले अब अध्ययन गर्नुपर्छ।	
+I have to study now.	मैले अब पढ्नुपर्छ।	
+I know Tom's secret.	मलाई टमको गोप्य कुरा थाहा छ।	
+I know when to quit.	कहिले छोड्ने मलाई थाहा छ।	
+I like light colors.	मलाई उज्यालो रंग मन पर्छ।	
+I love Tom and Mary.	म टम र मेरीलाई माया गर्छु।	
+I make €100 a day.	म प्रति दिन एक सय यूरो कमाउँछु।	
+I met Tom at a club.	मैले टमलाई क्लबमा भेटें।	
+I met him yesterday.	मैले हिजो उहाँलाई भेटे।	
+I met him yesterday.	मैले हिजो उनलाई भेटे।	
+I sprang out of bed.	म ओछ्यानबाट निस्किए।	
+I totally forgot it.	मैले पूरै बिर्सें।	
+I want to hear more.	म अझ धेरै सुन्न चाहन्छु।	
+I was hoping to win.	म जित्ने आशामा थिएँ।	
+I will become angry.	म क्रोधित हुनेछु।	
+I won't be defeated.	म पराजित हुने छैन।	
+I would die for you.	म तिम्रो लागि मर्न सक्छु।	
+I'll be coming home.	म घर आउदै छु।	
+I'm drinking coffee.	म कफी पिउदै छु।	
+I'm drinking coffee.	म कफी पिइरहेको छु।	
+I'm dying of hunger.	म भोकले मर्छु जस्तो भयो।	
+I'm eating rice now.	अहिले म भात खादै छु।	
+I'm not competitive.	म प्रतिस्पर्धी छैन।	
+I'm sorry. I forgot.	माफ गर्नुहोस्, मैले बिर्सिएँ।	
+I'm terribly hungry.	मलाई धेरै भोक लागेको छ।	
+I'm truly impressed.	म साँच्चै प्रभावित छु।	
+I'm waiting for him.	म उसलाई पर्खिरहेको छु।	
+I've got a headache.	मेरो टाउको दुखेको छ।	
+Is she your teacher?	के तिनी तिम्रो शिक्षिका हुन्?	
+It's worth the pain.	यो दुख को लायक छ।	
+Let's try something.	केही प्रयास गरौं।	
+Many fish are dying.	धेरै माछा मरिरहेका छन्।	
+Many fish are dying.	धेरै माछाहरु मर्दैछन्।	
+Mary lost her phone.	मेरीले आफ्नो सेल फोन हराईन्।	
+May I drink alcohol?	के म रक्सी पिउन सक्छु?	
+My sister likes Tom.	मेरी बहिनीले टमलाई मन पराउँछिन्।	
+Pleased to meet you.	तपाईँलाई भेटेर खुशी लाग्यो।	
+Say good night, Tom.	शुभ रात्रि भन, टम।	
+See me in my office.	मलाई मेरो कार्यालयमा भेट्नुहोस्।	
+She opened the door.	उनले ढोका खोलिन्।	
+Sit down over there.	त्यहीँ बस।	
+That dress is cheap.	त्यो पोशाक सस्तो छ।	
+That's not a secret.	त्यो गोप्य कुरा होइन।	
+That's not a secret.	त्यो कुनै गोप्य कुरा होइन।	
+They're my students.	तिनीहरू मेरा विद्यार्थी हुन्।	
+This cat is unlucky.	यो बिरालो अभागी छ।	
+This group is smart.	यो समूह चतुर छ।	
+Tom called me a pig.	टमले मलाई सुँगुर भन्यो।	
+Tom chased after me.	टम मेरो पछि पछि लागे।	
+Tom didn't watch TV.	टमले टिभी हेरेनन्।	
+Tom has become rich.	टम धनी भएको छ।	
+Tom has one brother.	टमको एउटा भाइ छ।	
+Tom is not a member.	टम सदस्य होइन।	
+Tom started running.	टम दौडन थाल्यो।	
+Tom stopped himself.	टमले आफैलाई रोक्यो।	
+Tom's gate was open.	टमको गेट खुला थियो।	
+Wait thirty minutes.	३० मिनेट पर्खनुहोस्।	
+We grew up together.	हामी सँगै हुर्क्यौं।	
+We must pay the tax.	हामीले कर तिर्नु पर्छ।	
+What did Tom report?	टमले के रिपोर्ट गरे?	
+What should I drink?	मैले के पिउनु पर्छ?	
+When's Father's Day?	बुबाको मुख हेर्ने दिन कहिले हो?	
+Where is Tom anyway?	जे भए पनि टम कहाँ छ?	
+Where is the toilet?	शौचालय कहाँ छ?	
+Where were you born?	तपाईं कहाँ जन्मनुभएको हो?	
+Where's the station?	स्टेशन कहाँ छ?	
+Who's the lucky one?	भाग्यमानी को हो?	
+Why did you call me?	तिमीले मलाई किन बोलाएको?	
+Why did you call me?	तिमीले मलाई किन फोन गरेको?	
+You have three pens.	तिमीसँग तीनवटा कलम छन्।	
+You have three pens.	तपाईंसँग तीनवटा कलम छन्।	
+You must be kidding!	तपाईंले मजाक गरेको हुनु पर्छ!	
+You've got to hurry.	तिमीले हतार गर्नुपर्छ।	
+You've got to hurry.	हतार गर्नु पर्यो।	
+Are you a couple now?	के तपाईहरू अहिले जोडी हुनुहुन्छ?	
+Are you disappointed?	के तपाई निराश हुनुहुन्छ?	
+Are you going anyway?	तपाईं जे भए पनि जाँदै हुनुहुन्छ?	
+Are you unhappy, Tom?	के तिमी दुखी छौ, टम?	
+Both men were killed.	दुबै जना मारिएका थिए।	
+Can I ask what it is?	के म सोध्न सक्छु कि यो के हो?	
+Can I ask what it is?	म सोध्न सक्छु यो के हो?	
+Can I eat everything?	के म सबै खान सक्छु?	
+Can I eat this bread?	के म यो रोटी खान सक्छु?	
+Can plants feel pain?	के बिरुवाहरूले पीडा महसुस गर्न सक्छन्?	
+Change is inevitable.	परिवर्तन अपरिहार्य छ।	
+Do you have a secret?	के तपाईसँग गोप्य कुरा छ?	
+Do you have a secret?	के तिमीसँग गोप्य कुरा छ?	
+Do you have any food?	के तपाइँसँग कुनै खाना छ?	
+Do you know this man?	के तपाई यो मान्छे लाई चिन्नुहुन्छ?	
+Good night, everyone!	सबैलाई शुभ रात्री!	
+He doesn't like fish.	उसलाई माछा मन पर्दैन।	
+He got off the train.	ऊ रेलबाट ओर्लियो।	
+How is this my fault?	यो मेरो गल्ती कसरी भयो ?	
+How old are you, Tom?	तपाईं कति वर्षको हुनुहुन्छ, टम?	
+How old are you, Tom?	तिम्रो उमेर कति भयो , टम?	
+I am afraid of dying.	म मृत्युसँग डराउँछु।	
+I am terribly hungry.	मलाई धेरै भोक लागेको छ।	
+I bet I finish first.	म शर्त गर्छु कि म पहिले समाप्त गर्छु।	
+I borrowed Tom's car.	मैले टमको कार उधारो लिएँ।	
+I don't like vinegar.	मलाई भिनेगर मन पर्दैन।	
+I eat rice every day.	म हरेक दिन भात खान्छु।	
+I have poor eyesight.	मेरो आँखाको अवस्था ठिक छैन।	
+I hear a dog barking.	मैले कुकुर भुकिरहेको सुन्छु।	
+I know Tom is active.	मलाई थाहा छ टम सक्रिय छ।	
+I know Tom's brother.	म टमको भाइलाई चिन्छु।	
+I know life is short.	मलाई थाहा छ जीवन छोटो छ।	
+I like bright colors.	मलाई उज्यालो रंग मन पर्छ।	
+I made a big mistake.	मैले ठूलो गल्ती गरें।	
+I miss you very much.	मलाई तिम्रो धेरै याद आइरहेको छ।	
+I need to rent a car.	मलाई एउटा कार भाडामा लिनु पर्ने छ।	
+I prefer to be alone.	म एक्लै बस्न रुचाउँछु।	
+I think you're wrong.	मलाई लाग्छ तपाईं गलत हुनुहुन्छ।	
+I was in a good mood.	म राम्रो मुडमा थिएँ।	
+I was in a good mood.	मेरो मुड राम्रो थियो।	
+I went to that party.	म त्यो पार्टीमा गएको थिएँ।	
+I won't let Tom down.	म टमलाई निराश पार्ने छैन।	
+I'd like to be alone.	म एक्लै बस्न चाहन्छु।	
+I'm glad to help you.	म तपाईंलाई मद्दत गर्न पाउँदा खुसी छु।	
+I'm glad to meet you.	तपाईँलाई भेटेर खुशी लाग्यो।	
+I'm not conservative.	म रूढीवादी होइन।	
+I'm not good-looking.	म हेर्दा राम्रो छैन।	
+I'm not middle class.	म मध्यमवर्गीय होइन।	
+I'm still doing that.	म अझै पनि त्यही गरिरहेको छु।	
+It could be exciting.	यो रोमाञ्चक हुन सक्छ।	
+It felt like an hour.	एक घण्टाजस्तो लाग्यो ।	
+It makes you curious.	यसले तपाईंलाई जिज्ञासु बनाउँछ।	
+It was hot yesterday.	हिजो गर्मी थियो।	
+It's made of leather.	यो छालाबाट बनेको हो।	
+It's too much for me.	यो मेरो लागि धेरै छ।	
+It's too much for me.	यो मेरो लागि अति नै छ।	
+Let me handle things.	मलाई कुराहरू सम्हाल्न दिनुहोस्।	
+Let's face the facts!	तथ्यहरूको सामना गरौं!	
+May I dance with you?	के म तिमी संग नाच्न सक्छु?	
+My birthday is today.	मेरो जन्मदिन आज हो ।	
+My name isn't listed.	सूचीमा मेरो नाम छैन।	
+My name's not listed.	सूचीमा मेरो नाम छैन।	
+No one is that lucky.	त्यस्तो भाग्यमानी कोही छैन ।	
+Put it on Tom's desk.	यसलाई टमको डेस्कमा राख्नुहोस्।	
+Put it on Tom's desk.	यसलाई टमको डेस्कमा राख।	
+She has a kind heart.	उनीसँग दयालु हृदय छ।	
+Show me your ID card.	आफ्नो आईडी कार्ड देखाउ।	
+That isn't practical.	त्यो व्यावहारिक छैन।	
+Today is my birthday.	आज मेरो जन्मदिन हो।	
+Tom climbed Mt. Fuji.	टम माउन्ट फुजी चढे।	
+Tom climbed Mt. Fuji.	टम माउन्ट फुजी चढ्यो।	
+Tom doesn't trust us.	टमले हामीलाई विश्वास गर्दैन।	
+Tom fixed my bicycle.	टमले मेरो साइकल बनाईदियो ।	
+Tom has to get ready.	टम तयार हुनुपर्छ।	
+Tom is a dog trainer.	टम एक कुकुर प्रशिक्षक हो।	
+Tom is a naughty boy.	टम एक शरारती केटो हो।	
+Tom is my first name.	टम मेरो पहिलो नाम हो।	
+Tom is only thirteen.	टम मात्र तेह्र वर्षको छ।	
+Tom knew I was tired.	टमलाई म थाकेको थाहा थियो।	
+Tom knows how to win.	टमलाई कसरी जित्ने थाहा छ।	
+Tom made fun of Mary.	टमले मेरीको मजाक उडाए।	
+Tom made fun of Mary.	टमले मेरीको मजाक उडायो।	
+Tom needed your help.	टमलाई तपाईंको मद्दत चाहिएको थियो।	
+Tom proved otherwise.	टमले अन्यथा प्रमाणित गरे।	
+Tom really likes you.	टमले तिमीलाई साँच्चै मन पराउँछ।	
+Tom sat on the table.	टम टेबलमा बस्यो।	
+Tom scared everybody.	टमले सबैलाई डराए।	
+Tom scared everybody.	टमले सबैलाई डराएको थियो।	
+Tom started vomiting.	टमले बान्ता गर्न थाल्यो।	
+Tom stole everything.	टमले सबै कुरा चोर्यो।	
+Tom washed both cars.	टमले दुबै कारहरू धोए।	
+Tom watched in shock.	टमले स्तब्ध भएर हेर्यो।	
+Tom, how old are you?	टम, तिम्रो उमेर कति भयो ?	
+We're serious people.	हामी गम्भीर मानिसहरू हौं।	
+What are you washing?	के धुँदै हुनुहुन्छ?	
+What are you washing?	तपाई के धुँदै हुनुहुन्छ?	
+What are your duties?	तिम्रा कर्तव्यहरु के के छन् ?	
+What is bullfighting?	बुलफाइटिंग भनेको के हो?	
+What is bullfighting?	गोरु जुदाई भनेको के हो?	
+What was Tom wearing?	टमले के लगाएको थियो?	
+What's that building?	त्यो भवन के हो?	
+Where's the restroom?	शौचालय कहाँ छ?	
+Where's your brother?	तपाइको भाई कहाँ हुनुहुन्छ?	
+Why aren't they here?	तिनीहरू यहाँ किन छैनन्?	
+You must be so angry.	तपाई धेरै रिसाएको हुनुपर्छ।	
+Am I imagining things?	के म चीजहरूको कल्पना गर्दैछु?	
+Are you in a bad mood?	के तपाई खराब मुडमा हुनुहुन्छ?	
+Can you fix my laptop?	के तपाईं मेरो ल्यापटप ठीक गर्न सक्नुहुन्छ?	
+Can you fix my laptop?	के तपाईं मेरो ल्यापटप बनाउन सक्नुहुन्छ?	
+Can you identify that?	के तपाईं त्यो पहिचान गर्न सक्नुहुन्छ?	
+Can you send it to me?	के तपाईं मलाई पठाउन सक्नुहुन्छ?	
+Did you hear the bell?	घण्टीको आवाज सुन्नु भयो?	
+Did you hear the bell?	घण्टीको आवाज सुन्यौ?	
+Do you pray every day?	के तपाईं हरेक दिन प्रार्थना गर्नुहुन्छ?	
+He has a Japanese car.	उहाँसँग जापानी कार छ।	
+He has a Japanese car.	ऊसँग जापानी कार छ।	
+He has a large family.	उहाँको ठूलो परिवार छ ।	
+He has a large family.	उसको ठूलो परिवार छ।	
+His car has no wheels.	उसको कारमा पाङ्ग्रा छैनन्।	
+I can write very fast.	म धेरै छिटो लेख्न सक्छु।	
+I can't bear the pain.	म पीडा सहन सक्दिन।	
+I can't eat that food.	म त्यो खान सक्दिन।	
+I chose the wrong one.	मैले गलत रोजेँ।	
+I hated history class.	म इतिहासको कक्षालाई घृणा गर्थे।	
+I have a grammar book.	मसित व्याकरणको किताब छ​।	
+I haven't decided yet.	मैले अझै निर्णय गरेको छैन।	
+I know I've been shot.	मलाई गोली लागेको थाहा छ।	
+I liked what you said.	तपाईले भनेको कुरा मलाई मन पर्यो।	
+I liked what you said.	तिमीले भनेको कुरा मलाई मन पर्यो।	
+I must do that anyway.	मैले जसरी पनि त्यो गर्नुपर्छ।	
+I need you by my side.	मलाई तिम्रो साथ चाहिन्छ।	
+I often work with Tom.	म प्राय टमसँग काम गर्छु।	
+I ran toward the door.	म ढोकातिर दौडिए ।	
+I remember this place.	म यो ठाउँ सम्झन्छु।	
+I remember this place.	मलाई यो ठाउँ याद छ।	
+I want to be like you.	म तिमी जस्तै बन्न चाहन्छु।	
+I worked hard on that.	त्यसमा मैले कडा मेहनत गरेँ।	
+I'll be there at once.	म तत्कालै त्यहाँ जान्छु।	
+I'll show you my room.	म तिमीलाई मेरो कोठा देखाउँछु।	
+I'm apartment hunting.	म अपार्टमेन्ट खोज्दै छु।	
+I'm not even a member.	म सदस्य पनि होइन ।	
+I'm your new roommate.	म तिम्रो नयाँ रूममेट हुँ।	
+I'm your new roommate.	म तिम्रो नयाँ कोठामा बस्ने साथी हुँ।	
+Is Tom afraid of Mary?	के टम मेरीसँग डराउँछन्?	
+Is sugar good for you?	के तपाईंको लागि चिनी ठिक छ?	
+Is that a real tattoo?	के त्यो वास्तविक ट्याटू हो?	
+It was a nice feeling.	यो एउटा राम्रो अनुभूति थियो।	
+It's causing problems.	यसले समस्या निम्त्याइरहेको छ ।	
+It's not raining hard.	ठुलो पानी परेको छैन।	
+Just don't go outside.	बस बाहिर नजानुहोस्।	
+Let's buy some apples.	केही स्याउ किनौं।	
+Let's do this quietly.	चुपचापसंग गरौं।	
+May I use your toilet?	के म तिम्रो शौचालय प्रयोग गर्न सक्छु?	
+Please take your time.	कृपया आफ्नो समय लिनुहोस्।	
+Supplies are very low.	आपूर्ति धेरै कम छ।	
+Tell Tom what that is.	टमलाई भन्नुहोस् कि त्यो के हो।	
+Thanks for the cookie.	कुकीज को लागी धन्यवाद।	
+That book is sold out.	त्यो पुस्तक बिक्री भइसकेको छ।	
+That isn't a bad idea.	त्यो नराम्रो विचार होइन।	
+That must be exciting.	त्यो रोमाञ्चक हुनुपर्छ।	
+That's Tom's daughter.	ति टमकी छोरी हुन्।	
+The bus has just left.	बस भर्खरै छुट्यो।	
+The moon has come out.	चन्द्रमा निस्किसकेको छ ।	
+There was a thick fog.	त्यहाँ बाक्लो कुहिरो थियो।	
+This is my wife, Mary.	यिनी मेरी श्रीमती मेरी हुन्।	
+This is the wrong key.	यो गलत चाबी हो।	
+This room is for rent.	यो कोठा भाडामा छ।	
+This tea is too sweet.	यो चिया धेरै गुलियो छ।	
+Tom can take anything.	टम जे पनि लिन सक्छ।	
+Tom grabbed the candy.	टमले मिठाई समात्यो।	
+Tom is a fast thinker.	टम एक द्रुत विचारकर्ता हो।	
+Tom is not interested.	टमलाई चासो छैन।	
+Tom is washing dishes.	टम भाँडा धुँदै छ।	
+Tom killed the spider.	टमले माकुरालाई मारे।	
+Tom likes to show off.	टमलाई देखावटी गर्न मनपर्छ।	
+Tom loves apple juice.	टमलाई स्याउको जुस मनपर्छ।	
+Tom put away his toys.	टमले आफ्ना खेलौनाहरू राखे।	
+Tom said he was dying.	टमले भनो कि ऊ मर्दैछ।	
+Tom wanted to succeed.	टम सफल हुन चाहन्थे।	
+Tom was also offended.	टम पनि आक्रोशित थियो।	
+Tom was told about it.	टमलाई यसको बारेमा बताइयो।	
+Tom won't go, will he?	टम जानेछैन, के ऊ जान्छ?	
+We never said goodbye.	हामीले कहिल्यै अलविदा भनेनौं।	
+We'd better get ready.	हामी तयार हुनु राम्रो हुन्छ।	
+We'll go after we eat.	खाना खाइसकेपछि जान्छौं।	
+What did you just say?	भर्खरै के भन्नुभयो?	
+What do ostriches eat?	अस्ट्रिचले के खान्छ?	
+Where can we find you?	हामी तपाईंलाई कहाँ भेट्टाउन सक्छौं?	
+Where is your brother?	तपाइको भाई कहाँ हुनुहुन्छ?	
+Who is that old woman?	ती वृद्धा को हुन्?	
+Whose booklet is that?	त्यो पुस्तिका कसको हो ?	
+Why didn't you answer?	तिमीले जवाफ किन नदिएको ?	
+Why shop there anyway?	जे भए पनि त्यहाँ पसल किन ?	
+Will you let Tom sing?	के तपाइँ टमलाई गाउन दिनुहुनेछ?	
+You're going to be OK.	तपाईं ठीक हुन हुनुहुनेछ।	
+Your mother loves you.	तिम्री आमाले तिमीलाई माया गर्नुहुन्छ।	
+Are you open on Sunday?	के तपाई आइतवार खाली हुनुहुन्छ?	
+Do you know about this?	के तपाईलाई यसको बारेमा थाहा छ?	
+Do you live here alone?	तिमी यहाँ एक्लै बस्छौ?	
+Do you live here alone?	तपाई यहाँ एक्लै बस्नुहुन्छ?	
+Do you live here alone?	त यहाँ एक्लै बस्छस्?	
+Don't skip classes, OK?	कक्षाहरू नछोड्नुहोस्, ठीक छ?	
+Give me that iron ball.	मलाई त्यो फलामको बल दिनुहोस्।	
+Give me that iron ball.	मलाई त्यो फलामको बल देऊ।	
+I am sixteen years old.	म सोह्र वर्षको भएँ।	
+I am sixteen years old.	म सोह्र वर्षको हुँ।	
+I decided to try again.	मैले पुन: प्रयास गर्ने निर्णय गरें।	
+I decided to try again.	मैले फेरि प्रयास गर्ने निर्णय गरें।	
+I decided to volunteer.	मैले स्वयंसेवक हुने निर्णय गरें।	
+I don't have seniority.	मसँग वरिष्ठता छैन।	
+I drink wine every day.	म हरेक दिन वाइन पिउँछु।	
+I got an A on my essay.	मैले मेरो निबन्धमा ए पाएँ।	
+I hate girls like that.	म त्यस्ता केटीहरूलाई घृणा गर्छु।	
+I kissed Tom yesterday.	मैले हिजो टमलाई चुम्बन गरें।	
+I know Tom is talented.	मलाई थाहा छ टम प्रतिभाशाली छ।	
+I know Tom isn't happy.	मलाई थाहा छ टम खुसी छैन।	
+I must find the answer.	यसको जवाफ मैले खोज्नुपर्छ।	
+I must find the answer.	यसको जवाफ मैले नखोजी हुदैन।	
+I only eat kosher food.	म कोषेर खाना मात्र खान्छु।	
+I only eat kosher food.	म कोषेर खाना बाहेक अरु खन्न।	
+I really appreciate it.	म साँच्चै यसको कदर गर्छु।	
+I think I do good work.	मलाई राम्रो काम गर्छु भन्ने लाग्छ।	
+I went there yesterday.	म हिजो त्यहाँ गएको थिएँ ।	
+I will not be defeated.	म पराजित हुने छैन।	
+I'll pay for it myself.	यसको लागि म आफैं तिर्नेछु।	
+I'm literally starving.	म साँच्चै भोकै छु।	
+I'm not making changes.	म परिवर्तन गरिरहेको छुइन।	
+I'm on my way to Tom's.	म टमको घर जाँदैछु।	
+I'm ready for tomorrow.	म भोलिको लागि तयार छु।	
+I'm sure it isn't true.	म पक्का छु कि यो सत्य होइन।	
+I've got no complaints.	मलाई कुनै गुनासो छैन।	
+Is it a recent picture?	के यो हालको तस्वीर हो?	
+Is it unconstitutional?	के यो असंवैधानिक हो?	
+It was really exciting.	यो साँच्चै रोमाञ्चक थियो।	
+It's snowing here, too.	यहाँ पनि हिउँ परेको छ ।	
+Mosquitoes are insects.	लामखुट्टे किराहरू हुन्।	
+My mother is beautiful.	मेरी आमा सुन्दर हुनुहुन्छ।	
+My wife's name is Mary.	मेरी श्रीमतीको नाम मेरी हो।	
+Please make it cheaper.	कृपया यसलाई सस्तो बनाउनुहोस्।	
+She went to that store.	उनी त्यो पसलमा गइन्।	
+Sometimes that happens.	कहिलेकाहीँ त्यस्तो हुन्छ।	
+Thank you ever so much.	सधैं धेरै धेरै धन्यवाद।	
+Thanks for the cookies.	कुकीज को लागी धन्यवाद।	
+That boy's name is Tom.	त्यो केटाको नाम टम हो।	
+That'll have to change.	त्यो परिवर्तन गर्नुपर्छ।	
+They got into the boat.	तिनीहरू डुङ्गामा चढे।	
+This is so humiliating.	यो धेरै अपमानजनक छ।	
+This tea is too bitter.	यो चिया धेरै तितो छ।	
+Tom and I aren't ready.	टम र म अझै तयार छैनौं।	
+Tom broke his left arm.	टमले आफ्नो देब्रे हात भाँच्यो।	
+Tom damaged the engine.	टमले इन्जिनलाई क्षति पुर्यायो।	
+Tom eats a lot of fish.	टमले धेरै माछा खान्छ।	
+Tom gave Mary a kitten.	टमले मेरीलाई एउटा बिरालोको बच्चा दिए।	
+Tom has a half-brother.	टमको सौतेनी भाइ छ।	
+Tom has exams tomorrow.	टमको भोलि परीक्षाहरु छन्।	
+Tom is my new roommate.	टम मसँग कोठामा बस्ने नयाँ साथी हो।	
+Tom is reluctant to go.	टम जान अनिच्छुक छ।	
+Tom is writing letters.	टमले चिठीहरु लेख्दैछ।	
+Tom makes model planes.	टमले नमुना विमानहरू बनाउँछ।	
+Tom needs an incentive.	टमलाई प्रोत्साहनको आवश्यकता छ।	
+Tom only drinks coffee.	टमले कफी मात्र पिउछ।	
+Tom wants a girlfriend.	टम एक प्रेमिका चाहन्छ।	
+Tom wants a girlfriend.	टम प्रेमिका चाहन्छ।	
+Tom was killed in 2013.	टमको हत्या सन् २०१३ मा भएको थियो ।	
+We knew what to expect.	के आशा गर्ने भन्ने हामीलाई थाहा थियो।	
+We knew what to expect.	हामीलाई के आशा गर्ने थाहा थियो।	
+We walked to the store.	हामी पसलतिर लाग्यौं।	
+We'd better not go now.	हामी अब नजानु राम्रो हुन्छ।	
+We'll meet you outside.	हामी तपाईलाई बाहिर भेट्नेछौं।	
+What do you plan to do?	के गर्ने योजनामा हुनुहुन्छ?	
+What do you want to do?	तिमी के गर्न चाहान्छौ?	
+What do you want to do?	तपाई के गर्न चाहानुहुन्छ?	
+When will you get back?	तिमी कहिले फर्कनेछौ?	
+Who could ask for more?	कसले धेरै माग्न सक्छ?	
+Who is this Tom anyway?	जे भए पनि यो टम को हो?	
+Why don't you eat beef?	तपाई गाईको मासु किन खानु हुन्न ?	
+Wolves have long tails.	ब्वाँसाको पुच्छर लामो हुन्छ।	
+You can eat this fruit.	यो फल खाए पनि हुन्छ।	
+You did very well, Tom.	तिमीले धेरै राम्रो गर्यौ, टम।	
+You won't see me again.	तिमीले मलाई फेरि देख्ने छैनौ।	
+You're a good teammate.	तपाईं एक राम्रो टिममेट हुनुहुन्छ।	
+You're always laughing.	तपाईं सधैं हाँस्नुहुन्छ।	
+You're not very polite.	तिमी धेरै विनम्र छैनौ।	
+You've made your point.	तपाईंले आफ्नो कुरा राख्नुभएको छ।	
+"Who is it?" "It's Tom."	"यो को हो?" "यो टम हो।"	
+A bear can climb a tree.	भालु रूख चढ्न सक्छ।	
+Animals are our friends.	जनावरहरू हाम्रा साथी हुन्।	
+Are you free on Mondays?	के तपाई सोमबार फ्री हुनुहुन्छ?	
+Are you free on Mondays?	के तपाई सोमबार खाली हुनुहुन्छ?	
+Are you willing to help?	के तपाईं मद्दत गर्न इच्छुक हुनुहुन्छ?	
+Ask me something easier.	मलाई केहि सजिलो सोध्नुहोस्।	
+Can you lower the price?	तपाईं मूल्य कम गर्न सक्नुहुन्छ?	
+Could you call me later?	के तपाईंले मलाई पछि कल गर्न सक्नुहुन्छ?	
+Did Tom buy a lot today?	के टमले आज धेरै किनेको छ?	
+Did Tom buy a lot today?	के टमले आज धेरै किन्यो ?	
+Did you buy a new phone?	के तपाईंले नयाँ फोन किन्नु भयो?	
+Do you have cough drops?	के तपाईसँग खोकी को औषधि छ?	
+Do you know what to say?	के तपाईलाई थाहा छ के भन्ने हो?	
+Everything's going well.	सबै कुरा राम्ररी चलिरहेको छ।	
+Exactly how old are you?	ठ्याक्कै तपाईको उमेर कति हो?	
+He is a friendly person.	ऊ मिलनसार व्यक्ति छ।	
+He's writing a book now.	उनी अहिले किताब लेख्दै छन् ।	
+I am eighteen years old.	म अठार वर्षको भएँ।	
+I am eighteen years old.	म अठार वर्षको हुँ।	
+I am not going anywhere.	म कतै जाँदै छैन।	
+I believe I can do that.	मलाई विश्वास छ म त्यो गर्न सक्छु।	
+I collect foreign coins.	म विदेशी मुद्रा सङ्कलन गर्छु।	
+I could hear everything.	म सबै कुरा सुन्न सक्थे।	
+I danced all night long.	म रातभरि नाचिरहेँ ।	
+I didn't know that rule.	मलाई त्यो नियम थाहा थिएन।	
+I don't blame you a bit.	म तिमीलाई अलिकति पनि दोष दिन्न।	
+I drink my coffee black.	म मेरो कफी कालो पिउछु।	
+I have nothing to share.	मसँग बाँड्ने केही छैन ।	
+I know him only by name.	मलाई उहाँको नाम मात्र थाहा छ।	
+I lived in a small town.	म एउटा सानो सहरमा बस्थे।	
+I must admit I like Tom.	मैले मान्नु पर्छ कि म टमलाई मन पराउँछु।	
+I only know him by name.	मलाई उहाँको नाम मात्र थाहा छ।	
+I play soccer every day.	म हरेक दिन फुटबल खेल्छु।	
+I really need your help.	मलाई साँच्चै तपाईंको मद्दत चाहिन्छ।	
+I slowly opened my eyes.	मैले बिस्तारै आँखा खोलेँ।	
+I think Tom is talented.	मलाई लाग्छ कि टम प्रतिभाशाली छ।	
+I think it's a bad idea.	मलाई यो नराम्रो विचार हो जस्तो लाग्छ।	
+I think you're mistaken.	मलाई लाग्छ तपाईं गलत हुनुहुन्छ।	
+I thought Tom was happy.	मैले सोचें कि टम खुसी थिए।	
+I tried again and again.	मैले धेरै पटक प्रयास गरें।	
+I visited Tom in Boston.	म बोस्टनमा टमलाई भेट्न गएँ।	
+I want to wash my hands.	म आफ्नो हात धुन चाहन्छु।	
+I wish to see my father.	म बुबालाई भेट्न चाहन्छु।	
+I'll be your tour guide.	म तिम्रो टुर गाइड हुनेछु।	
+I'll meet you in Boston.	म तिमीलाई बोस्टनमा भेट्नेछु।	
+I'm a woman, not a girl.	म महिला हुँ, केटी होइन।	
+I'm also from Australia.	म पनि अस्ट्रेलिया बाट हुँ ।	
+I'm from Australia, too.	म पनि अस्ट्रेलिया बाट हुँ ।	
+It was nice knowing you.	तिमीलाई चिन्दा राम्रो लाग्यो।	
+It was nice knowing you.	तपाईलाई चिन्न पाउँदा राम्रो लाग्यो।	
+It was nice knowing you.	तपाईलाई चिन्दा राम्रो लाग्यो।	
+It will be hot tomorrow.	भोलि गर्मी हुनेछ ।	
+Look what they're doing.	हेर्नुहोस् तिनीहरू के गर्दैछन्।	
+Make it a little bigger.	अलिक ठूलो बनाउनुहोस्।	
+Make it a little larger.	अलिक ठूलो बनाउनुहोस्।	
+Make it a little louder.	अलिक ठूलो बनाउनुहोस्।	
+Maybe they'll come back.	सायद तिनीहरू फर्केर आउनेछन्।	
+My birthday is tomorrow.	मेरो जन्म दिन भोलि हो।	
+My mother isn't at home.	आमा घरमा हुनुहुन्न।	
+Please keep this secret.	कृपया यसलाई गोप्य राख्नुहोस्।	
+Please show me the list.	कृपया मलाई सूची देखाउनुहोस्।	
+She is as busy as a bee.	उनी मौरी जस्तै व्यस्त छिन्।	
+Sorry for being so late.	धेरै ढिलो भएकोमा माफी चाहन्छु।	
+That was unprofessional.	त्यो अव्यवसायिक थियो।	
+The door was still open.	ढोका अझै खुल्ला थियो।	
+The law is pretty clear.	कानुन एकदमै स्पष्ट छ।	
+The police came quickly.	पुलिस छिट्टै आए।	
+There are no exceptions.	त्यहाँ कुनै अपवाद छैन।	
+This is really exciting.	यो साँच्चै रोमाञ्चक छ।	
+Tom blew out the candle.	टमले मैनबत्ती निभाए।	
+Tom doesn't know French.	टम फ्रान्सेली जान्दैन।	
+Tom is braver than I am.	टम म भन्दा बहादुर छ।	
+Tom is doing all he can.	टमले आफूले सक्ने सबै गरिरहेको छ।	
+Tom is still in the car.	टम अझै कार भित्र छ।	
+Tom is writing a letter.	टमले पत्र लेख्दैछ।	
+Tom is writing a letter.	टमले चिठी लेख्दैछ।	
+Tom is writing a report.	टमले रिपोर्ट लेख्दैछ।	
+Tom left because of you.	टमले तिम्रो कारणले छोड्यो।	
+Tom said he felt lonely.	टमले आफू एक्लो महसुस गरेको बताए।	
+Tom sang a song to Mary.	टमले मेरीको लागि एउटा गीत गाए।	
+Tom says Mary was wrong.	टम भन्छन् कि मेरी गलत थिहिन्।	
+Tom searched everywhere.	टमले जताततै खोज्यो।	
+Tom wants to protect me.	टम मेरो रक्षा गर्न चाहन्छ।	
+Tom was there yesterday.	टम हिजो त्यहाँ थियो।	
+Tom wasn't the youngest.	टम सबैभन्दा कान्छो थिएन।	
+Tom wears a tie to work.	टमले काम गर्न टाई लगाउँछ।	
+We can't live like this.	हामी यसरी बाँच्न सक्दैनौं।	
+We can't stay here long.	हामी यहाँ लामो समय बस्न सक्दैनौ।	
+We discussed what to do.	हामीले के गर्ने भन्ने कुरा गर्यौँ।	
+We don't have snow here.	हामीसँग यहाँ हिउँ छैन।	
+We have to be proactive.	हामी सक्रिय हुनुपर्छ।	
+We locked all the doors.	हामीले सबै ढोकामा ताल्चा लगायौ।	
+We should wait a little.	हामीले थोरै पर्खनुपर्छ।	
+What are we waiting for?	हामी के पर्खिरहेका छौं?	
+What time is it, anyway?	जे होस्, कति बजेको छ?	
+What time will you come?	तिमी कति बजे आउने छौ?	
+What's your wife's name?	तिम्री श्रीमतीको नाम के हो?	
+When's the next meeting?	अर्को बैठक कहिले हुन्छ?	
+Which toe am I touching?	म कुन औंला छुदैछु?	
+Who are you calling for?	तपाई कसलाई बोलाउदै हुनुहुन्छ?	
+Who would notice anyway?	जे भए पनि कसले ध्यान दिने ?	
+Why did Tom do all this?	किन टमले यो सबै गरे?	
+Why did you turn it off?	किन बन्द गर्नुभएको ?	
+You don't know who I am.	तिमीलाई थाहा छैन म को हुँ।	
+You'd better stay quiet.	तपाईं चुप लागेर बस्नु राम्रो हुन्छ।	
+As a rule, I don't drink.	नियमको रूपमा, म पिउँदिन।	
+Bring me a cup of coffee.	मलाई एक कप कफी ल्याउनुहोस्।	
+Can I borrow your hammer?	के म तिम्रो हथौडा उधारो लिन सक्छु?	
+Can't you leave me alone?	के तिमी मलाई एक्लै छोड्न सक्दैनौ?	
+Christmas is almost here.	क्रिसमस आइसकेको छ।	
+Did Tom really kiss Mary?	के टमले साँच्चै मेरीलाई चुम्बन गरेको थियो?	
+Did you see Tom steal it?	के तपाईंले टमले चोरेको देख्नुभयो?	
+Does Tom still play golf?	के टम अझै पनि गल्फ खेल्छन्?	
+How could you think that?	तपाईं कसरी त्येस्तो सोच्न सक्नुहुन्छ?	
+How did you convince Tom?	तपाईंले टमलाई कसरी मनाउनुभयो?	
+How often do you do that?	तपाईं कत्तिको त्यसो गर्नुहुन्छ?	
+How tall is your brother?	तिम्रो भाइ कति अग्लो छ?	
+How tall is your brother?	तिम्रो दाई कति अग्लो हुनुहुन्छ?	
+I deserve to be rewarded.	म पुरस्कृत हुन योग्य छु।	
+I don't eat rice anymore.	म अब भात खान्न।	
+I don't have any regrets.	मलाई कुनै पछुतो छैन।	
+I don't have your number.	मसँग तिम्रो नम्बर छैन।	
+I have a lot of homework.	म संग गृहकार्य धेरै छ।	
+I have the same question.	मेरो पनि एउटै प्रश्न छ।	
+I know what's in the box.	मलाई बक्समा के छ भनेर थाहा छ।	
+I like the bright colors.	मलाई उज्यालो रंग मन पर्छ।	
+I like walking by myself.	म एक्लै हिड्न रुचाउछु।	
+I need a few suggestions.	मलाई केही सुझावहरू चाहिन्छ।	
+I really don't like dogs.	मलाई साँच्चै कुकुरहरू मन पर्दैन।	
+I saw him enter the room.	मैले उसलाई कोठामा पसेको देखेँ।	
+I think Tom is obnoxious.	मलाई लाग्छ टम अपमानजनक छ।	
+I think we can handle it.	मलाई लाग्छ हामी यसलाई सम्हाल्न सक्छौं।	
+I thought it was obvious.	मैले सोचे कि यो स्पष्ट छ।	
+I took care of Tom's cat.	मैले टमको बिरालोको हेरचाह गरें।	
+I want to eat fried rice.	म फ्राइड राइस खान चाहन्छु।	
+I want to go and do that.	म गएर त्यो गर्न चाहन्छु।	
+I'd almost fallen asleep.	म झन्डै निदाएको थिए ।	
+I'll be there right away.	म तुरुन्तै त्यहाँ जान्छु।	
+I'll be there right away.	म तत्कालै त्यहाँ जान्छु।	
+I'll call you right back.	म तिमीलाई तुरुन्तै फोन गर्छु।	
+I'll do whatever you ask.	तपाईले जे सोध्नुहुन्छ म गर्नेछु।	
+I'm not in love with you.	म तिम्रो मायामा छैन।	
+I'm very grateful to you.	म तपाईप्रति धेरै आभारी छु।	
+It didn't seem necessary.	यो आवश्यक देखिएन।	
+It's not difficult to do.	यो गर्न कठिन छैन।	
+It's not difficult to do.	यो गर्नलाई धेरै गाह्रो छैन।	
+It's not difficult to do.	यो त्यति मुस्किल छैन।	
+May I turn off the radio?	के म रेडियो बन्द गर्न सक्छु?	
+May I turn the radio off?	के म रेडियो बन्द गर्न सक्छु?	
+My birthday is next week.	मेरो जन्मदिन अर्को हप्ता हो।	
+My kid brother is twelve.	मेरो भाई १२ वर्षको छ।	
+My list has thirty names.	मेरो लिस्टमा तीस वटा नामहरू छन् ।	
+My mother is not at home.	आमा घरमा हुनुहुन्न।	
+My name is Tom, not John.	मेरो नाम जोन होइन, टम हो।	
+Please turn on the radio.	कृपया रेडियो खोल्नुहोस्।	
+Please water the flowers.	कृपया फूलहरूमा पानी हाल्नुहोस्।	
+Stop being so nice to me.	मसँग यति राम्रो नबन्नुहोस।	
+Take him to the hospital.	उसलाई अस्पताल लैजानुहोस्।	
+Take him to the hospital.	उहाँलाई अस्पताल लैजानुहोस्।	
+Take this to your mother.	यसलाई आमालाई लगेर दिनुहोस्।	
+Ten years is a long time.	दश वर्ष लामो समय हो।	
+That house is very small.	त्यो घर साँच्चै सानो छ।	
+That looks like it hurts.	त्यसले दुख्छ जस्तो लाग्छ।	
+The girl washed her hair.	केटीले आफ्नो कपाल धोइन्।	
+There's been an accident.	त्यहाँ दुर्घटना भएको छ।	
+These flowers are pretty.	यी फूलहरू सुन्दर छन्।	
+This is a very tall tree.	यो एकदमै अग्लो रुख हो।	
+This is a very tall tree.	यो रुख एकदमै अग्लो छ।	
+Tom and Mary are dieting.	टम र मेरी डाइट गर्दै छन्।	
+Tom became quite wealthy.	टम धेरै धनी भए।	
+Tom destroyed everything.	टमले सबै कुरा नष्ट गर्यो।	
+Tom didn't have a ticket.	टमसँग कुनै टिकट थिएन।	
+Tom got a little excited.	टम अलिकति उत्साहित भयो।	
+Tom had a very good time.	टमले धेरै राम्रो समय बिताएको थियो।	
+Tom has a beautiful wife.	टमकि सुन्दर श्रीमती छिन्।	
+Tom has a little brother.	टमको एउटा भाइ छ।	
+Tom is working on it now.	टम अहिले यसमा काम गरिरहेका छ।	
+Tom is working on it now.	टम अहिले यसमा काम गर्दैछ।	
+Tom is working right now.	टम अहिले काम गरिरहेको छ।	
+Tom isn't jealous, is he?	टम ईर्ष्यालु छैन, हो?	
+Tom isn't very important.	टम धेरै महत्त्वपूर्ण छैन।	
+Tom loved helping people.	टम मानिसहरूलाई मद्दत गर्न मन पराउँथे।	
+Tom made a serious error.	टमले गम्भीर गल्ती गर्‍यो।	
+Tom only has one shoe on.	टमले एउटा मात्र जुत्ता लगाएको छ।	
+Tom pulled out his phone.	टमले आफ्नो फोन निकाल्यो।	
+Tom said he felt awkward.	टमले आफूलाई अप्ठ्यारो महसुस भएको बताए।	
+Tom sang a song for Mary.	टमले मेरीको लागि एउटा गीत गाए।	
+Tom says that he's happy.	टम भन्छन् कि उनी खुशी छन्।	
+Tom was faster than Mary.	टम मेरी भन्दा छिटो थियो।	
+Tom was in constant pain.	टम निरन्तर पीडामा थिए।	
+Tom was killed by a bull.	टमलाई गोरुले मारेको थियो।	
+Tom was killed by a bull.	टम गोरुले द्वारा मारिएको थियो।	
+Tom went to Mary's house.	टम मेरीको घर गए।	
+Tom worked at a hospital.	टम अस्पतालमा काम गर्थे।	
+Tom worked at a hospital.	टमले अस्पतालमा काम गरेको थियो।	
+Tomorrow is Father's Day.	भोलि बुबाको मुख हेर्ने दिन हो।	
+Try to eat a little more.	अलि बढी खाने कोसिस गर्नुहोस्।	
+We put on our sunglasses.	हामीले हाम्रो सनग्लास लगायौं।	
+We put our sunglasses on.	हामीले हाम्रो सनग्लास लगायौं।	
+We won't take it anymore.	अब हामी यसलाई लिने छैनौं।	
+What do you use this for?	तपाइँ यो के को लागी प्रयोग गर्नुहुन्छ?	
+What shall we talk about?	हामी के को बारेमा कुरा गर्ने?	
+What's Tom worried about?	टमलाई केको चिन्ता छ?	
+What's Tom's wife's name?	टमकी श्रीमतीको नाम के हो?	
+Where can I buy a ticket?	म कहाँ टिकट किन्न सक्छु?	
+Who is Tom talking about?	टम कसको बारेमा कुरा गर्दै हुनुहुन्छ?	
+Who painted this picture?	यो तस्विर कसले बनाएको हो ?	
+Why is everybody in here?	किन सबैजना यहाँ छन्?	
+Why isn't Tom doing this?	टमले किन यो गरिरहेको छैन?	
+You didn't let me finish.	तपाईंले मलाई पूरा गर्न दिनुभएन।	
+You didn't let me finish.	तिमीले मलाई समाप्त गर्न दिएनौ।	
+You have great potential.	तपाईंसँग ठूलो क्षमता छ।	
+You must answer honestly.	तपाईले इमानदारीपूर्वक जवाफ दिनुपर्छ।	
+You were very convincing.	तपाईं धेरै विश्वस्त हुनुहुन्थ्यो।	
+Your French is excellent.	तपाईंको फ्रान्सेली उत्कृष्ट छ।	
+"Who is this?" "It's Tom."	"यो को हो?" "यो टम हो।"	
+A gentle rain was falling.	हल्का पानी परिरहेको थियो।	
+All those boxes are empty.	ती सबै बक्सहरू खाली छन्।	
+Do you actually like this?	के तपाई साँच्चै यो मनपर्छ?	
+Do you think Tom did that?	के तपाई टमले त्यसो गर्नुभयो जस्तो लाग्छ?	
+Don't look out the window.	झ्यालबाट बाहिर नहेर्नुस्।	
+Don't look out the window.	झ्यालबाट बाहिर नहेर।	
+Have you been lying to me?	के तिमीले मसँग झूट बोलेको छौ ?	
+Have you learned anything?	के तपाईंले केही सिक्नुभयो?	
+Have you learned anything?	के तिमिले केही सिकेउ?	
+Have you learned anything?	के तैले केही सिकिस?	
+Have you seen Tom tonight?	के तपाईंले आज राती टमलाई देख्नुभएको छ?	
+He can run faster than me.	ऊ म भन्दा छिटो कुद्छ।	
+He can run faster than me.	ऊ म भन्दा छिटो कुद्न सक्छ।	
+He helped me fix my watch.	उहाँले मलाई मेरो घडी मिलाउन मद्दत गर्नुभयो।	
+He seems to have been ill.	ऊ बिरामी थियो जस्तो देखिन्छ।	
+He used to be a gentleman.	उहाँ पहिले सज्जन हुनुहुन्थ्यो।	
+He used to be a gentleman.	ऊ पहिले सज्जन थियो।	
+He wants to learn to swim.	उनी पौडी खेल्न सिक्न चाहन्छन्।	
+He wants to learn to swim.	ऊ पौडी खेल्न सिक्न चाहन्छ।	
+How many Santas are there?	त्यहाँ कति सान्ताहरू छन्?	
+How much milk did you buy?	तपाईले कति दुध किन्नु भयो ?	
+I am forever in your debt.	म तिम्रो ऋणमा सदाको लागि छु।	
+I believe that he's happy.	मलाई लाग्छ ऊ खुसी छ।	
+I can't find the rosemary.	म रोजमेरी फेला पार्न सक्दिन।	
+I can't find the rosemary.	मैले रोजमेरी भेट्टाउन सक्दिन।	
+I can't miss that meeting.	म त्यो बैठक छुटाउन सक्दिन।	
+I can't see the price tag.	म मूल्य ट्याग देख्न सक्दिन।	
+I didn't know what to say.	मलाई के भन्ने थाहा थिएन।	
+I don't even want to know.	म जान्न पनि चाहन्न।	
+I don't think I like that.	मलाई लाग्दैन कि मलाई त्यो मनपर्छ।	
+I don't want any crackers.	मलाई कुनै पटाका चाहिदैन।	
+I don't want any pancakes.	मलाई कुनै प्यानकेक चाहिदैन।	
+I don't want any problems.	म कुनै समस्या चाहन्न।	
+I don't want to be killed.	म मारिन चाहन्न।	
+I don't want to die alone.	म एक्लै मर्न चाहन्न।	
+I don't want to fight you.	म तिमीसँग लड्न चाहन्न।	
+I don't want to forget it.	म यसलाई बिर्सन चाहन्न।	
+I don't want to hear that.	म त्यो सुन्न चाहन्न।	
+I don't want to hear this.	म यो सुन्न चाहन्न।	
+I don't want to leave Tom.	म टमलाई छोड्न चाहन्न।	
+I don't want to leave you.	म तिमीलाई छोड्न चाहन्न।	
+I don't want to marry Tom.	म टमसँग बिहे गर्न चाहन्न।	
+I don't want to overreact.	म अति प्रतिक्रिया गर्न चाहन्न।	
+I don't want to shoot you.	म तिमीलाई गोली हान्न चाहन्न।	
+I don't want to sign that.	म त्यसमा हस्ताक्षर गर्न चाहन्न।	
+I don't want to stay here.	म यहाँ बस्न चाहन्न।	
+I don't want to upset you.	म तिमीलाई विचलित गर्न चाहन्न।	
+I don't want you involved.	म तपाईलाई संलग्न गराउन चाहन्न।	
+I don't want you to leave.	म तिमीलाई छोड्न चाहन्न।	
+I don't want you to worry.	म तिमीले चिन्ता गरेको चाहन्न।	
+I don't want your charity.	मलाई तिम्रो परोपकार चाहिदैन।	
+I don't want your opinion.	मलाई तिम्रो राय चाहिदैन।	
+I don't want your opinion.	म तिम्रो राय चाहन्न।	
+I drink tea without sugar.	म चिनी बिनाको चिया पिउँछु ।	
+I have a lot of back pain.	मलाई धेरै ढाड दुख्ने समस्या छ।	
+I heard a good joke today.	मैले आज एउटा राम्रो चुट्किला सुने।	
+I hope I didn't scare Tom.	मलाई आशा छ कि मैले टमलाई डराएको छैन।	
+I just want to find a cab.	म बस एउटा ट्याक्सी खोज्न चाहन्छु।	
+I just want to watch this.	म यो मात्र हेर्न चाहन्छु।	
+I just want you to listen.	म केवल तपाईंले सुनेको चाहन्छु।	
+I know how Tom got strong.	मलाई थाहा छ टम कसरी बलियो भयो।	
+I know that Tom is in bed.	मलाई थाहा छ टम ओछ्यानमा छ।	
+I really liked your story.	मलाई तपाईको कथा साँच्चै मन पर्यो।	
+I really liked your story.	मलाई तिम्रो कथा साँच्चै मन पर्यो।	
+I really want to help you.	म साँच्चै तपाईंलाई मद्दत गर्न चाहन्छु।	
+I really want to meet Tom.	म साँच्चै टमलाई भेट्न चाहन्छु।	
+I sent Tom back to Boston.	मैले टमलाई बोस्टन फिर्ता पठाएँ।	
+I stopped drinking coffee.	मैले कफी पिउन छाडिदिएँ।	
+I suspect Tom is involved.	मलाई शंका छ टम संलग्न छ।	
+I think that you're wrong.	मलाई लाग्छ तपाईं गलत हुनुहुन्छ।	
+I usually dream in French.	म सामान्यतया फ्रान्सेलीमा सपना देख्छु।	
+I want a few more minutes.	मलाई अझै केही मिनेट चाहिन्छ।	
+I want it to be a success.	म यो सफल होस् भन्ने चाहन्छु।	
+I want my 20 dollars back.	म मेरो 20 डलर फिर्ता चाहन्छु।	
+I want my kids to be safe.	म मेरो बच्चाहरु सुरक्षित हुन भन्ने चाहन्छु।	
+I want new business cards.	म नयाँ व्यापार कार्ड चाहन्छु।	
+I want the truth from you.	म तिमीबाट सत्य चाहन्छु।	
+I want to ask you a favor.	म तपाईलाई एउटा कृपा सोध्न चाहन्छु।	
+I want to be here for Tom.	म टमको लागि यहाँ हुन चाहन्छु।	
+I want to be your husband.	म तिम्रो श्रीमान बन्न चाहन्छु।	
+I want to contribute more.	म थप योगदान गर्न चाहन्छु।	
+I want to stretch my legs.	म मेरो खुट्टा फैलाउन चाहन्छु।	
+I wrote you three letters.	मैले तिमीलाई तीनवटा पत्र लेखेको छु ।	
+I'd never let Tom kiss me.	मैले टमलाई कहिल्यै चुम्बन गर्न दिइनँ।	
+I'll be there in a minute.	म तत्कालै त्यहाँ जान्छु।	
+I'm not here to celebrate.	म यहाँ उत्सव मनाउन आएको होइन।	
+It is likely to rain soon.	छिट्टै पानी पर्ने जस्तो देखिन्छ।	
+It's five minutes to nine.	९ बज्न ५ मिनेट बाँकी छ।	
+It's getting dark outside.	बाहिर अँध्यारो हुँदैछ।	
+Let's remember to do that.	त्यसो गर्न सम्झौं।	
+My birthday is in October.	मेरो जन्मदिन अक्टोबरमा हो।	
+My father isn't talkative.	मेरो बुबा मौन हुनुहुन्छ।	
+My father isn't talkative.	मेरो बुबा खासै बोल्नु हुन्न।	
+My name isn't on the list.	सूचीमा मेरो नाम छैन।	
+Only Tom knows the answer.	टमलाई मात्र जवाफ थाहा छ।	
+Put this in your backpack.	यसलाई आफ्नो झोलामा राख्नुहोस्।	
+Tell me what your name is.	तिम्रो नाम के हो भन।	
+The cows are eating grass.	गाईहरूले घाँस खाइरहेका छन्।	
+The station is pretty far.	स्टेशनबाट अलि टाढा छ।	
+The street is very narrow.	त्यो गल्ली निकै साँघुरो छ।	
+They were waiting for Tom.	उनीहरू टमलाई पर्खिरहेका थिए।	
+They were waiting for Tom.	तिनीहरू टमको प्रतीक्षा गर्दै थिए।	
+This dress suits you well.	यो पोशाक तपाईलाई राम्रोसँग सुहाउँछ।	
+This dress suits you well.	यो लुगाले तपाईलाई राम्रो देखिन्छ।	
+Today is my birthday, too.	आज मेरो पनि जन्मदिन हो।	
+Tom and I danced together.	टम र म सँगै नाच्यौं।	
+Tom and Mary are finished.	टम र मेरी ले सकाए।	
+Tom and Mary like cycling.	टम र मेरी साइकल चलाउन मन पराउँछन्।	
+Tom and Mary will do that.	टम र मेरीले त्यो गर्नेछन्।	
+Tom ate all the ice cream.	टमले सबै आइसक्रिम खायो।	
+Tom burned Mary's picture.	टमले मेरीको तस्बिर जलाए।	
+Tom burned Mary's picture.	टमले मेरीको तस्बिर जलायो।	
+Tom can't write very well.	टम धेरै राम्रो लेख्न सक्दैन।	
+Tom didn't run after Mary.	टम मेरीको पछि दौडिएन।	
+Tom felt quite threatened.	उनीहरूले जे गर्नुपर्छ त्यही गर्छन्।	
+Tom has a younger brother.	टमको एउटा भाइ छ।	
+Tom has changed his plans.	टमले आफ्नो योजनाहरू परिवर्तन गरेको छ।	
+Tom is talented, isn't he?	टम प्रतिभाशाली छ, हैन?	
+Tom is the name of my son.	टम मेरो छोराको नाम हो।	
+Tom is the team's captain.	टम टोलीको कप्तान हो।	
+Tom looked a bit confused.	टम अलि अलमलमा परेको देखियो ।	
+Tom opened the front door.	टमले अगाडिको ढोका खोल्यो।	
+Tom plans to study French.	टमले फ्रान्सेली अध्ययन गर्ने योजना बनायो।	
+Tom plans to study French.	टमले फ्रान्सेली पढ्ने योजना बनाए।	
+Tom pretended not to look.	टमले नदेखेको बहाना गरे।	
+Tom tried to fix the gate.	टमले गेट बनाउने कोसिस गर्यो।	
+Tom was able to help Mary.	टम मेरीलाई मद्दत गर्न सक्षम थिए।	
+Tom was my boyfriend then.	टम त्यतिबेला मेरो प्रेमी थियो।	
+Tom was quicker than Mary.	टम मेरी भन्दा छिटो थियो।	
+Tom was quicker than Mary.	टम मेरी भन्दा छिटो थिए।	
+Tom would agree with that.	टम त्यसमा सहमत हुनेछन्।	
+Tom's dog bit Mary's hand.	टमको कुकुरले मेरीको हातमा टोक्यो।	
+Tom's stuff is everywhere.	टमको सामान जताततै छ।	
+Tom's wife's name is Mary.	टमकी श्रीमतीको नाम मेरी हो।	
+We'll be here for a while.	हामी केही समयको लागि यहाँ हुनेछौं।	
+We've got a real good car.	हामीसँग साँच्चै राम्रो कार छ।	
+Welcome to our small town.	हाम्रो सानो सहरमा स्वागत छ।	
+Were you able to help Tom?	के तपाइँ टमलाई मद्दत गर्न सक्षम हुनुहुन्थ्यो?	
+What do you think of this?	यसबारे तपाईलाई के लाग्छ?	
+What have you seen so far?	अहिलेसम्म के देख्नुभयो ?	
+What would you like to do?	तिमी के गर्न चाहान्छौ?	
+What would you like to do?	तपाई के गर्न चाहानुहुन्छ?	
+Who is taller, you or Tom?	को अग्लो छ, तपाईं वा टम?	
+Why don't they talk to me?	तिनीहरू मसँग किन बोल्दैनन्?	
+Why haven't you asked Tom?	तपाईंले टमलाई किन सोध्नुभएको छैन?	
+Why haven't you asked Tom?	तपाईंले टमलाई किन सोध्नुभएन?	
+Will we have to wait long?	के हामीले लामो समय पर्खनुपर्ने हो?	
+You need to pay attention.	तपाईंले ध्यान दिन आवश्यक छ।	
+You'll never see me again.	तिमीले मलाई फेरि कहिल्यै देख्ने छैनौ।	
+A friend lent me that book.	त्यो किताब साथिबाट उधारो पाएको हो।	
+A lot of people came today.	आज धेरै मान्छे आए ।	
+Act as if nothing happened.	केही भएको छैन जस्तो व्यवहार गर्नुहोस्।	
+Are Mary and Alice sisters?	के मेरी र एलिस दिदी-बहिनी हुन्?	
+Can you give me an example?	के तपाईं मलाई एउटा उदाहरण दिन सक्नुहुन्छ?	
+Can you guess what this is?	के तपाई अनुमान गर्न सक्नुहुन्छ यो के हो?	
+Can you guess what this is?	के तिमी अनुमान गर्न सक्छौ यो के हो?	
+Can you please repeat that?	के तपाइँ यसलाई दोहोर्याउन सक्नुहुन्छ?	
+Can you remember this game?	के तपाइँ यो खेल याद गर्न सक्नुहुन्छ?	
+Do you have any bad habits?	के तपाईको कुनै नराम्रो बानी छ?	
+Do you have to leave today?	के आज तपाईले छोड्नु पर्ने हो ?	
+Do you think you're strong?	के तपाईं बलियो हुनुहुन्छ जस्तो लाग्छ?	
+Do you think you're strong?	के तलाई बलियो छु जस्तो लाग्छ?	
+Do you think you're strong?	के तिमीलाई बलियो छु जस्तो लाग्छ?	
+Do you want us to help you?	के तपाई हामीले तपाईलाई मद्दत गरुन भन्ने चाहनुहुन्छ?	
+Do you want us to help you?	के तिमी हामीले तिमीलाई मद्दत गरुन भन्ने चाहान्छौ?	
+Express your ideas clearly.	आफ्ना विचारहरू स्पष्ट रूपमा व्यक्त गर्नुहोस्।	
+He comes round once a week.	उनी हप्तामा एकपटक आउँछन् ।	
+He was seen to go upstairs.	ऊ माथिल्लो तलामा गएको देखियो।	
+How old is the lead singer?	प्रमुख गायक कति वर्षको हो ?	
+I apologize for being late.	ढिलो भएकोमा माफी चाहन्छु।	
+I brought Tom some cookies.	मैले टमलाई केही कुकीहरू किनें।	
+I dance, but not very well.	म नाच्छु, तर खासै राम्रो छैन।	
+I didn't eat any more rice.	मैले अब भात खाइनँ ।	
+I don't care, but Tom does.	मलाई वास्ता छैन, तर टमलाई छ।	
+I don't eat rice every day.	म हरेक दिन भात खान्न।	
+I don't have any allergies.	मलाई खासै केहीको पनि एलर्जी छैन।	
+I guess it's time to leave.	मलाई लाग्छ यो छोड्ने समय हो।	
+I know that I'm overweight.	मलाई थाहा छ मेरो तौल धेरै छ।	
+I often visit my relatives.	म प्रायः मेरा आफन्तहरूलाई भेट्न जान्छु।	
+I prefer walking to riding.	म गाडीमा चढ्न भन्दा हिड्न रुचाउँछु।	
+I swear that I'm not drunk.	म कसम खान्छु कि म मातेको छैन।	
+I think Tom is working now.	मलाई लाग्छ टम अहिले काम गरिरहेको छ।	
+I think you're a great guy.	मलाई लाग्छ तपाईं एक महान मान्छे हुनुहुन्छ।	
+I was too drunk to do that.	म त्यसो गर्नको लागि धेरै मातेको थिए।	
+I wonder what Tom would do.	म आश्चर्यचकित छु कि टम के गर्ला।	
+I'd like to report a theft.	म चोरी रिपोर्ट गर्न चाहन्छु।	
+I'll see you all in Boston.	म तिमीहरु सबै बोस्टन मा भेट्नेछु।	
+I'm from Australia as well.	म पनि अस्ट्रेलिया बाट हुँ ।	
+I'm looking for my brother.	म भाईलाई खोज्दै छु।	
+I'm not guilty of anything.	मसँग केही पनि पछुतो छैन।	
+I'm pretty bored right now.	मलाई अहिले निकै बोर लागेको छ।	
+I'm really grateful to you.	म तपाईप्रति धेरै आभारी छु।	
+I've got to cut Tom's hair.	मैले टमको कपाल काट्नु परेको छ।	
+I've never stolen anything.	मैले कहिल्यै केही चोरेको छैन।	
+It seemed that he was sick.	ऊ बिरामी भएजस्तो लाग्थ्यो ।	
+It was nice and cool there.	त्यहाँ राम्रो र सितल थियो।	
+It's 4:30 in the afternoon.	अहिले दिउँसोको ४:३० बजेको छ।	
+Maybe you need to help Tom.	सायद तपाईंले टमलाई मद्दत गर्नु पर्छ।	
+Maybe you won't believe me.	सायद तिमीले मलाई विश्वास गर्दैनौ।	
+My birthday is coming soon.	मेरो जन्मदिन चाँडै आउँदैछ।	
+My birthday is next Monday.	मेरो जन्मदिन अर्को सोमबार हो।	
+My first boyfriend was Tom.	मेरो पहिलो प्रेमी टम थियो।	
+My toolbox is in the trunk.	मेरो औजार बाकस ट्रंक मा छ।	
+No one brought us anything.	हामीलाई कसैले केही ल्याएनन्।	
+Obviously, Tom is talented.	स्पष्ट रूपमा, टम प्रतिभाशाली छ।	
+Oh, that's ancient history!	ओहो, त्यो पुरानो इतिहास हो!	
+Old people deserve respect.	ज्येष्ठ नागरिकलाई सम्मान गर्नुपर्छ।	
+Quite a few people do that.	थोरै मानिसले त्यसो गर्छन्।	
+Some people would say that.	कतिपयले त्यसो भन्न सक्छन्।	
+That house is really small.	त्यो घर साँच्चै सानो छ।	
+That's not what Tom wanted.	यो होइन जुन टमले चाहेको थियो।	
+The place was empty inside.	भित्र ठाउँ खाली थियो ।	
+This could save many lives.	यसले धेरैको ज्यान बचाउन सक्छ।	
+This old coin is very rare.	यो पुरानो सिक्का धेरै दुर्लभ छ।	
+This'll only take a moment.	यसले केही क्षण मात्र लिनेछ।	
+Tom Jackson lived to be 93.	टम ज्याक्सन ९३ वर्षसम्म बाँचेका थिए ।	
+Tom and Mary can both swim.	टम र मेरी दुवै पौडी खेल्न सक्छन्।	
+Tom and Mary live in a van.	टम र मेरी एउटा भ्यानमा बस्छन्।	
+Tom called me to apologize.	टमले माफी माग्न फोन गरे।	
+Tom didn't know the system.	टमलाई प्रणालीको बारेमा थाहा थिएन।	
+Tom didn't want to keep it.	टम यसलाई राख्न चाहँदैनन्।	
+Tom disappeared in October.	टम अक्टोबरमा बेपत्ता भयो।	
+Tom has a chemistry degree.	टमसँग रसायनशास्त्रको डिग्री छ।	
+Tom heard someone laughing.	टमले कोही हाँसेको सुने।	
+Tom is at school right now.	टम अहिले स्कूलमा छ।	
+Tom is certain to complain.	टमले गुनासो गर्ने निश्चित छ।	
+Tom is coming back tonight.	टम आज राती फर्किनेछ।	
+Tom is expecting your call.	टम तपाईंको कलको प्रतीक्षा गर्दै छ।	
+Tom is expecting your call.	टम तपाईंको कलको प्रतीक्षा गर्दै छन्।	
+Tom is expecting your call.	टम तिम्रो कलको प्रतीक्षा गर्दै छन् ।	
+Tom is extremely ambitious.	टम अत्यन्तै महत्वाकांक्षी छ।	
+Tom is extremely ambitious.	टम अत्यन्त महत्वाकांक्षी छ।	
+Tom is sitting on the wall.	टम पर्खालमा बसिरहेको छ।	
+Tom is working with us now.	टम अहिले हामीसँग काम गर्दैछ।	
+Tom lives with his parents.	टम आफ्ना आमाबाबुसँग बस्छन्।	
+Tom often plays by himself.	टम अक्सर एक्लै खेल्छन्।	
+Tom often plays by himself.	टम प्रायः एक्लै खेल्छन्।	
+Tom said that he was sorry.	टमले भने कि उनी माफी चाहन्छन्।	
+Tom thinks Mary is my name.	टमले मेरो नाम मेरी हो भन्ने सोच्दछ।	
+Tom thinks it's impossible.	टमले यो असम्भव छ भन्ने सोच्दछ।	
+Tom's suitcase looks heavy.	टमको सुटकेस भारी देखिन्छ।	
+We don't know who did this.	हामीलाई थाहा छैन यो कसले गर्यो।	
+We hope that our team wins.	हामी आशा गर्छौं कि हाम्रो टोलीले जित्छ।	
+We really had a lot of fun.	हामीले साँच्चै धेरै रमाइलो गर्यौं।	
+We should eat healthy food.	हामीले स्वस्थकर खानेकुरा खानुपर्छ।	
+We tossed a coin to decide.	हामीले निर्णय गर्न सिक्का फ्याँक्यौं।	
+What language do you speak?	कुन भाषा बोल्दै हुनुहुन्छ ?	
+Which house do you live in?	कुन घरमा बस्नुहुन्छ?	
+Who is taller, Tom or Mary?	को अग्लो छ, टम वा मेरी?	
+Who is your favorite actor?	तपाईलाई मन पर्ने कलाकार को हो?	
+You may choose any of them.	तपाईंले ती मध्ये कुनै पनि रोज्न सक्नुहुन्छ।	
+You should get out of town.	तिमी सहरबाट निस्किनुपर्छ।	
+You'd better do that again.	तपाईंले त्यो फेरि गर्नु राम्रो हुन्छ।	
+You're part of the problem.	तपाईं समस्या को एक हिस्सा हुनुहुन्छ।	
+You're supposed to be busy.	तपाईं व्यस्त हुनु पर्छ।	
+Actually, it was my mistake.	वास्तवमा, यो मेरो गल्ती थियो।	
+Are your children all right?	तिम्रा छोराछोरी सन्चै छन् ?	
+Children grow up so quickly.	बच्चाहरू छिट्टै हुर्किन्छन् ।	
+English is spoken in Canada.	क्यानडामा अंग्रेजी बोलिन्छ।	
+First think, and then speak.	पहिले सोच, अनि बोल।	
+He left the last page blank.	उसले अन्तिम पाना खाली छाड्यो।	
+How many books did you read?	तपाईले कति पुस्तकहरू पढ्नुभएको छ ?	
+I am looking for my brother.	म भाईलाई खोज्दै छु।	
+I bought a hat at the store.	मैले पसलमा टोपी किनें।	
+I can't emphasize it enough.	म यसलाई पर्याप्त जोड दिन सक्दिन।	
+I didn't know Tom had a cat.	टमसँग बिरालो छ भन्ने मलाई थाहा थिएन।	
+I don't know where you live.	मलाई थाहा छैन तपाईं कहाँ बस्नुहुन्छ।	
+I don't know where you live.	मलाई थाहा छैन तिमी कहाँ बस्छौ।	
+I don't know where you live.	मलाई थाहा छैन तिमी कहाँ बस्छेउ।	
+I don't want any more tests.	म कुनै थप परीक्षणहरू चाहन्न।	
+I drink coffee after dinner.	म बेलुकाको खाना पछि कफी पिउँछु।	
+I eat only fresh vegetables.	म ताजा तरकारी मात्र खान्छु।	
+I eat rice almost every day.	म लगभग हरेक दिन भात खान्छु।	
+I encourage all my students.	म मेरा सबै विद्यार्थीहरूलाई प्रोत्साहन गर्छु।	
+I have nothing better to do.	मसँग गर्नलाई केहि राम्रो छैन।	
+I have some extra batteries.	मसँग केही अतिरिक्त ब्याट्रीहरू छन्।	
+I haven't had my coffee yet.	मैले अझै मेरो कफी खाएको छैन।	
+I know Tom is a strange kid.	मलाई थाहा छ टम एक अनौठो बच्चा हो।	
+I like Tom better than Mary.	मलाई मेरी भन्दा टम राम्रो लाग्छ।	
+I stayed up late last night.	म हिजो राती अबेरसम्म जागै बसें।	
+I think I'd like to do that.	मलाई लाग्छ कि म त्यो गर्न चाहन्छु।	
+I want to rent an apartment.	म अपार्टमेन्ट भाडामा लिन चाहान्छु।	
+I'd do anything to help Tom.	म टमलाई मद्दत गर्न जे पनि गर्नेछु।	
+I'd rather die than give up.	म हार मान्नु भन्दा मर्न रुचाउँछु ।	
+I'm feeling much better now.	म अहिले धेरै राम्रो महसुस गर्दैछु।	
+I'm glad it makes you happy.	म खुसी छु यसले तपाईंलाई खुशी बनाउँछ।	
+I'm not OK with this change.	म यो परिवर्तन संग ठीक छैन।	
+I'm not sitting next to Tom.	म टमको छेउमा बसेको छैन।	
+I'm taking French next year.	म अर्को वर्ष फ्रान्सेली लिँदैछु।	
+I'm taking French next year.	म अर्को वर्ष फ्रेन्च भाषा लिँदैछु।	
+It has definitely helped me.	यसले पक्कै पनि मलाई मद्दत गरेको छ।	
+Mary wore a strapless dress.	मेरीले स्ट्र्यापलेस पोशाक लगाएकी थिइन्।	
+Math is my favorite subject.	गणित मेरो मनपर्ने विषय हो।	
+No one believed Tom's story.	टमको कथा कसैले पत्याएनन्।	
+She decided on the red coat.	उनले रातो ज्याकेट लगाउने निर्णय गरिन्।	
+She disappeared in the dark.	उनी अन्धकारमा गायब भइन्।	
+She was a beauty in her day.	उनी जवान हुँदा सुन्दर थिइन्।	
+She was accepted to Harvard.	उनी हार्वर्ड विश्वविद्यालयमा भर्ना हुन छानिएकी छिन्।	
+Someone threw a rock at Tom.	कसैले टमलाई ढुङ्गा हान्यो।	
+Tell me where you were born.	तिम्रो जन्म कहाँ भएको हो भन ।	
+The back door was wide open.	पछाडिको ढोका फराकिलो खुल्ला थियो ।	
+The bus has just pulled out.	बस भर्खरै छुट्यो।	
+The cat climbed up the tree.	बिरालो रूखमा चढ्यो।	
+There are always exceptions.	त्यहाँ सधैं अपवादहरू छन्।	
+There are ducks on the pond.	पोखरीमा हाँसहरू छन्।	
+There's violence everywhere.	हिंसा जताततै छ।	
+There's violence everywhere.	जताततै हिंसा छ।	
+This is part of the problem.	यो समस्या को एक हिस्सा हो।	
+This is the only tie I have.	यो मसँग भएको एकमात्र टाई हो।	
+This isn't Tom's hat, is it?	यो टमको टोपी होइन, हैन?	
+This knife isn't very sharp.	यो चक्कु धेरै धारिलो छैन।	
+This watch is made in Japan.	यो घडी जापानमा बनेको हो।	
+Those standing were all men.	उभिएका सबै पुरुष थिए।	
+Tom and I are having a baby.	टम र म बच्चा जन्माउँदैछौं।	
+Tom couldn't find his class.	टमले आफ्नो कक्षा फेला पार्न सकेन।	
+Tom died when he was thirty.	टम तीस वर्षको हुँदा मरो।	
+Tom fixed my bicycle for me.	टमले मेरो लागि मेरो साइकल बनाईदियो ।।	
+Tom has one younger brother.	टमको एउटा भाइ छ।	
+Tom is fine, but Mary isn't.	टम ठीक छ, तर मेरी छैन।	
+Tom is older than I thought.	टम मैले सोचेको भन्दा बुढो रहेछ।	
+Tom is very happy in Boston.	टम बोस्टनमा धेरै खुसी छन्।	
+Tom looked like he was lost.	टम हराएको जस्तो देखिन्थ्यो।	
+Tom repeated what Mary said.	टमले मेरीले भनेको कुरा दोहोर्यायो।	
+Tom spent the night in jail.	टमले जेलमा रात बिताए।	
+Tom spent the night in jail.	टमले जेलमा रात बितायो।	
+Tom threw something at Mary.	टमले मेरीलाई केही फ्याँको।	
+Tom was paid for doing that.	टमलाई त्यसो गरेबापत पैसा दिइएको थियो।	
+We've already paid our rent.	हामीले पहिले नै हाम्रो भाडा तिरेका छौं।	
+What does that mean for Tom?	टमको लागि त्यसको के अर्थ छ?	
+Where is the police station?	प्रहरी चौकी कहाँ छ?	
+Who is heavier, Tom or Mary?	को भारी छ, टम वा मेरी?	
+Who is stronger, you or Tom?	को बलियो छ, तपाईं वा टम?	
+Who is younger, Tom or Mary?	को कान्छो हो, टम वा मेरी?	
+Who wants to ask a question?	कसले प्रश्न सोध्न चाहन्छ?	
+Why are you still at school?	तिमी किन अझै विद्यालयमा छौ?	
+Why didn't you just tell me?	तिमीले मलाई किन नभनेको?	
+Why is Tom so good at chess?	टम किन चेसमा यति राम्रो छ?	
+Why was Tom yelling at Mary?	टम मेरीलाई किन हप्काई रहेकोको थियो?	
+You can't help what happens.	तपाईंले के हुन्छ मद्दत गर्न सक्नुहुन्न।	
+You go to school, don't you?	तिमी स्कुल जान्छौ, हैन ?	
+Do they know what's going on?	के भैरहेको छ भनेर के उनीहरुलाई थाहा छ?	
+Do you love me, or don't you?	तिमी मलाई माया गर्छौ, कि गर्दैनौ ?	
+Do you think Tom is talented?	के तिमीलाई टम प्रतिभाशाली छ जस्तो लाग्छ?	
+Do you think Tom understands?	के तपाईलाई टमले बुज्छ जस्तो लाग्छ?	
+Don't depend on Tom too much.	टममा धेरै भर पर्नु हुँदैन।	
+Don't look out of the window.	झ्यालबाट बाहिर नहेर्नुस्।	
+Don't look out of the window.	झ्यालबाट बाहिर नहेर।	
+Don't try to understand this.	यसलाई बुझ्ने कोसिस नगर्नुहोस् ।	
+Don't underestimate my power.	मेरो शक्तिलाई कम नठान्नुहोस्।	
+Don't you have an accountant?	तपाईसँग लेखापाल छैन?	
+Have you ever eaten dog meat?	के तपाईंले कहिल्यै कुकुरको मासु खानुभएको छ?	
+He can run faster than I can.	ऊ म भन्दा छिटो कुद्छ।	
+He can run faster than I can.	ऊ म भन्दा छिटो कुद्न सक्छ।	
+He often eats breakfast here.	उहाँ प्रायः यहाँ बिहानको खाजा खानुहुन्छ।	
+He often eats breakfast here.	उनी प्रायः यहाँ बिहानको खाजा खान्छन्।	
+How could you be so careless?	तिमी यति लापरवाह कसरी हुन सक्छौ ?	
+I can help if you want me to.	यदि तपाईं मलाई चाहनुहुन्छ भने म मद्दत गर्न सक्छु।	
+I didn't know Tom had a cold.	टमलाई चिसो लागेको मलाई थाहा थिएन।	
+I don't know what he is like.	उहाँ कस्तो हुनुहुन्छ मलाई थाहा छैन।	
+I don't want to pressure you.	म तिमीलाई दबाब दिन चाहन्न।	
+I got used to wearing a mask.	मलाई मास्क लगाउने बानी परिसकेको छ ।	
+I have a slight headache now.	अहिले हल्का टाउको दुखेको छ।	
+I haven't decided what to do.	मैले के गर्ने भन्ने निर्णय गरेको छैन।	
+I respect your point of view.	म तपाईको दृष्टिकोणको सम्मान गर्दछु।	
+I slept very well last night.	हिजो राती राम्रोसँग सुतेँ ।	
+I spilled coffee on my shirt.	मैले मेरो शर्टमा कफी पोखाए।	
+I still go there once a week.	म अझै पनि हप्तामा एक पटक त्यहाँ जान्छु।	
+I think I'm in love with her.	मलाई लाग्छ म उनको प्रेममा छु।	
+I think it's very impressive.	मलाई यो धेरै प्रभावशाली छ जस्तो लाग्छ।	
+I want kids, but Tom doesn't.	म बच्चाहरू चाहन्छु, तर टमले चाहादैनन्।	
+I want to drink a cup of tea.	म एक गिलास चिया पिउन चाहान्छु।	
+I went to a concert with Tom.	म टम संग कन्सर्टमा गएको थिए।	
+I wish I hadn't believed Tom.	काश मैले टमलाई विश्वास नगरेको भए।	
+I wish we could go to Boston.	म चाहन्छु कि हामी बोस्टन जान सकौं।	
+I'll be home alone all night.	म रातभर घरमा एक्लै हुनेछु।	
+I'm going to give Tom a bath.	म टमलाई नुहाइदिन जाँदैछु।	
+I'm going to save more money.	म अझ धेरै पैसा बचत गर्न खोज्दै छु।	
+I'm having a lot of fun here.	म यहाँ धेरै रमाइलो गर्दैछु।	
+I'm not very good with words.	म बोल्नमा अब्बल छैन।	
+I'm searching for my brother.	म दाजुलाई खोज्दै छु।	
+It was just a happy accident.	यो केवल एक सुखद दुर्घटना थियो।	
+It's a very serious question.	यो निकै गम्भीर प्रश्न हो।	
+It's normal to make mistakes.	गल्ती हुनु सामान्य हो।	
+Maybe Tom likes someone else.	सायद टमले अरू कसैलाई मन पराउँछ।	
+My best friend is a Canadian.	मेरो सबैभन्दा मिल्ने साथी क्यानेडियन हो।	
+Neither of us is from Boston.	हामी मध्ये कोही पनि बोस्टनका होइनौं।	
+Please teach me how to drive.	कृपया मलाई कसरी ड्राइभ गर्ने सिकाउनुहोस्।	
+Remember to do your homework.	आफ्नो गृहकार्य गर्न याद गर्नुहोस्।	
+Remember to do your homework.	आफ्नो गृहकार्य गर्न याद गर।	
+She has been dead five years.	उनको मृत्यु भएको पाँच वर्ष भयो।	
+Sorry, I don't have a pencil.	माफ गर्नुहोस्, मसँग पेन्सिल छैन।	
+Tell Tom he ought to do that.	टमलाई भन्नुहोस् कि उसले त्यो गर्नुपर्छ।	
+That's what I'm trying to do.	मैले गर्न खोजेको यही हो।	
+The attackers escaped easily.	आक्रमणकारीहरू सजिलै भागे।	
+The capital of Italy is Rome.	इटालीको राजधानी रोम हो।	
+The color I like most is red.	मलाई सबैभन्दा मनपर्ने रंग रातो हो।	
+The door is already unlocked.	ढोका पहिले नै खोलिएको छ।	
+The one who does that is Tom.	"गाडीमा को छ?" "टम छ।"	
+The only drummer here is Tom.	टम यहाँको एक मात्र ड्रमर हो।	
+The response was predictable.	प्रतिक्रिया अनुमान गर्न सकिने थियो।	
+There was nothing more to do.	त्यहाँ अरु केही गर्नु पर्ने थिएन।	
+There was something going on.	त्यहाँ केही भइरहेको थियो।	
+This classroom is very large.	यो कक्षा कोठा धेरै ठूलो छ।	
+This food is very nutritious.	यो खाना धेरै पौष्टिक छ।	
+Tom already understands that.	टमले त्यो पहिले नै बुझेको छ।	
+Tom blocked the intersection.	टमले चौराहा अवरुद्ध गर्यो।	
+Tom didn't do that last year.	टमले गत वर्ष त्यो गरेन।	
+Tom didn't stay in Australia.	टम अस्ट्रेलियामा बसेनन्।	
+Tom gave Mary the wrong book.	टमले मेरीलाई गलत किताब दिए।	
+Tom has received many awards.	टमले धेरै पुरस्कार पाएका छन्।	
+Tom is trying to ignore Mary.	टमले मेरीलाई बेवास्ता गर्न खोज्दैछ।	
+Tom is very hungry, isn't he?	टम धेरै भोकाएको छ, हैन?	
+Tom is working in Boston now.	टम अहिले बोस्टनमा काम गर्दैछ।	
+Tom is working now, isn't he?	टम अहिले काम गर्दैछ, हैन?	
+Tom likes all of us, I think.	मलाई लाग्छ, टमले हामी सबैलाई मनपराउछ।	
+Tom married a Canadian woman.	टमले क्यानडाली महिलासँग विवाह गरे।	
+Tom said he doesn't eat meat.	टमले मासु नखाने बताए।	
+Tom thinks highly of himself.	टमले आफूलाई धेरै ठान्छ।	
+Tom was obviously a rich man.	टम स्पष्ट रूपमा एक धनी व्यक्ति थिए।	
+Tom will arrive Monday night.	टम सोमबार राती आइपुग्नेछ।	
+Tom won't do that any longer.	टमले अब देखि त्यसो गर्ने छैन।	
+Tom's story makes zero sense.	टमको कथाले शून्य अर्थ दिन्छ।	
+We weighed the pros and cons.	हामीले फाइदा र बेफाइदा तौल्यौं।	
+We're open seven days a week.	हामी हप्ताको सात दिन खुल्ला छौं।	
+What's today's exchange rate?	आजको विनिमय दर कति छ ?	
+When I'm with you, I'm happy.	तिम्रो साथमा हुँदा मलाई खुसी लाग्छ।	
+When do you plan to get back?	कहिले फर्कने योजनामा ​​हुनुहुन्छ?	
+Why are people afraid of you?	मान्छेहरु तपाईसँग किन डराउँछन्?	
+Why do you want to work here?	किन यहाँ काम गर्न चाहान्छौ?	
+Why was Tom pointing at Mary?	टमले मेरीलाई किन औंल्याएको थियो?	
+You can ask whoever you want.	तपाईले चाहनु भएकोलाई सोध्न सक्नुहुन्छ।	
+You'd better not leave today.	तिमी आज नजानु नै बेस हुन्छ।	
+A cat is sitting on the chair.	एउटा बिरालो कुर्सीमा बसेको छ।	
+Are you still looking for Tom?	के तपाइँ अझै टमलाई खोज्दै हुनुहुन्छ?	
+Are you sure you want to quit?	के तपाई निश्चित हुनुहुन्छ कि तपाई छोड्न चाहनुहुन्छ?	
+Being with you makes me happy.	तिम्रो साथमा हुँदा मलाई खुसी लाग्छ।	
+Do Tom and Mary work together?	के टम र मेरी सँगै काम गर्छन्?	
+Do you know Tom's wife's name?	के तपाईंलाई टमकी श्रीमतीको नाम थाहा छ?	
+Don't compare yourself to Tom.	आफूलाई टमसँग तुलना नगर्नुहोस्।	
+Don't compare yourself to Tom.	आफूलाई टमसँग तुलना नगर।	
+Don't worry too much about it.	यसको बारेमा धेरै चिन्ता नगर्नुहोस्।	
+Food has been in short supply.	खाद्यान्नको अभाव भएको छ ।	
+He knocked on the closed door.	उसले बन्द ढोका ढकढक्यायो ।	
+How long will we have to wait?	कति समय पर्खनु पर्छ जस्तो लाग्छ?	
+How long will we have to wait?	कति समय जति पर्खनु पर्छ?	
+How old were you at that time?	त्यतिबेला तपाईको उमेर कति थियो ?	
+I agreed to write that letter.	म त्यो पत्र लेख्न राजी भएँ।	
+I am searching for my brother.	म दाजुलाई खोज्दै छु।	
+I am searching for my brother.	म भाईलाई खोज्दै छु।	
+I bought a new sewing machine.	मैले नयाँ कल किनें।	
+I can defeat any chess player.	म कुनै पनि चेस खेलाडीलाई हराउन सक्छु।	
+I can't leave work until five.	म ५ बजेसम्म काम छोड्न सक्दिन।	
+I couldn't find what I wanted.	मैले चाहेको कुरा फेला पार्न सकिन।	
+I don't have a microwave oven.	मसँग माइक्रोवेभ छैन।	
+I don't know what to tell you.	म तिमीलाई के भनूँ थाहा छैन।	
+I don't know what to tell you.	तिमीलाई के भनौ मलाई थाहा छैन	
+I don't like being unemployed.	मलाई बेरोजगार रहन मन पर्दैन।	
+I don't like to talk about it.	मलाई यसबारे कुरा गर्न मन लाग्दैन।	
+I don't live in Australia now.	म अहिले अस्ट्रेलियामा बस्दिन।	
+I don't think Tom was shocked.	मलाई लाग्दैन कि टम छक्क परेको थियो।	
+I don't want to study tonight.	मलाई आज राती पढ्न मन छैन।	
+I forgot to close the windows.	मैले झ्यालहरू बन्द गर्न बिर्सें।	
+I know what Tom is doing here.	टम यहाँ के गर्दैछ भनेर मलाई थाहा छ।	
+I sent a letter to my parents.	मैले आमाबुवालाई चिठी पठाएँ।	
+I should've been more careful.	म अझ होसियार हुनुपर्थ्यो।	
+I shouldn't have been so rude.	म यति असभ्य हुनुहुँदैन थियो।	
+I sometimes go out for a walk.	कहिले काहिँ घुम्न जान्छु।	
+I think he was speaking Latin.	मलाई लाग्छ उसले ल्याटिन बोलिरहेको थियो।	
+I think he was speaking Latin.	मलाई लाग्छ ऊ ल्याटिन बोल्दै थियो।	
+I want to eat a piece of cake.	म एक टुक्रा केक खान चाहन्छु।	
+I want to eat rice with beans.	म गेडागुडी संग भात खान चाहन्छु।	
+I wonder if that person is OK.	के त्यो मान्छे ठीक छ?	
+I'd like to be as rich as Tom.	म टम जस्तै धनी हुन चाहन्छु।	
+I'll pay for your lunch today.	आजको खाजाको पैसा म तिर्छु।	
+I'm happy with what I've seen.	मैले जे देखेको छु त्यसमा म खुसी छु।	
+I'm sorry to be such a bother.	मलाई यस्तो अप्ठ्यारो भएकोमा माफ गर्नुहोस्।	
+I'm thinking as fast as I can.	म जति सक्दो छिटो सोच्छु।	
+I've never heard Tom complain.	मैले कहिल्यै टमको गुनासो सुनेको छैन।	
+It may have rained last night.	सायद हिजो राति पानी परेको थियो।	
+It wasn't Tom who kissed Mary.	त्यो टम थिएन जसले मेरीलाई चुम्बन गर्यो।	
+It's Tom's birthday next week.	अर्को हप्ता टमको जन्मदिन हो।	
+My brother watches television.	मेरो भाइ टेलिभिजन हेर्छ।	
+Nobody knew why this happened.	यो किन भयो कसैलाई थाहा थिएन।	
+Please don't do that tomorrow.	कृपया भोलि यस्तो नगर्नुहोस्।	
+Please don't do that tomorrow.	कृपया भोलि त्यो नगर्नुहोस्।	
+Stay in bed until next Monday.	कृपया सोमबार सम्म आराम गर्नुहोस्।	
+Summer holiday begins in July.	गर्मी बिदा जुलाई मा सुरु हुन्छ।	
+Tell me why you're doing that.	मलाई भन्नुहोस् कि तपाइँ किन त्यसो गर्नुहुन्छ।	
+Thank you very much, everyone.	धेरै धेरै धन्यवाद, सबैलाई।	
+The capital of Japan is Tokyo.	जापानको राजधानी टोकियो हो।	
+The color I like most is blue.	मलाई सबैभन्दा मन पर्ने रङ नीलो हो।	
+The door of the safe was open.	सेफको ढोका खुला थियो ।	
+The door of the safe was open.	गल्लाको ढोका खुला थियो ।	
+The fact is that I can't swim.	तथ्य यो हो कि म पौडिन सक्दिन।	
+The situation is very complex.	अवस्था निकै जटिल छ ।	
+There are many tall buildings.	त्यहाँ धेरै गगनचुम्बी भवनहरू छन्।	
+They're walking without shoes.	तिनीहरू जुत्ता बिना हिडिरहेका छन्।	
+This is exactly what I wanted.	यो मैले चाहेको नै हो।	
+Throw another log on the fire.	आगोमा अर्को मुढा फ्याँक्नुहोस्।	
+Tokyo is the capital of Japan.	टोकियो जापानको राजधानी हो।	
+Tom admitted that it was true.	टमले स्वीकार गरे कि यो सत्य थियो।	
+Tom always had a lot of money.	टमसँग सधैं धेरै पैसा थियो।	
+Tom and I often work together.	म प्राय टमसँग काम गर्छु।	
+Tom and I often work together.	टम र म प्राय सँगै काम गर्छौ।	
+Tom and Mary are really funny.	टम र मेरी साँच्चै रमाइला छन्।	
+Tom complained about the heat.	टमले गर्मीको बारेमा गुनासो गरे।	
+Tom didn't come to work today.	टम आज काममा आएनन्।	
+Tom didn't come to work today.	टम आज काममा आएन।	
+Tom didn't know Mary was sick.	टमलाई थाहा थिएन कि मेरी बिरामी छिन्।	
+Tom didn't want us to do this.	टमले हामीले यो गरून् भन्ने चाहँदैनथ्यो।	
+Tom doesn't have a cell phone.	टमसँग मोबाइल छैन।	
+Tom doesn't know how to reply.	टमलाई कसरी जवाफ दिने थाहा छैन।	
+Tom has done everything wrong.	टमले सबै गलत गरेको छ।	
+Tom is a high school freshman.	टम हाईस्कूलको नयाँ विद्यार्थी हो।	
+Tom is a very charismatic man.	टम एक धेरै आकर्षक मानिस हो।	
+Tom is already good at French.	टम पहिले नै फ्रान्सेली मा राम्रो छ।	
+Tom is very shallow, isn't he?	टम धेरै खोक्रो छ, हैन?	
+Tom just wanted to be helpful.	टम केवल सहयोगी हुन चाहन्थे।	
+Tom lied about what he'd done.	टमले आफूले गरेको कामको बारेमा झूट बोल्यो।	
+Tom looked at his watch again.	टमले आफ्नो घडी फेरी हेर्यो।	
+Tom said he needed to do that.	टमले भने कि उनले त्यो गर्न आवश्यक छ।	
+Tom seemed dazed and confused.	टम चकित र भ्रमित देखिन्थ्यो।	
+Tom served drinks to everyone.	टमले सबैलाई पेय पदार्थ दिए।	
+Tom taught me a lot of things.	टमले मलाई धेरै कुरा सिकाए।	
+Tom thinks Mary is over forty.	टमले मेरीलाई चालीस वर्ष नाघेको सोच्छ।	
+Tom was the only one who came.	टम मात्र आएका थिए।	
+Tom would never have approved.	टमले कहिल्यै अनुमोदन गर्ने थिएन।	
+Wash your hands before eating.	खाना खानु अघि आफ्नो हात धुनुहोस्।	
+We really want to impress Tom.	हामी वास्तवमै टमलाई प्रभावित गर्न चाहन्छौं।	
+We're going as fast as we can.	हामी सकेसम्म छिटो गइरहेका छौं।	
+What are Tom's sisters' names?	टमका बहिनीहरूको नाम के हो?	
+What are you doing these days?	तपाई आजकल के गर्दै हुनुहुन्छ?	
+What are you looking for, sir?	महोदय, तपाई के खोज्दै हुनुहुन्छ?	
+What high school do you go to?	तपाईं कुन हाईस्कूल जानुहुन्छ?	
+What high school do you go to?	तपाईं कुन हाईस्कूलमा जादै हुनुहुन्छ?	
+What is that big new building?	त्यो ठूलो नयाँ भवन के हो?	
+What's Tom's favorite dessert?	टमको मनपर्ने मिठाई के हो?	
+What's Tom's favorite dessert?	टमको मनपर्ने डेजर्ट के हो?	
+When did you buy this bicycle?	तपाईले यो साइकल कहिले किन्नु भयो?	
+Why are you talking like that?	किन यसरी बोल्दै हुनुहुन्छ ?	
+You haven't met my family yet.	तिमीले मेरो परिवारलाई अझै भेटेका छैनौ।	
+All of my children like Boston.	मेरा सबै बच्चाहरूलाई बोस्टन मन पर्छ।	
+Did you see the game yesterday?	हिजोको खेल हेर्नुभयो ?	
+Don't forget to pack sunscreen.	सनस्क्रिन प्याक गर्न नबिर्सनुहोस्।	
+February is the shortest month.	फेब्रुअरी सबैभन्दा छोटो महिना हो।	
+He's popular with the students.	उनी विद्यार्थीमाझ लोकप्रिय छन्।	
+He's popular with the students.	ऊ विद्यार्थीमाझ लोकप्रिय छ।	
+I didn't do all this by myself.	यो सब मैले एक्लै गरेको हैन ।	
+I didn't want to go, but I did.	मलाई जान मन थिएन, तर म गएँ।	
+I didn't want to take a chance.	मलाई मौका लिन मन लागेन ।	
+I feel happy when I'm with you.	तिम्रो साथमा हुँदा मलाई खुसी लाग्छ।	
+I have a lot of homework to do.	म संग गृहकार्य धेरै छ।	
+I haven't decided anything yet.	मैले अझै केही निर्णय गरेको छैन।	
+I haven't decided what I'll do.	मैले के गर्ने भन्ने निर्णय गरेको छैन।	
+I haven't done anything so far.	मैले अहिलेसम्म केही गरेको छैन।	
+I need to have another surgery.	मलाई अर्को शल्यक्रिया गर्न आवश्यक छ।	
+I think Tom gave up too easily.	मलाई लाग्छ टमले सजिलै हार मान्यो।	
+I thought Tom would be pleased.	मैले सोचें कि टम खुसी हुनेछ।	
+I told Tom to lose some weight.	मैले टमलाई केही तौल घटाउन भनें।	
+I want you to watch this video.	म तपाईले यो भिडियो हेर्नुहोस् भन्ने चाहन्छु।	
+I was always very close to Tom.	म सधैं टमसँग धेरै नजिक थिए।	
+I was working when it happened.	यो घटना हुँदा म काम गरिरहेको थिएँ।	
+I'd like to drink a cup of tea.	म एक गिलास चिया पिउन चाहान्छु।	
+I'll be back in thirty minutes.	म तीस मिनेटमा फर्कने छु।	
+I'm Tom. This is my wife, Mary.	म टम हुँ। यिनी मेरी श्रीमती मेरी हुन्।	
+I'm friends with Tom's brother.	म टमको भाईसँग साथी छु।	
+I'm friends with Tom's brother.	म टमको दाईसँग साथी छु।	
+I'm going to break up with Tom.	म टमसँग ब्रेकअप गर्न जाँदैछु।	
+I'm now used to wearing a mask.	मलाई अहिले मास्क लगाउने बानी परेको छ ।	
+I'm pretty sure Tom's Canadian.	म टम क्यानेडियन हो भनेर पक्का छु।	
+I've already found a volunteer.	मैले पहिले नै स्वयंसेवक फेला पारेको छु।	
+I've finished cleaning my room.	मैले मेरो कोठा सफा गरिसकेको छु।	
+Is Tom good at speaking French?	के टम फ्रान्सेली बोल्नमा राम्रो छ?	
+It started raining really hard.	भारी पानी पर्न थाल्यो।	
+It'll be much better next time.	यो अर्को पटक धेरै राम्रो हुनेछ।	
+It's healthy to breathe deeply.	गहिरो सास फेर्नु स्वस्थकर हुन्छ।	
+Kyiv is the capital of Ukraine.	कीभ युक्रेनको राजधानी हो।	
+Let me think over until Monday.	मलाई सोमबार सम्म सोच्न दिनुहोस्।	
+Madrid is the capital of Spain.	म्याड्रिड स्पेनको राजधानी हो।	
+Paris is the capital of France.	पेरिस फ्रान्सको राजधानी हो।	
+Payment is required in advance.	अग्रिम भुक्तानी आवश्यक छ।	
+Please call me Tom from now on.	कृपया मलाई अब देखि टम भन्ने गर्नुहोस्।	
+Please call me Tom from now on.	कृपया मलाई अब देखि टम भनेर बोलाउनुहोस्।	
+Tell me why you don't like Tom.	मलाई भन्नुहोस् कि तपाई टमलाई किन मन पराउनुहुन्न।	
+That book is written in French.	त्यो पुस्तक फ्रान्सेलीमा लेखिएको छ।	
+The capital of Ukraine is Kyiv.	युक्रेनको राजधानी कीभ हो।	
+The students helped each other.	विद्यार्थीहरूले एकअर्कालाई सहयोग गरे।	
+Things didn't turn out so well.	चीजहरू त्यति राम्ररी बाहिर आएनन्।	
+Those roses are very beautiful.	त्यो गुलाब एकदमै सुन्दर छ।	
+Tom and Mary are great friends.	टम र मेरी महान साथी हुन्।	
+Tom asked me several questions.	टमले मलाई धेरै प्रश्नहरू सोधे।	
+Tom asked me several questions.	टमले मलाई धेरै प्रश्नहरू सोध्यो।	
+Tom bought a very cheap camera.	टमले एकदमै सस्तो क्यामेरा किन्यो।	
+Tom decided not to go swimming.	टमले पौडी खेल्न नजाने निर्णय गरे।	
+Tom doesn't usually wear a hat.	टमले सामान्यतया टोपी लगाउँदैन।	
+Tom has been bitten by a snake.	टमलाई सर्पले टोकेको छ।	
+Tom is working as a waiter now.	टम अहिले वेटरको रूपमा काम गर्दैछ।	
+Tom knows he shouldn't be here.	टमलाई थाहा छ ऊ यहाँ हुनुहुँदैन।	
+Tom obviously needed some help.	टमलाई स्पष्ट रूपमा केही मद्दत चाहिन्छ।	
+Tom offered to buy Mary a beer.	टमले मेरीलाई बियर किनिदिने प्रस्ताव गरे।	
+Tom put the knife on the table.	टमले चक्कु टेबुलमा राख्यो।	
+Tom rolled his shirtsleeves up.	टमले आफ्नो शर्टको बाहुला माथि घुमाए।	
+Tom rolled up his shirtsleeves.	टमले आफ्नो शर्टका बाहुलाहरू सुर्कियो।	
+Tom was as nervous as Mary was.	टम मेरी जस्तै नर्भस थियो।	
+Tom was detained by the police.	टमलाई प्रहरीले नियन्त्रणमा लिएको थियो।	
+Tom was hiding in the basement.	टम बेसमेन्टमा लुकेको थियो।	
+We really appreciate your help.	हामी तपाईंको सहयोगको साँच्चै कदर गर्छौं।	
+What does a liter of milk cost?	एक लिटर दूधको मूल्य कति पर्छ?	
+What language are you speaking?	तपाई कुन भाषा बोल्नुहुन्छ?	
+What language are you speaking?	कुन भाषा बोल्दै हुनुहुन्छ ?	
+What's Mary's boyfriend's name?	मेरीको प्रेमीको नाम के हो?	
+Where do you go to high school?	तपाईं कुन हाईस्कूल जानुहुन्छ?	
+Where do you go to high school?	तपाईं कुन हाईस्कूलमा जादै हुनुहुन्छ?	
+Who's your downstairs neighbor?	तपाईको तलको छिमेकी को हो?	
+Why didn't anyone say anything?	किन कसैले केही भनेनन् ?	
+Will anyone care if we do that?	हामीले त्यसो गर्‍यौं भने कसैले वास्ता गर्छ?	
+You need someone you can trust.	तपाईलाई विश्वास गर्न सक्ने व्यक्ति चाहिन्छ।	
+Zoology is my favorite subject.	प्राणीशास्त्र मेरो मनपर्ने विषय हो।	
+"Who is it?" "It's your mother."	"उँहा को हुनुहुन्छ?" "मेरी आमा।"	
+Are you still afraid to do that?	के तपाई अझै पनि त्यसो गर्न डराउनुहुन्छ?	
+Aren't you allergic to anything?	तपाईलाई कुनै कुरामा एलर्जी छैन?	
+Beijing is the capital of China.	बेइजिङ चीनको राजधानी हो।	
+Being modest never hurt anybody.	नम्र हुनाले कसैलाई कहिल्यै हानि पुर्याउदैन।	
+Contact Tom Jackson for details.	विवरणका लागि टम ज्याक्सनलाई सम्पर्क गर्नुहोस्।	
+Could I have something to drink?	के म पिउन केहि पाउन सक्छु?	
+Delete Tom's name from the list.	सूचीबाट टमको नाम मेटाउनुहोस्।	
+Everyone knows that you hit Tom.	सबैलाई थाहा छ कि तपाईले टमलाई हिर्काउनुभयो।	
+Everything was clear and simple.	सबै कुरा स्पष्ट र सरल थियो।	
+Excuse me. Do you speak English?	मलाईं माफ गर्नुहोस्। के तपाईँ अङ्ग्रेजी बोल्नुहुन्छ?	
+Have you ever made marshmallows?	के तपाईंले कहिल्यै मार्शमेलो बनाउनुभएको छ?	
+Have you seen any movies lately?	हालसालै कुनै चलचित्र हेर्नुभएको छ?	
+He has no more than 100 dollars.	उहाँसँग १०० डलरभन्दा बढी छैन।	
+How long did you stay in Boston?	तपाईं बोस्टनमा कति लामो बस्नु भयो?	
+How much of this is Tom's fault?	यसमा टमको कत्तिको गल्ती छ?	
+How much of this stuff is yours?	यो सामान तपाईको कति हो?	
+How often do you ride a bicycle?	तपाई कत्तिको पटक साइकल चलाउन हुन्छ?	
+I did not understand him at all.	मैले उसलाई पटक्कै बुझिन।	
+I don't think that you're funny.	मलाई लाग्दैन कि तपाईं हास्यास्पद हुनुहुन्छ।	
+I have more than one girlfriend.	मेरो एक भन्दा बढी प्रेमिका छन्।	
+I have more than one girlfriend.	मे संग एक भन्दा बढी प्रेमिका छन्।	
+I hope our plane leaves on time.	मलाई आशा छ कि हाम्रो विमान समयमै प्रस्थान गर्छ।	
+I probably won't be able to win.	सायद म जित्न सक्दिन होला।	
+I slept for the rest of the day.	म बाँकी दिन सुतेको थिएँ ।	
+I think I'd like to go with you.	मलाई लाग्छ म तपाईंसँग जान चाहन्छु।	
+I think it'll be sunny tomorrow.	भोलि घाम लाग्छ जस्तो लाग्छ।	
+I think that Tom is working now.	मलाई लाग्छ कि टम अहिले काम गरिरहेको छ।	
+I think you worry too much, Tom.	मलाई लाग्छ तपाईं धेरै चिन्तित हुनुहुन्छ, टम।	
+I want to eat breakfast outside.	म बिहानको खाजा बाहिर खान चाहन्छु।	
+I want to punch you in the face.	म तेरो अनुहारमा मुक्का हान्न चाहन्छु।	
+I'll be staying here for a week.	म यहाँ एक हप्ता बस्नेछु।	
+I'll give you anything you want.	म तिमी जे चाहन्छौ त्यहि दिन्छु।	
+I'm hoping we can do that today.	मलाई आशा छ कि आज हामी त्यो गर्न सक्छौं।	
+I'm positive that I can do that.	म त्यो गर्न सक्छु भन्नेमा सकारात्मक छु।	
+I'm pretty sure Tom's competent.	म पक्का छु कि टम सक्षम छ।	
+I'm sure that Tom remembers you.	म पक्का छु कि टमले तपाईलाई सम्झेको छ।	
+I've already spent all my money.	मैले पहिले नै सबै पैसा खर्च गरिसकेको छु।	
+I've been in line all afternoon.	दिउँसो दिनभर लाइनमा बसेको छु ।	
+I've changed my opinion on that.	मैले यसमा मेरो धारणा परिवर्तन गरेको छु।	
+It isn't raining much this year.	यो वर्ष खासै पानी परेको छैन ।	
+It's getting darker outside now.	बाहिर अँध्यारो हुँदैछ।	
+It's not healthy to eat and run.	खाना खाएर दौडनु स्वस्थकर होइन।	
+It's walking distance from here.	यहाँबाट हिड्ने दूरीमा छ।	
+Learning French isn't difficult.	फ्रान्सेली सिक्न गाह्रो छैन।	
+Mary doesn't eat pork, does she?	मेरी सुँगुरको मासु खादिनन् , हैन?	
+May I see your passport, please?	के म तपाईंको पासपोर्ट हेर्न सक्छु?	
+Ottawa is the capital of Canada.	ओटावा क्यानाडाको राजधानी हो।	
+The capital of Poland is Warsaw.	पोल्याण्डको राजधानी वारसा हो।	
+The color I like most is orange.	मलाई सबैभन्दा मनपर्ने रङ सुन्तले हो।	
+The exam is coming up next week.	अर्को हप्ता परीक्षा आउँदैछ।	
+The plane flew above the clouds.	विमान बादल माथि उड्यो।	
+The process is very complicated.	प्रक्रिया एकदमै जटिल छ।	
+This is one of Tom's best poems.	यो टमको उत्कृष्ट कविताहरू मध्ये एक हो।	
+Tom and Mary are often together.	टम र मेरी अक्सर सँगै हुन्छन्।	
+Tom and Mary were drinking beer.	टम र मेरी बियर पिइरहेका थिए।	
+Tom did Mary's homework for her.	टमले उनको लागि मेरीको गृहकार्य गरे।	
+Tom didn't look very busy to me.	टम मेरो लागि धेरै व्यस्त देखिएन।	
+Tom is already three hours late.	टम पहिले नै तीन घण्टा ढिलो छ।	
+Tom is an amazing guy, isn't he?	टम एक अचम्मको मान्छे हो, हैन?	
+Tom is my husband's middle name.	टम मेरो श्रीमानको बीचको नाम हो।	
+Tom is my husband's middle name.	टम मेरो पतिको बीचको नाम हो।	
+Tom is still too young to drive.	टम अझै पनि ड्राइभ गर्न को लागी धेरै जवान छ।	
+Tom is working in Australia now.	टम अहिले अस्ट्रेलियामा काम गर्दैछ।	
+Tom left at four in the morning.	टम बिहान चार बजे निस्कियो।	
+Tom left at four in the morning.	टम बिहान चार बजे गए।	
+Tom looked really uncomfortable.	टम साँच्चै असहज देखिन्थ्यो ।	
+Tom plans to go home by himself.	टमले एक्लै घर जाने योजना बनाउँछ।	
+Tom planted a little peach tree.	टमले एउटा सानो आरुको रूख रोपे।	
+Tom said he couldn't believe it.	टमले भने कि उसले यो विश्वास गर्न सक्दैनन्।	
+Tom seemed very full of himself.	टम आफैंमा धेरै भरिएको देखिन्थ्यो।	
+Tom should tell Mary to do that.	टमले मेरीलाई त्यसो गर्न भन्नु पर्छ।	
+Tom thinks that Mary is my name.	टम सोच्छन् कि मेरो नाम मेरी हो।	
+Tom went from Boston to Chicago.	टम बोस्टनबाट शिकागो गए।	
+Tom's dog never barks at anyone.	टमको कुकुर कहिल्यै कसैलाई भुक्दैन।	
+Tom's grandfather couldn't read.	टमका हजुरबुवाले पढ्न सक्नुहुदैन थियो।	
+We should only eat healthy food.	हामीले स्वस्थकर खाना मात्रै खानुपर्छ।	
+Were you popular in high school?	के तपाई हाई स्कूलमा लोकप्रिय हुनुहुन्थ्यो?	
+What kind of mushrooms are they?	तिनीहरू कुन प्रकारका च्याउ हुन्?	
+Where do you attend high school?	तपाईं कुन हाईस्कूल जानुहुन्छ?	
+Where do you attend high school?	तपाईं कुन हाईस्कूलमा जादै हुनुहुन्छ?	
+Why don't you have any kids yet?	तपाईका अझै बच्चाहरू किन छैनन्?	
+Why would you like to work here?	किन यहाँ काम गर्न चाहान्छौ?	
+You like older women, don't you?	तपाईलाई वृद्ध महिलाहरू मनपर्छ, हैन?	
+You need to respect the elderly.	ज्येष्ठ नागरिकलाई सम्मान गर्नुपर्छ।	
+You seem to know a lot about me.	तिमीलाई मेरो बारेमा धेरै कुरा थाहा छ जस्तो लाग्छ।	
+Berlin is the capital of Germany.	बर्लिन जर्मनीको राजधानी हो।	
+Can I still get something to eat?	के म अझै पनि खानेकुरा पाउन सक्छु?	
+Can you talk about that a little?	यसबारे अलिकति कुरा गर्न सक्नुहुन्छ?	
+Did you forget your wallet again?	के तपाईंले आफ्नो वालेट फेरि बिर्सनुभयो?	
+Do you know how to change a fuse?	के तपाईंलाई फ्यूज कसरी परिवर्तन गर्ने थाहा छ?	
+Do you know where Tom's house is?	के तपाईलाई थाहा छ टमको घर कहाँ छ?	
+Don't forget to do your homework.	आफ्नो गृहकार्य गर्न नबिर्सनुहोस्।	
+Have you already eaten some cake?	अघिनै केक खाइसक्नु भयो?	
+He has been dead for three years.	उनको मृत्यु भएको तीन वर्ष भयो ।	
+How will the weather be tomorrow?	भोलिको मौसम कस्तो रहनेछ?	
+I didn't really think about that.	मैले साँच्चै यसको बारेमा सोचेको छैन।	
+I don't mind the smell of durian.	मलाई डुरियनको गन्धमा कुनै आपत्ति छैन।	
+I don't want anybody to get hurt.	म कसैलाई चोट पुर्याउन चाहन्न।	
+I gave Tom some milk and cookies.	मैले टमलाई केही दूध र कुकीहरू दिएँ।	
+I haven't decided what to do yet.	मैले अझै के गर्ने निर्णय गरेको छैन।	
+I just downloaded a lot of files.	मैले भर्खरै धेरै फाईलहरू डाउनलोड गरें।	
+I live next door to the toy shop.	म खेलौना पसलको छेउमा बस्छु।	
+I thought Tom might be in Boston.	मैले सोचे कि टम बोस्टन मा हुन सक्छ।	
+I was surprised when Tom told me.	जब टमले मलाई भन्यो म छक्क परें।	
+I've forgotten Tom's wife's name.	मैले टमकी श्रीमतीको नाम बिर्सिए।	
+It is said that he was very rich.	भनिन्छ उनी निकै धनी थिए ।	
+It's colder today than yesterday.	हिजो भन्दा आज चिसो बढेको छ ।	
+London is the capital of England.	लन्डन इङ्गल्याण्ड को राजधानी हो।	
+My brother and I were very close.	मेरो भाइ र म धेरै नजिक थियौं।	
+Never be afraid to make mistakes.	असफलता देखि नडराऊ।	
+Results will be announced Monday.	नतिजा सोमबार घोषणा हुनेछ।	
+The pig is an intelligent animal.	सुँगुर एक बुद्धिमान प्राणी हो।	
+The public has the right to know.	जनतालाई जान्न पाउने अधिकार छ ।	
+There's no time to do that today.	आज त्यो गर्ने समय छैन।	
+This ring is the one Tom gave me.	यो टमले मलाई दिएको एउटा औंठी हो।	
+Tom always gets up at six-thirty.	टम जहिले पनि साढे छ बजे उठ्छ।	
+Tom doesn't express himself well.	टमले आफूलाई राम्रोसँग व्यक्त गर्दैन।	
+Tom gave me this for my birthday.	टमले मलाई मेरो जन्मदिनको लागि यो दिए।	
+Tom has everything under control.	टमको नियन्त्रणमा सबै कुरा छ।	
+Tom is in the hospital, isn't he?	टम अस्पतालमा छ, हैन?	
+Tom is still doing that, I think.	टम अझै पनि त्यही गरिरहेको छ, मलाई लाग्छ।	
+Tom is working in his office now.	टम अहिले आफ्नो कार्यालयमा काम गर्दैछ।	
+Tom isn't here because he's sick.	टम यहाँ छैन किनभने ऊ बिरामी छ।	
+Tom loves pizza and french fries.	टमलाई पिज्जा र फ्रेन्च फ्राइज मन पर्छ।	
+Tom said he was happy to do that.	टमले यसो गर्न पाउँदा खुसी लागेको बताए।	
+Tom was the one who gave me this.	टम एक थियो जसले मलाई यो दियो।	
+We expected Tom to behave better.	हामीले टमले राम्रो व्यवहार गर्ने अपेक्षा गरेका थियौं।	
+What did you do for Father's day?	बुवाको दिनमा के गर्नुभयो ?	
+When was the last time you cried?	तिमी अन्तिम पटक कहिले रोएको थियौ ?	
+Why do you need to borrow my car?	तपाईंले मेरो कार किन सापटी लिनु पर्यो ?	
+You have to go back to Australia.	तपाई अष्ट्रेलिया फर्किनु पर्छ।	
+You must respect senior citizens.	ज्येष्ठ नागरिकलाई सम्मान गर्नुपर्छ।	
+You're going to be my son-in-law.	तपाई मेरो ज्वाइँ बन्दै हुनुहुन्छ।	
+You're in better shape than I am.	तपाईं म भन्दा राम्रो अवस्थामा हुनुहुन्छ।	
+"What are you studying?" "French."	"तिमी के पढ्दै छौ?" "फ्रान्सेली भाषा।"	
+An explosion blew the house apart.	विष्फोटले घर ध्वस्त पारेको छ ।	
+Can you pick me up at the station?	के मलाई स्टेशनमा लिन आउन सक्छौ?	
+Can you please explain this to me?	कृपया मलाई यो कुरा बुझाउन सक्नुहुन्छ?	
+Could you leave this book with me?	के तपाईं यो किताब मसँग छोड्न सक्नुहुन्छ?	
+Excuse me, are you a student here?	माफ गर्नुहोस्, के तपाईं यहाँको विद्यार्थी हुनुहुन्छ?	
+French is an interesting language.	फ्रेन्च एउटा रोचक भाषा हो।	
+Have my piece of cake if you like.	यदि तपाईलाई मन पर्यो भने मेरो केकको टुक्रा लिनुहोस्।	
+He had friends all over the world.	संसारभरि उनका साथी थिए ।	
+He is very good at playing violin.	उनी भायोलिन बजाउन निकै माहिर छन् ।	
+He really likes the United States.	उसलाई संयुक्त राज्य अमेरिका मन पर्छ।	
+He was very friendly to everybody.	उनी सबैसँग निकै मिलनसार थिए।	
+He was very friendly to everybody.	उहाँ सबैसँग धेरै मिलनसार हुनुहुन्थ्यो।	
+How could you write such a letter?	तपाई यस्तो पत्र कसरी लेख्न सक्नु हुन्छ ?	
+How could you write such a letter?	तिमीले यस्तो चिठ्ठी कसरी लेख्न सक्यौ?	
+How long are you going to do this?	तपाई कहिले सम्म यो गर्न जाँदै हुनुहुन्छ?	
+How was the man you met yesterday?	हिजो भेटेको मान्छे कस्तो थियो?	
+I bought a watch and an empty box.	मैले एउटा घडी र एउटा खाली बक्स किनेँ।	
+I didn't know Tom was from Boston.	टम बोस्टनबाट आएको मलाई थाहा थिएन।	
+I don't think I have one of those.	के तपाई आज त्यसो गर्न रुचाउनुहुन्छ?	
+I forgot Tom used to be a plumber.	टम प्लम्बर हुनुहुन्थ्यो भनेर मैले बिर्सें।	
+I found a good Mexican restaurant.	मैले एउटा स्वादिष्ट मेक्सिकन रेस्टुरेन्ट फेला पारे।	
+I guess nobody buys these anymore.	मलाई लाग्छ अब यो कसैले किन्दैन।	
+I had the good fortune to succeed.	म सफल हुन भाग्यशाली थिएँ।	
+I have heard nothing from him yet.	मैले अहिलेसम्म उहाँबाट केही पनि सुनेको छैन।	
+I never thought I'd do this again.	मैले कहिल्यै सोचेको थिइन कि म यो फेरि गर्नेछु।	
+I saw Tom limping down the street.	मैले टमलाई सडकमा लङ्गडा गरिरहेको देखेँ।	
+I showed Tom how to tie a bowline.	मैले टमलाई बाउलाइन कसरी बाँध्ने भनेर देखाएँ।	
+I think Tom is having a good time.	मलाई लाग्छ टमले राम्रो समय बिताइरहेको छ।	
+I think Tom was born in Australia.	मलाई लाग्छ टम अष्ट्रेलियामा जन्मिएको हो।	
+I think that Tom would be nervous.	मलाई लाग्छ कि टम नर्भस हुनेछ।	
+I was at a loss as to what to say.	म के भन्नू भनी अलमलमा परें।	
+I would like to improve my French.	म मेरो फ्रान्सेली सुधार गर्न चाहन्छु।	
+I'm tired and I want to go to bed.	म थाकेको छु र म ओछ्यानमा जान चाहन्छु।	
+I've never seen Tom wearing a tie.	मैले टमलाई टाई लगाएको कहिल्यै देखेको छैन।	
+It'll be finished in a day or two.	यो एक दुई दिनमा सकिन्छ।	
+My father is the one drinking tea.	चिया पिउने मेरो बुवा हुनुहुन्छ।	
+Nowadays jobs are hard to come by.	आजकल काम पाउन गाह्रो छ।	
+Only a few people listened to him.	थोरै मानिसले मात्र उनको कुरा सुने।	
+Phoenix is the capital of Arizona.	फिनिक्स एरिजोना को राजधानी हो।	
+Something has gone terribly wrong.	केही नराम्रोसँग गडबड भएको छ।	
+The capital of Brazil is Brasilia.	ब्राजिलको राजधानी ब्रासिलिया हो।	
+The fire destroyed the whole city.	आगलागीले पूरै सहर ध्वस्त पारेको छ ।	
+Those books are written in French.	ती पुस्तकहरू फ्रेन्चमा लेखिएका छन्।	
+Tom and I agreed to work together.	टम र म सँगै काम गर्न सहमत भयौं।	
+Tom and Mary are now eating lunch.	टम र मेरी अहिले खाजा खाँदैछन्।	
+Tom and Mary argued all afternoon.	टम र मेरीले दिउँसो भरी बहस गरे।	
+Tom asked me a confusing question.	टमले मलाई एक भ्रमित प्रश्न सोध्यो।	
+Tom has decided to buy the island.	टमले टापु किन्ने निर्णय गरेको छ।	
+Tom has earned a number of awards.	टमले धेरै अवार्ड जितिसकेका छन्।	
+Tom is a former student of Mary's.	टम मेरीको पूर्व विद्यार्थी हो।	
+Tom is good at baking gingerbread.	टम जिंजरब्रेड पकाउने मा राम्रो छ।	
+Tom is likely to be here tomorrow.	टम भोलि यहाँ हुने सम्भावना छ।	
+Tom is no longer Mary's boyfriend.	टम अब मेरीको प्रेमी रहेन।	
+Tom left the hospital immediately.	टमले तुरुन्तै अस्पताल छोड्यो।	
+Tom put something in Mary's drink.	टमले मेरीको पेय पदार्थमा केही राख्यो।	
+Tom said he had something for you.	टमले तिम्रो लागि केही छ भन्यो।	
+Tom said he would quit doing that.	टमले त्यसो गर्न छोड्ने बताए।	
+Tom said that Mary was very drunk.	टमले मेरी धेरै मातेको बताए।	
+Tom speaks French as well as Mary.	टम फ्रेन्च बोल्छन् र मेरी पनि।	
+Tom threw a chair across the room.	टमले कोठाभरि कुर्सी फ्याँक्यो।	
+Tom told Mary to try to keep calm.	टमले मेरीलाई शान्त रहन कोसिस गर्न भने।	
+Tom urged Mary to drive carefully.	टमले मेरीलाई सावधानीपूर्वक गाडी चलाउन आग्रह गरे।	
+Tom was dating Mary in those days.	टम ती दिनहरूमा मेरीलाई डेट गर्दै थिए।	
+Tom was dating Mary in those days.	टम त्यतिबेला मेरीसँग डेट गर्दै थिए।	
+Tom was sitting alone in his room.	टम आफ्नो कोठामा एक्लै बसिरहेको थियो।	
+Tom wasn't wearing a blue sweater.	टमले निलो स्वेटर लगाएको थिएन।	
+Tom works every day except Monday.	टम सोमबार बाहेक हरेक दिन काम गर्दछ।	
+Tom works every day except Monday.	टम सोमबार बाहेक हरेक दिन काम गर्छ।	
+We'll all be dead in thirty years.	तीस वर्षमा हामी सबै मर्नेछौं।	
+Where did you buy your motorcycle?	तपाईले आफ्नो मोटरसाइकल कहाँ किन्नुभयो?	
+Why don't you ask Tom to help you?	तपाईं किन टमलाई मद्दत गर्न आग्रह गर्नुहुन्न?	
+Why is it important to save money?	किन पैसा बचत गर्न महत्त्वपूर्ण छ?	
+You've always been a quiet person.	तपाईं सधैं शान्त व्यक्ति हुनुहुन्छ।	
+Bangkok is the capital of Thailand.	बैंकक थाइल्याण्डको राजधानी हो।	
+Being with you makes me feel happy.	तिम्रो साथमा हुँदा मलाई खुसी लाग्छ।	
+Bern is the capital of Switzerland.	बर्न स्विट्जरल्याण्ड को राजधानी हो।	
+Boston is a really beautiful place.	बोस्टन साँच्चै सुन्दर ठाउँ हो।	
+Boston is a really beautiful place.	बोस्टन एक साँच्चै सुन्दर स्थान हो।	
+Brussels is the capital of Belgium.	ब्रसेल्स बेल्जियम को राजधानी हो।	
+Did I tell you I got my own office?	के मैले तपाईलाई मेरो आफ्नै अफिस छ भनेको थिएँ?	
+Don't forget to take your medicine.	आफ्नो औषधि लिन नबिर्सनुहोस्।	
+Halloween is still three days away.	हलोविन आउन अझै तीन दिन बाँकी छ।	
+He has red spots all over his body.	मेरो जिउभरि रात दागहरू छन्।	
+He tends to ask a lot of questions.	उसको धेरै प्रश्न सोध्ने बानी छ।	
+Helsinki is the capital of Finland.	हेलसिंकी फिनल्याण्डको राजधानी हो।	
+How much does a liter of milk cost?	एक लिटर दूधको मूल्य कति पर्छ?	
+I can't buy such an expensive book.	म यति महँगो किताब किन्न सक्दिन।	
+I can't conceive of Tom doing that.	टमले त्यसो गरेको म कल्पना गर्न सक्दिन।	
+I can't remember Tom's wife's name.	म टमकी श्रीमतीको नाम सम्झन सक्दिन।	
+I didn't want to be a part of that.	म त्यसको हिस्सा बन्न चाहन्नथें।	
+I don't know what I need to do yet.	मलाई थाहा छैन मैले के गर्न आवश्यक छ।	
+I don't remember Tom's wife's name.	मलाई टमकी श्रीमतीको नाम याद छैन।	
+I don't suppose anyone will notice.	कसैको ध्यानाकर्षण होला जस्तो मलाई लाग्दैन।	
+I don't think that you can do that.	मलाई लाग्दैन कि तपाईंले त्यो गर्न सक्नुहुन्छ।	
+I don't think that you can do that.	मलाई लाग्दैन कि तिमीले त्यो गर्न सक्छौ।	
+I don't want to spend time in jail.	म कारागारमा समय बिताउन चाहन्न।	
+I hate going outside in the winter.	मलाई जाडोमा बाहिर जान मन लाग्दैन।	
+I hate going outside in the winter.	मलाई जाडोमा बाहिर निस्कन मन लाग्दैन।	
+I know you from somewhere, don't I?	म तिमीलाई कतैबाट चिन्छु, हैन?	
+I prefer silver rings to gold ones.	म सुनको भन्दा चाँदीको औंठी मन पराउँछु।	
+I prefer silver rings to gold ones.	मलाई सुनको भन्दा चाँदीको औंठी मनपर्छ।	
+I promised I wouldn't say anything.	मैले केही नबोल्ने वाचा गरेँ ।	
+I submitted the application myself.	मैले आफैंले आवेदन बुझाएँ।	
+I thought Tom was Mary's boyfriend.	मलाई टम मेरीको प्रेमी थियो भन्ने लाग्यो।	
+I usually eat rice with chopsticks.	म प्रायः चपस्टिकले भात खान्छु।	
+I'll call Tom when I get to Boston.	म बोस्टन पुग्दा टमलाई कल गर्नेछु।	
+I'll finish it as quickly as I can.	म जतिसक्दो चाँडो यसलाई सक्छु।	
+I'm going to miss you an awful lot.	म तिमीलाई धेरै मिस गर्नेछु।	
+I'm going to take a trip to Boston.	म बोस्टन यात्रा गर्न जाँदैछु।	
+I'm learning two foreign languages.	म दुई विदेशी भाषाहरू सिक्दैछु।	
+I've gotten used to wearing a mask.	मलाई मास्क लगाउने बानी परेको छ ।	
+If you eat that, Tom will be angry.	यदि यो खायौ भने टम रिसाउनेछ।	
+It is especially cold this morning.	विशेषगरी आज बिहान चिसो छ।	
+Let Tom do whatever he wants to do.	टमले जे गर्न चाहन्छ त्यो गर्न दिनुहोस्।	
+Let's see what's happening outside.	बाहिर के भइरहेको छ हेरौं।	
+Mathematics is my favorite subject.	गणित मेरो मनपर्ने विषय हो।	
+My grandfather likes reading books.	हजुरबुबालाई किताब पढ्न मन पर्छ।	
+Remember to thank Tom for the gift.	उपहारको लागि टमलाई धन्यवाद दिन सम्झनुहोस्।	
+She didn't know what to say to him.	उसलाई के भन्ने उनीलाई थाहा थिएन।	
+She felt insecure about her future.	उनलाई आफ्नो भविष्यको चिन्ता लागेको थियो।	
+She is always cheerful and smiling.	उनी सधैं उज्याली र हँसिली छिन्।	
+She is not a doctor, but a teacher.	उनी डाक्टर होइनन्, शिक्षक हुन्।	
+The book doesn't have a title, yet.	किताबको अहिलेसम्म शीर्षक छैन।	
+The enemy of my enemy is my friend.	मेरो शत्रुको पनि शत्रु मेरो मित्र हो।	
+The king once lived in that palace.	कुनै समय राजा त्यही दरबारमा बस्थे ।	
+The king once lived in that palace.	कुनै समय त्यो दरबारमा राजा बस्थे।	
+The person who can help you is Tom.	तपाईलाई मद्दत गर्न सक्ने व्यक्ति टम हो।	
+The single rooms were fully booked.	सिंगल कोठाहरू पूरै बुक भइसकेका थिए।	
+This isn't your kind of place, Tom.	यो तिम्रो प्रकारको ठाउँ होइन, टम।	
+Tom admitted that he was terrified.	टमले स्वीकार गरे कि उनी डराएको थिए।	
+Tom asked me what I had been doing.	टमले मलाई के गरिरहेको थियौ भनेर सोधे।	
+Tom bought a very expensive camera.	टमले धेरै महँगो क्यामेरा किने।	
+Tom covered his eyes with one hand.	टमले एक हातले आफ्नो आँखा छोप्यो।	
+Tom doesn't care what people think.	टमले मानिसहरू के सोच्छन् वास्ता गर्दैन।	
+Tom got married when he was thirty.	टमले तीस वर्षको हुँदा विवाह गरे।	
+Tom has already finished breakfast.	टमले पहिले नै बिहानको खाजा खाइसकेको छ।	
+Tom has visited a lot of countries.	टमले धेरै देशको भ्रमण गरेको छ।	
+Tom headed straight for the bazaar.	टम सिधै बजार तर्फ लागे।	
+Tom is leaving for Boston tomorrow.	टम भोलि बोस्टनको लागि प्रस्थान गर्दैछ।	
+Tom is not in prison at the moment.	टम हाल जेलमा छैनन्।	
+Tom is not in prison at the moment.	टम हाल जेलमा छैन।	
+Tom is older than I thought he was.	टम मैले सोचेको भन्दा बुढो रहेछ।	
+Tom is sleeping in the living room.	टम बैठक कोठामा सुतिरहेको छ।	
+Tom is still somewhere in the park.	टम अझै पनि पार्क मा कतै छ।	
+Tom is too ugly to work as a model.	मोडेलको रूपमा काम गर्न टम धेरै कुरूप छ।	
+Tom isn't Mary's boyfriend anymore.	टम अब मेरीको प्रेमी रहेन।	
+Tom isn't very good at mathematics.	टम गणितमा धेरै राम्रो छैन।	
+Tom often goes out with his father.	टम अक्सर आफ्नो बुबा संग बाहिर जान्छ।	
+Tom often goes out with his father.	टम प्रायः आफ्नो बुबासँग बाहिर जान्छ।	
+Tom said that he needed to do that.	टमले भने कि उनले त्यो गर्न आवश्यक छ।	
+Tom says he can't walk any further.	टम भन्छन् कि उनी अगाडि हिड्न सक्दैनन्।	
+Tom should arrive in a few minutes.	टम केही मिनेटमा आइपुग्नु पर्छ।	
+Tom started whistling a happy tune.	टमले सुसेलेर खुशीको धुन बजाउन थाल्यो।	
+Tom tells me you're his girlfriend.	टमले मलाई तिमी उसको प्रेमिका हौ भन्छन्।	
+Tom was afraid to stay in the cave.	टम गुफामा बस्न डरायो।	
+Tom was on the same plane as I was.	टम म भएकै विमानमा थियो।	
+Tom will follow my advice, I think.	मलाई लाग्छ, टमले मेरो सल्लाह पालन गर्नेछ।	
+Tom's coffee mug is next to Mary's.	टमको कफी मग मेरीको छेउमा छ।	
+We haven't actually set a date yet.	हामीले वास्तवमा अझै मिति तय गरेका छैनौं।	
+We washed our clothes in the river.	हामीले खोलामा लुगा धोयौं।	
+What'll tomorrow's weather be like?	भोलिको मौसम कस्तो रहनेछ?	
+What's the world's biggest problem?	संसारको सबैभन्दा ठूलो समस्या के हो?	
+What's your favorite kind of pizza?	तपाइँको मनपर्ने पिज्जा कस्तो प्रकारको हो?	
+Where did Tom get all those plants?	टमले ती सबै बिरुवाहरू कहाँ ल्याए?	
+Where should I put these suitcases?	मैले मेरो सुटकेस कहाँ राख्नु पर्छ?	
+Why did you let Mary go by herself?	तिमीले मेरीलाई किन एक्लै जान दियौ?	
+You look good without your glasses.	तपाईं आफ्नो चश्मा बिना राम्रो देखिनुहुन्छ।	
+You must be very worried about Tom.	तपाईं टमको बारेमा धेरै चिन्तित हुनुपर्छ।	
+Are you going to attend the meeting?	के तपाई बैठकमा भाग लिने योजनामा हुनुहुन्छ?	
+Are you going to attend the meeting?	के तपाई बैठकमा भाग लिनुहुन्छ?	
+Do you have a fountain pen with you?	के तपाईसँग फाउन्टेन पेन छ?	
+Do you know where Tom might've gone?	के तपाईंलाई थाहा छ टम कहाँ गएको हुन सक्छ?	
+Excuse me, which way is the station?	माफ गर्नुहोस्, स्टेशन कुन दिशातिर छ?	
+He is the black sheep of the family.	ऊ परिवारको कालो भेडा हो।	
+How long may I borrow this notebook?	म यो नोटबुक कहिले सम्म लिन सक्छु?	
+How long may I borrow this notebook?	म यो नोटबुक कहिले सम्म उधारो लिन सक्छु?	
+I assure you this is only temporary.	म तपाईलाई आश्वासन दिन्छु कि यो अस्थायी मात्र हो।	
+I come to Boston three times a year.	म वर्षमा तीन पटक बोस्टन आउँछु।	
+I couldn't think of anything to say.	मैले केही बोल्ने सोच्नै सकिन।	
+I don't know this part of town well.	मलाई सहरको यो भाग राम्ररी थाहा छैन।	
+I fell in love with a Canadian girl.	म क्यानाडाली केटीसँग प्रेममा परे।	
+I have to be in Australia on Monday.	म सोमबार अस्ट्रेलियामा हुनु पर्छ।	
+I hope Tom isn't still in Australia.	मलाई आशा छ कि टम अझै अष्ट्रेलियामा छैन।	
+I knew Tom could do that by himself.	मलाई थाहा थियो कि टम आफैले यो गर्न सक्छ।	
+I might be able to help you do that.	म तपाईंलाई त्यसो गर्न मद्दत गर्न सक्षम हुन सक्छु।	
+I opened the drawer to get a pencil.	मैले पेन्सिल लिनको लागि दराज खोलेँ।	
+I still haven't decided where to go.	कहाँ जाने भनेर मैले अझै निर्णय गरेको छैन।	
+I think I locked my keys in the car.	मलाई लाग्छ कि मैले मेरो चाबी कारमा लक गरेको छु।	
+I understand what you want me to do.	म बुझ्छु तिमीले मलाई के गरोस् भन्ने चाहन्छौ।	
+I'm not feeling particularly hungry.	मलाई खासै भोक लागेको छैन।	
+I'm not sure that I want to do this.	म यो गर्न चाहन्छु भनेर म पक्का छुइन।	
+I've been working very hard all day.	मैले दिनभरि निकै मेहनत गरेको छु ।	
+It will be finished in a day or two.	यो एक दुई दिनमा सकिन्छ।	
+Let's get together here once a week.	हामी हप्तामा एकपटक यहाँ भेटौ।	
+My parents died when I was thirteen.	म १३ वर्षको हुँदा आमाबुवाको मृत्यु भयो।	
+My parents died when I was thirteen.	म १३ वर्षको हुँदा मेरा आमाबुवाको मृत्यु भयो।	
+Please write down your home address.	कृपया आफ्नो घरको ठेगाना प्रविष्ट गर्नुहोस्।	
+She couldn't hold back her laughter.	उनले आफ्नो हाँसो थाम्न सकिनन्।	
+She visited at her aunt's yesterday.	उनी हिजो आफ्नो काकीको घरमा गएकी थिइन्।	
+Someone should've called the police.	कसैले प्रहरीलाई बोलाउनुपर्थ्यो।	
+Sometimes my questions are answered.	कहिलेकाहीँ मेरा प्रश्नहरूको जवाफ दिइन्छ।	
+The climate problem is very complex.	जलवायु समस्या निकै जटिल छ।	
+The headline is somewhat misleading.	शीर्षक अलि भ्रामक छ।	
+This watch cost me ten thousand yen.	यो घडीको मूल्य १०,००० येन थियो।	
+Today I want to eat something light.	म आज केहि हल्का खानेकुरा खान चाहन्छु।	
+Tom and Mary really liked Australia.	टम र मेरीले अस्ट्रेलियालाई साँच्चै मन पराए।	
+Tom didn't know what to say to Mary.	मेरीलाई के भन्ने भनेर टमलाई थाहा थिएन।	
+Tom didn't want anyone to get angry.	टमले कोही रिसाएको चाहँदैनथे।	
+Tom doesn't like milk in his coffee.	टमलाई आफ्नो कफीमा दूध मन पर्दैन।	
+Tom doesn't need to wait any longer.	टमले अब पर्खनु पर्दैन।	
+Tom intends to visit Mary on Monday.	टम सोमबार मेरीलाई भेट्न चाहन्छन्।	
+Tom is a doctor like his father was.	टम आफ्नो बुबा जस्तै डाक्टर हो।	
+Tom is at the bank exchanging money.	टम बैंकमा पैसा साट्दै छ।	
+Tom is working at a supermarket now.	टम अहिले सुपरमार्केटमा काम गर्दैछ।	
+Tom killed himself three months ago.	तीन महिनाअघि टमले आत्महत्या गरेका थिए ।	
+Tom killed himself three months ago.	टमले तीन महिनाअघि आत्महत्या गरेका थिए ।	
+Tom learned a lot from his mistakes.	टमले आफ्नो गल्तीबाट धेरै कुरा सिक्यो।	
+Tom lives in the apartment above us.	टम हाम्रो अपार्टमेन्ट भन्दा माथिल्लो तल्लामा बस्छ।	
+Tom might be in Australia with Mary.	टम मेरीसँग अष्ट्रेलियामा हुन सक्छ।	
+Tom put ketchup on his french fries.	टमले आफ्नो फ्रेन्चफ्राइजमा केट्चप हाल्यो।	
+Tom said that he had a lot of money.	टमले भने कि उनीसँग धेरै पैसा छ।	
+Tom seemed to know nothing about it.	टमलाई यसबारे केही थाहा नभएको देखिन्थ्यो।	
+Tom stayed in Boston for three days.	टम बोस्टनमा तीन दिन बसे।	
+Tom was waiting for someone outside.	टम बाहिर कसैलाई पर्खिरहेको थियो।	
+Tom was wearing tight-fitting jeans.	टमले टाइट फिटिङ जीन्स लगाएका थिए।	
+Try to get home before it gets dark.	अँध्यारो हुनु अघि घर जाने प्रयास गर्नुहोस्।	
+What was that song you were singing?	तिमीले गाएको त्यो गीत के थियो ?	
+What was that song you were singing?	तपाईंले गाएको त्यो गीत के थियो ?	
+When will you come back from Boston?	बोस्टनबाट कहिले फर्किदै हुनुहुन्छ ?	
+Which one of these do you like best?	तपाईलाई यी मध्ये कुन राम्रो लाग्छ?	
+Would you put those bags in the car?	के तपाईं ती झोलाहरू कारमा राख्नु हुन्छ?	
+Beauty is in the eye of the beholder.	सुन्दरता हेर्नेको नजरमा भर पर्छ।	
+Do Tom and Mary both want to do that?	के टम र मेरी दुबै त्यसो गर्न चाहन्छन् ?	
+Don't you have anything better to do?	के तपाईसँग राम्रो गर्न केहि छैन र?	
+Gradually, things are getting better.	बिस्तारै, चीजहरू राम्रो हुँदैछन्।	
+How far is it from Boston to Chicago?	बोस्टन देखि शिकागो कति टाढा छ?	
+I can understand what you are saying.	मलाई थाहा छ तिमी के भन्दै छौ।	
+I don't remember who wrote that song.	त्यो गीत कसले लेखेको मलाई याद छैन।	
+I found it easy when I gave it a try.	मैले प्रयास गर्दा यो सजिलो लाग्यो।	
+I saw the girl swimming in the river.	मैले केटीलाई खोलामा पौडी खेलेको देखेँ।	
+I want to be with you whenever I can.	जब म सक्छु म तिम्रो साथ हुन चाहन्छु।	
+I'll meet you there as soon as I can.	जति सक्दो चाँडो त्यहाँ भेट्छु।	
+I'm, as you know, a very busy person.	म, तपाईलाई थाहा नै छ, धेरै व्यस्त व्यक्ति हुँ।	
+If the weather's fine, let's do that.	यदि मौसम ठीक छ भने, त्यसो गरौं।	
+It probably won't be easy to do that.	सायद यो गर्न सजिलो छैन।	
+Japan produces a lot of good cameras.	जापानले धेरै राम्रा क्यामेराहरू उत्पादन गर्छ।	
+Language is a means of communication.	भाषा संचार को एक माध्यम हो।	
+Let us know if you'd like to join us.	यदि तपाईं हामीसँग सामेल हुन चाहनुहुन्छ भने हामीलाई थाहा दिनुहोस्।	
+Mary spread the big map on the table.	मेरीले आफ्नो टेबलमा ठूलो नक्सा फैलाइन।	
+My sister is my daughter's godmother.	मेरी बहिनी मेरी छोरीको धर्ममाता हो।	
+My watch is more accurate than yours.	मेरो घडी तपाईको भन्दा धेरै सटीक छ।	
+Not knowing what to do, I called her.	के गर्ने भनेर थाहा नभएर , मैले उनलाई बोलाए।	
+Only time will tell if Tom was right.	केवल समयले बताउनेछ कि टम सही थियो।	
+Please remind me to call Tom at 2:30.	कृपया मलाई 2:30 मा टमलाई कल गर्न सम्झाउनुहोस्।	
+She used to play tennis every Sunday.	उनी हरेक आइतबार टेनिस खेल्ने गर्दथिन्।	
+Sorry, but I can't go along with you.	माफ गर्नुहोस्, तर म तपाईंसँग जान सक्दिन।	
+The drink I drink the most is coffee.	मैले सबैभन्दा धेरै पिउने पेय भनेको कफी हो।	
+The game was put off because of rain.	वर्षाका कारण खेल स्थगित भएको थियो।	
+The sun is setting below the horizon.	सूर्य क्षितिज मुनि अस्ताउँदैछ।	
+There's a cat in the conference room.	सम्मेलन कक्षमा बिरालो छ।	
+Those two children were the same age.	ती दुई बच्चा एउटै उमेरका थिए।	
+Tom and Mary both enjoyed that movie.	टम र मेरी दुबैले चलचित्रको आनन्द लिए।	
+Tom didn't know what the problem was.	टमलाई समस्या के हो थाहा थिएन।	
+Tom has also spent time in Australia.	टमले अष्ट्रेलियामा पनि समय बिताएका छन्।	
+Tom isn't going to help Mary do that.	टमले मेरीलाई त्यसो गर्न मद्दत गर्ने छैन।	
+Tom realized that I couldn't do that.	टमले बुझे कि म त्यो गर्न सक्दिन।	
+Tom refused to shake hands with Mary.	टमले मेरीसँग हात मिलाउन अस्वीकार गरे।	
+Tom spends a lot of money on clothes.	टमले कपडाको लागि धेरै पैसा खर्च गर्दछ।	
+Tom took a book out of his briefcase.	टमले आफ्नो ब्रिफकेसबाट एउटा किताब निकाले।	
+Tom was obviously not very impressed.	टम स्पष्ट रूपमा धेरै प्रभावित थिएनन्।	
+Tom was the first person to sit down.	पहिलो बस्ने व्यक्ति टम थियो।	
+Tom was there, but he didn't help us.	टम त्यहाँ थियो, तर उसले हामीलाई मद्दत गरेन।	
+What color is the roof of your house?	तपाईको घरको छानो कस्तो रङको छ?	
+What do you call that bird in French?	तपाईं त्यो चरालाई फ्रेन्चमा कसरी भन्नुहुन्छ?	
+What do you want to be in the future?	भविष्यमा के बन्न चाहनुहुन्छ?	
+What do you want to do in the future?	तिमी भविष्यमा के गर्न चाहान्छौ?	
+What time does that restaurant close?	त्यो रेस्टुरेन्ट कति बजे बन्द हुन्छ?	
+What website do you visit most often?	तपाइँ प्रायः कुन वेबसाइट चलाउने गर्नुहुन्छ?	
+What'll the weather be like tomorrow?	भोलिको मौसम कस्तो रहनेछ?	
+Who is better at French, Tom or Mary?	फ्रान्सेली मा को राम्रो छ, टम वा मेरी?	
+Why did you stop only the foreigners?	तिमीले किन विदेशीलाई मात्र रोकेको ?	
+Why did you stop only the foreigners?	तपाईले किन विदेशीलाई मात्र रोक्नुभएको ?	
+Will you please call me this evening?	के तपाईं मलाई आज बेलुका फोन गर्न सक्नुहुन्छ?	
+Women generally live longer than men.	महिलाहरु सामान्यतया पुरुषहरु भन्दा लामो समय बाँच्ने गर्दछ।	
+You can never forget your first love.	तिमीले आफ्नो पहिलो प्रेमलाई कहिल्यै भुल्न सक्दैनौ।	
+You must not forget your schoolbooks.	तिमीले आफ्नो स्कूलका किताबहरू बिर्सनु हुँदैन।	
+You're the only one who wants to win.	तपाईं मात्र एक हुनुहुन्छ जसले जित्न चाहन्छ।	
+Do you have any time to help me today?	के तपाईसँग आज मलाई मद्दत गर्नको लागि कुनै समय छ?	
+How do you say "I love you" in French?	फ्रान्सेली भाषामा "म तिमीलाई माया गर्छु" भन्दा कसरी भन्छौ?	
+How many times a day does the bus run?	बस दिनमा कति पटक चल्छ?	
+How often do you think that'll happen?	तपाइँ कति पटक यो हुनेछ भन्ने सोच्नुहुन्छ?	
+I can't leave work until five o'clock.	म ५ बजेसम्म काम छोड्न सक्दिन।	
+I haven't decided yet if I want to go.	यदि म जान चाहन्छु कि भनेर मैले अझै निर्णय गरेको छैन।	
+I haven't finished paying off my loan.	मैले अझै पनि ऋण तिर्न सकेको छैन।	
+I knew that Tom was afraid of heights.	मलाई थाहा थियो कि टम उचाइबाट डराउँछन्।	
+I like white roses more than red ones.	मलाई रातो गुलाब भन्दा सेतो गुलाब मन पर्छ।	
+I need to talk to you about this soon.	मलाई यस बारे तपाईंसँग चाँडै कुरा गर्न आवश्यक छ।	
+I think I know what Tom is doing here.	टम यहाँ के गर्दैछ भनेर मलाई थाहा छ।	
+I think you shouldn't have called Tom.	मलाई लाग्छ तपाईंले टमलाई बोलाउनु हुँदैनथ्यो।	
+I thought that Tom would want it back.	मैले सोचे कि टमले यो फिर्ता चाहन्छ।	
+I'm just buying some stuff for dinner.	म बेलुकाको खानाको लागि केही सामान किन्दै छु।	
+I'm not going to speak to Tom anymore.	म अब टमसँग कुरा गर्ने छैन।	
+I'm pretty sure Tom's happy in Boston.	म पक्का छु कि टम बोस्टनमा खुसी छ।	
+I'm sorry to hear that Tom is so sick.	टम धेरै बिरामी भएको कुरा सुनेर मलाई दुख लाग्यो।	
+I've been boxing since I was thirteen.	म तेह्र वर्षको उमेरदेखि बक्सिङ गर्दै आएको छु।	
+It has been raining since last Monday.	गत सोमबारदेखि पानी परिरहेको छ।	
+It would've been unethical to do that.	त्यसो गर्नु अनैतिक हुने थियो।	
+Making model planes is his only hobby.	मोडल प्लेन बनाउनु उनको एकमात्र शौक हो।	
+Mathematics is an interesting subject.	गणित एउटा रोचक विषय हो।	
+The mountaintops are hidden by clouds.	पहाडको चुचुरोलाई बादलले छोपेको छ ।	
+The store opens for business tomorrow.	भोलिदेखि पसल खुल्नेछ।	
+They went on many adventures together.	उनीहरु सँगै धेरै साहसिक कार्यमा गए ।	
+This is a poem written by Tom Jackson.	यो टम ज्याक्सन द्वारा लेखिएको कविता हो।	
+This is the perfect Father's Day gift.	यो उत्तम बुबाको मुख हेर्ने दिनको उपहार हो।	
+Tom always blames Mary for everything.	टमले सधैं सबै कुरामा मेरीलाई दोष दिन्छ।	
+Tom and I danced together all evening.	टम र मैले पुरै साँझमा सँगै नाच्यौं।	
+Tom didn't do what you told him to do.	टमले तपाईंले उसलाई जे गर्न भन्नुभएको थियो त्यो गरेन।	
+Tom died when he was thirty years old.	तीस वर्षको हुँदा टमको मृत्यु भयो।	
+Tom doesn't like to talk about Boston.	टम बोस्टनको बारेमा कुरा गर्न मन पराउँदैनन्।	
+Tom has an umbrella, but Mary doesn't.	टमसँग छाता छ, तर मेरीसँग छैन।	
+Tom is a very talented young director.	टम धेरै प्रतिभाशाली युवा निर्देशक हुन्।	
+Tom is probably still waiting for you.	टम सायद अझै तपाइँको लागि पर्खिरहेको छ।	
+Tom is probably still waiting for you.	टम सायद अझै तिम्रो लागि पर्खिरहेको छ।	
+Tom is the one who gave me this apple.	टम एक हो जसले मलाई यो स्याउ दियो।	
+Tom is the one who told us what to do.	टम एक हो जसले हामीलाई के गर्ने भन्यो।	
+Tom isn't as intelligent as you think.	टम तपाईले सोचे जस्तो बुद्धिमानी छैन।	
+Tom probably went to a friend's house.	टम सायद साथीको घरमा गएको छ।	
+Tom says he doesn't like his nickname.	टम भन्छन् कि उसलाई आफ्नो उपनाम मन पर्दैन।	
+Tom translated the letter into French.	टमले पत्रलाई फ्रेन्चमा अनुवाद गर्यो।	
+Tom was hoping we'd do that with Mary.	टमलाई आशा थियो कि हामीले मरियमसँग त्यसो गर्नेछौं।	
+Tom was supposed to help me on Monday.	टमले मलाई सोमबार मद्दत गर्ने थियो।	
+Tom wasn't the only one who drank tea.	चिया पिउने टम मात्र थिएनन्।	
+Tom will never become a good musician.	टम कहिल्यै राम्रो संगीतकार बन्ने छैन।	
+We tried it again, but couldn't do it.	हामीले फेरि प्रयास गर्यौ तर गर्न सकेनौ।	
+We want a woman who's good at cooking.	हामी खाना पकाउन माहिर महिला चाहान्छौं।	
+What kind of person do you want to be?	तपाई कस्तो मान्छे बन्न चाहनुहुन्छ?	
+What's the weather like in Boston now?	बोस्टनको मौसम अहिले कस्तो छ?	
+When I got up, it was snowing outside.	म उठ्दा खेरि बाहिर हिउँ परिरहेको थियो।	
+Why does Tom like living in Australia?	टम किन अस्ट्रेलियामा बस्न मन पराउँछन्?	
+You don't have to take off your socks.	तपाईंले आफ्नो मोजाहरू फुकाउन आवश्यक छैन।	
+You know Tom won't do that, don't you?	तपाईलाई थाहा छ टमले त्यसो गर्दैन, हैन?	
+You need to be a bit more cooperative.	तिमि अलि बढी सहयोगी बन्न जरुरी छ ।	
+You need to hire people you can trust.	तपाईंले विश्वास गर्न सक्ने व्यक्तिहरूलाई भर्ना गर्न आवश्यक छ।	
+Can't you and Tom stay a little longer?	के तपाईं र टम केही समय बस्न सक्नुहुन्न?	
+Do you know anybody who teaches French?	के तपाइँ फ्रान्सेली सिकाउने कसैलाई चिन्नुहुन्छ?	
+Don't blame yourself for what happened.	जे भयो त्यसको लागि आफैलाई दोष नदिनुहोस्।	
+Don't forget to thank Tom for the gift.	उपहारको लागि टमलाई धन्यवाद दिन नबिर्सनुहोस्।	
+Don't you have something to say to Tom?	के तपाइँसँग टमलाई भन्न केहि छैन?	
+Don't you think we should raise prices?	तपाईंलाई हामीले मूल्यवृद्धि गर्नुपर्छ जस्तो लाग्दैन ?	
+How many of you drink coffee every day?	तपाईहरु मध्ये कति जना हरेक दिन कफी पिउनुहुन्छ?	
+I didn't know that Tom was from Boston.	टम बोस्टनबाट आएको मलाई थाहा थिएन।	
+I don't like it when people yell at me.	मानिसहरूले मलाई चिच्याएको मलाई यो मन पर्दैन।	
+I don't think this is a very good idea.	मलाई लाग्दैन कि यो एकदम राम्रो विचार हो।	
+I don't think this is a very good idea.	मलाई लाग्दैन कि यो धेरै राम्रो विचार हो।	
+I don't think you'll have that problem.	मलाई लाग्दैन कि तपाईलाई त्यो समस्या हुनेछ।	
+I have enough sandwiches for everybody.	मसँग सबैजनाका लागि स्यान्डविचहरू छन्।	
+I jumped out of bed and ran downstairs.	म ओछ्यानबाट हाम फालेर तल दगुरेँ।	
+I told Tom a joke, but he didn't laugh.	मैले टमलाई चुड्किला भनेँ, तर ऊ हाँसेन।	
+I'm drinking water because I'm thirsty.	तिर्खा लागेकोले पानी पिउदै छु ।	
+I'm from Australia. Where are you from?	म अस्ट्रेलिया बाट हुँ। तिमी कहाँको हौं?	
+I'm from Australia. Where are you from?	म अस्ट्रेलिया बाट हुँ। तपाईं कहाँबाट हुनुहुन्छ?	
+I'm from Australia. Where are you from?	म अष्ट्रेलियाबाट आएको हुँ। तपाईं कहाँबाट हुनुहुन्छ?	
+I'm from Australia. Where are you from?	म अस्ट्रेलिया बाट हुँ। तिमी कहाँबाट हौ?	
+Many Japanese travel abroad every year.	हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्।	
+Oranges are a good source of vitamin C.	सुन्तला भिटामिन सी को राम्रो स्रोत हो।	
+Please send in your summary by Tuesday.	कृपया मङ्गलबारसम्म आफ्नो सारांश पठाउनुहोस्।	
+Raise your hand if you have a question.	यदि तपाइँसँग कुनै प्रश्न छ भने हात उठाउनुहोस्।	
+Thanks in advance for your suggestions.	तपाईंको सुझावहरूको लागि अग्रिम धन्यवाद।	
+The last time I saw Tom was in October.	अन्तिम पटक मैले टमलाई अक्टोबरमा देखेको थिएँ।	
+There are a lot of things Tom won't do.	त्यहाँ धेरै चीजहरू छन् जुन टमले गर्नेछैन।	
+There's someone waiting for me outside.	बाहिर कोही मलाई पर्खिरहेको छ।	
+Tom finally got here around lunch time.	टम अन्ततः खाजाको समयको आसपासमा यहाँ आइपुगे।	
+Tom hasn't taken a bath in a long time.	टमले लामो समयदेखि नुहाएको छैन।	
+Tom is still in love with you, I think.	मलाई लाग्छ, टम अझै पनि तपाईंसँग प्रेममा छ।	
+Tom looks cool no matter what he wears.	टमले जस्तोसुकै लगाए पनि राम्रो देखिन्छ।	
+Tom was showing Mary how to fly a kite.	टमले मेरीलाई चङ्गा उडाउने तरिका देखाउँदै थिए।	
+Tom went straight home after the party.	टम पार्टी पछि सिधै घर गए।	
+Tom wouldn't be happy if Mary did that.	यदि मेरीले त्यसो गरिन् भने टम खुसी हुनेछैनन्।	
+Ulaanbaatar is the capital of Mongolia.	उलानबाटार मंगोलियाको राजधानी हो।	
+We have three televisions in our house.	हाम्रो घरमा तीनवटा टिभी छन्।	
+Why do you think Tom went to Australia?	तपाईलाई टम किन अष्ट्रेलिया गएको जस्तो लाग्छ?	
+You know this isn't where I want to be.	तिमीलाई थाहा छ यो त्यो ठाउँ होइन जहाँ म हुन चाहन्छु।	
+You're feeling very sleepy, aren't you?	तपाईलाई धेरै निद्रा लागेको छ, हैन?	
+You're feeling very sleepy, aren't you?	तिमीलाई धेरै निद्रा लागेको छ, हैन?	
+A man can't be judged by his appearance.	मानिसलाई उसको रूपले मूल्याङ्कन गर्न सकिँदैन।	
+Do you know what's going to happen next?	के तपाईलाई थाहा छ अब के हुने छ?	
+Do you really think you need to do that?	के तपाई साँच्चै सोच्नुहुन्छ कि तपाईले त्यसो गर्नु आवश्यक छ?	
+Every year, many Japanese travel abroad.	हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्।	
+Germany is about half the size of Texas.	जर्मनी टेक्सासको आधा आकारको छ।	
+Germany is about the same size as Japan.	जर्मनीको आकार जापान जत्तिकै छ।	
+He made a great fortune in his lifetime.	उसले जिन्दगीमा धेरै सम्पति जोड्यो।	
+I can't understand what you said at all.	तपाईंले के भन्नुभयो मैले केही पनी बुझ्न सकिन।	
+I don't know how long I'll be in Boston.	मलाई थाहा छैन म कहिलेसम्म बोस्टनमा बस्छु।	
+I don't know why you're studying French.	मलाई थाहा छैन तिमी किन फ्रेन्च पढ्दै छौ।	
+I don't remember how to spell your name.	तिम्रो नाम कसरी लेख्ने मलाई याद छैन।	
+I knew that Tom was in his room reading.	मलाई थाहा थियो कि टम आफ्नो कोठामा पढिरहेको थियो।	
+I like white roses better than red ones.	मलाई रातो गुलाब भन्दा सेतो गुलाब मन पर्छ।	
+I think Tom won't be nervous doing that.	मलाई लाग्छ कि टम त्यसो गर्दा नर्भस हुनेछैन।	
+I usually eat rice at least twice a day.	म सामान्यतया दिनमा कम्तिमा दुई पटक भात खान्छु।	
+I went to the airport to meet my father.	बुबालाई भेट्न एयरपोर्ट गएँ।	
+I'd be willing to help if you need help.	यदि तपाईंलाई मद्दत चाहिन्छ भने, म मद्दत गर्न सक्छु।	
+I'm not convinced ghosts actually exist.	भूतहरू वास्तवमा छन् भन्ने कुरामा म विश्वस्त छैन।	
+I'm not particularly good at doing that.	म त्यसो गर्नमा खासै राम्रो छैन।	
+I'm sorry, could you repeat that please?	कृपया मलाई माफ गर्नुहोस्, फेरी एक पटक दोहोर्याउन सक्नुहुन्छ?	
+I'm very interested in Irish folk music.	मलाई आयरिश लोक संगीतमा धेरै रुचि छ।	
+I've finished preparations for tomorrow.	भोलिको तयारी पूरा गरिसकेको छु।	
+It has developed into a very large city.	यो एक धेरै ठूलो शहर मा विकसित भएको छ।	
+It is rumored that he has gone bankrupt.	ऊ टाट पल्टियो भन्ने हल्ला छ।	
+Thank you very much for your suggestion.	तपाईको सुझावको लागि धेरै धेरै धन्यवाद।	
+That old house is thought to be haunted.	त्यो पुरानो घरमा तर्साउने गरेको मानिन्छ ।	
+There are some empty bottles in the box.	बाकसमा खाली बोतलहरु छन्।	
+Tom couldn't read until he was thirteen.	टमले तेह्र वर्षको नहुँदासम्म पढ्न सकेनन्।	
+Tom doesn't have a girlfriend right now.	टमको अहिले कुनै प्रेमिका छैन।	
+Tom has asked me to lend him some money.	टमले मलाई केही पैसा उधारो दिन आग्रह गरेको छ।	
+Tom is a billionaire, not a millionaire.	टम अर्बपति हो, करोडपति होइन।	
+Tom is all alone with no one to talk to.	टम एक्लै छ जससँग कुरा गर्न कोही छैन।	
+Tom isn't here. Do you know where he is?	टम यहाँ छैन। ऊ कहाँ छ थाहा छ?	
+Tom probably went to his friend's house.	टम सायद साथीको घरमा गएको छ।	
+Tom showed Mary where he kept his money.	टमले मेरीलाई आफ्नो पैसा कहाँ राखेको देखाए ।	
+Tom will never forgive us if we do that.	यदि हामीले त्यसो गर्यौं भने टमले हामीलाई कहिल्यै माफ गर्नेछैन।	
+We have a dog, a cat and three canaries.	हामीसँग एउटा कुकुर, एउटा बिरालो र तीनवटा क्यानरीहरू छन्।	
+You don't need to finish it by tomorrow.	तपाईंले यसलाई भोलिसम्म पूरा गर्न आवश्यक छैन।	
+You may come visit whenever you want to.	तपाईले चाहानु भएको बेला घुम्न आउन सक्नुहुन्छ।	
+You'd better stay in bed for a few days.	तपाईं केही दिन ओछ्यानमै बस्नु राम्रो हुन्छ।	
+A lot of companies will do that nowadays.	आजकल धेरै कम्पनीहरूले त्यसो गर्नेछन्।	
+I don't feel like studying English today.	आज मलाई अंग्रेजी पढ्न मन लागेको छैन।	
+I don't know how long it's going to take.	मलाई थाहा छैन यसले कति समय लिन्छ।	
+I don't think I'll ever understand women.	मलाई लाग्दैन कि मैले महिलालाई कहिल्यै बुझ्नेछु।	
+I don't want to go to Australia with you.	म तिमीसँग अस्ट्रेलिया जान चाहन्न।	
+I first met Tom when he was 13 years old.	मैले पहिलो पटक टमलाई ऊ १३ वर्षको हुँदा भेटेको थिएँ।	
+I think you've got a really bad attitude.	मलाई लाग्छ कि तपाईंले साँच्चै नराम्रो मनोवृत्ति पाउनुभएको छ।	
+I waited by myself in front of the hotel.	म होटल अगाडि एक्लै पर्खिरहेको थिएँ ।	
+I want to become a doctor like my father.	म मेरो बुबा जस्तै डाक्टर बन्न चाहन्छु।	
+I want to get out of the car and stretch.	म कारबाट बाहिर निस्कन र जिउ तन्काउन चाहन्छु।	
+I'd like a room facing the ocean instead.	म यसको सट्टा समुद्रतिर फर्केको कोठा चाहन्छु।	
+I'll be with Tom all next week in Boston.	म अर्को हप्ता बोस्टनमा टमसँग हुनेछु।	
+It's fun to learn about foreign cultures.	विदेशी संस्कृतिको बारेमा जान्न पाउँदा रमाइलो हुन्छ।	
+It's fun to learn about foreign cultures.	विदेशी संस्कृतिको बारेमा जान्न रमाइलो हुन्छ।	
+Many Japanese travel overseas every year.	हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्।	
+Mary wore a strapless dress to the party.	मेरीले पार्टीमा स्ट्र्यापलेस पोशाक लगाएकी थिइन्।	
+My mother is strict, but my father isn't.	मेरी आमा कडा हुनुहुन्छ, तर बुबा त्यस्तो हुनुहुन्न।	
+Thank you for teaching me so many things.	मलाई धेरै कुरा सिकाउनु भएकोमा धन्यवाद।	
+The truth can be more painful than a lie.	सत्य झूट भन्दा धेरै पीडादायी हुन सक्छ।	
+There is a suspension bridge ahead of us.	हाम्रो अगाडि एउटा झोलुङ्गे पुल छ।	
+Tom and I danced together all night long.	टम र म सँगै रातभर नाच्यौं।	
+Tom first came to Boston three years ago.	टम पहिलो पटक तीन वर्ष पहिले बोस्टन आएका थिए।	
+Tom gave almost all his money to charity.	टमले आफ्नो प्रायः सबै पैसा परोपकारलाई दिए।	
+Tom put himself and his children at risk.	टमले आफू र आफ्ना छोराछोरीलाई जोखिममा राखे।	
+Tom told me that he hasn't done that yet.	टमले मलाई भन्यो कि उसले त्यो अहिलेसम्म गरेको छैन।	
+Tom wasn't able to get the motor started.	टम मोटर सुरु गर्न सक्षम थिएन।	
+Tom will be able to do what he has to do.	टमले आफूले गर्नुपर्ने काम गर्न सक्षम हुनेछ।	
+We're beginning a long and difficult job.	हामी लामो र कठिन काम सुरु गर्दैछौं।	
+What time did you go to sleep last night?	हिजो राति कति बजे सुत्नु भएको थियो ?	
+Without me, you won't be able to do that.	म बिना, तपाईं त्यो गर्न सक्षम हुनुहुने छैन।	
+Would it be OK if I turned off the radio?	के म रेडियो बन्द गर्न सक्छु?	
+Would it be OK if I turned the radio off?	के म रेडियो बन्द गर्न सक्छु?	
+Would you mind if I turned off the radio?	के म रेडियो बन्द गर्न सक्छु?	
+Would you mind if I turned the radio off?	के म रेडियो बन्द गर्न सक्छु?	
+You don't have to answer these questions.	तपाईंले यी प्रश्नहरूको जवाफ दिनु पर्दैन।	
+"What time is it now?" "It's ten o'clock."	"अहिले कति बज्यो?" "दश बज्यो।"	
+Cats were sacred animals in ancient Egypt.	बिरालाहरू प्राचीन इजिप्टमा पवित्र जनावरहरू थिए।	
+Did I ever tell you why I moved to Boston?	म किन बोस्टनमा सरेँ भनेर के मैले तपाईंलाई कहिल्यै बताएको छु?	
+Do you spend more time at home or at work?	तपाई घरमा कि काममा धेरै समय बिताउनुहुन्छ?	
+Every year, many Japanese travel overseas.	हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्।	
+He is the greatest singer that ever lived.	उनी अहिलेसम्मकै उत्कृष्ट गायक हुन्।	
+How many languages can you speak fluently?	तपाईं कतिवटा भाषाहरू सजिलै बोल्न सक्नुहुन्छ?	
+I like rice, but I don't eat it every day.	मलाई भात मनपर्छ, तर म हरेक दिन खान्न।	
+I really don't understand what's so funny.	म साँच्चै बुझ्न सक्दिन कि यति हास्यास्पद के हो।	
+I'd like to stay here for a few more days.	म अझै केही दिन यहाँ बस्न चाहन्छु।	
+I'll meet up with you guys this afternoon.	म आज दिउँसो तपाईंहरूसँग भेट गर्नेछु।	
+I'm not the kind of person you think I am.	म तिमीले सोचेको जस्तो मान्छे होइन।	
+I'm not used to making speeches in public.	मलाई सार्वजनिक रूपमा भाषण गर्ने बानी छैन।	
+I'm really looking forward to Tom's visit.	म साँच्चै टमको भ्रमणको लागि पर्खिरहेको छु।	
+I'm sure that Tom feels the same way I do.	म पक्का छु कि टमले पनि मैले जस्तै महसुस गर्छ।	
+Mark the words that you cannot understand.	तपाईंले नबुझेका शब्दहरूमा चिन्ह लगाउनुहोस्।	
+The policeman took the knife from the boy.	प्रहरी जवानले केटाबाट छुरी लिए।	
+The question is who will go there for Tom.	प्रश्न यो छ, टमको लागि त्यहाँ को जानेछ?	
+There is a parking lot behind the theater.	थिएटरको पछाडि एउटा पार्किङ छ।	
+This is one of the best-selling cookbooks.	यो सबैभन्दा धेरै बिक्री हुने कुकबुकहरू मध्ये एक हो।	
+Tom didn't seem to know anything about it.	टमलाई यसबारे सबै थाहा भए जस्तो देखिदैनथ्यो।	
+Tom doesn't seem to agree with you at all.	टम तपाईंसँग बिलकुलै सहमत छैन जस्तो देखिन्छ।	
+Tom doesn't seem to agree with you at all.	टम तपाईंसँग बिलकुल सहमत छ जस्तो देखिँदैन।	
+Tom doesn't seem to be enjoying the party.	टम पार्टीको मजा लिइरहेको जस्तो देखिदैन।	
+Tom gave his father a tie on Father's Day.	टमले आफ्नो बुबालाई फादर्स डेमा टाई दिए।	
+Tom gave his father a tie on Father's Day.	टमले आफ्नो बुबालाई बुबा को मुख हेर्ने दिनमा टाई दिए।	
+Tom has a friend who is a wrestling coach.	टमको एक साथी छन् जो कुश्तीका प्रशिक्षक हुन्।	
+Tom no longer works as much as he used to.	टमले पहिलेको जस्तो काम गर्दैनन्।	
+Tom said something that he shouldn't have.	टमले आफुले भन्न नहुने कुरा भने।	
+Tom should be getting ready for the party.	टम पार्टीको लागि तयार हुनुपर्दछ।	
+Tom told Mary that he'd agreed to do that.	टमले मेरीलाई भने कि उनी त्यसो गर्न सहमत छन्।	
+Tom was kind of chubby in the third grade.	टम तेस्रो कक्षामा एक प्रकारको मोटो थियो।	
+What does being a good mother mean to you?	तपाईलाई असल आमा हुनुको अर्थ के हो?	
+Why did Tom decide not to go to Australia?	टमले किन अस्ट्रेलिया नजाने निर्णय गरे?	
+You could do that if you really wanted to.	यदि तपाईं साँच्चै चाहनुहुन्छ भने तपाईंले त्यो गर्न सक्नुहुन्छ।	
+You could do that if you really wanted to.	यदि तिमी साँच्चै चाहान्छौ भने तिमीले त्यो गर्न सक्छौ।	
+Concert tickets are on sale at this office.	यस कार्यालयमा कन्सर्टका टिकटहरू बिक्रीमा छन्।	
+Do you think it's safe to drink this water?	के तपाईलाई यो पानी पिउन सुरक्षित छ भन्ने लाग्छ?	
+Everybody except us knew what was going on.	के भइरहेको छ हामी बाहेक सबैलाई थाहा थियो।	
+Germany is about twice the size of Uruguay.	जर्मनी उरुग्वे भन्दा दोब्बर ठुलो छ।	
+I can't figure out why you don't like jazz.	तपाईलाई ज्याज किन मन पर्दैन भन्ने कुरा म बुझ्न सक्दिन।	
+I don't want to be involved in that matter.	म यसमा संलग्न हुन चाहन्न।	
+I first used a computer about 40 years ago.	मैले ४० वर्ष अगाडी पहिलो पटक कम्प्युटर चलाएको थिए।	
+I just wanted to see how you've been doing.	म भर्खरै हेर्न चाहे कि तपाईं कस्तो गरिरहनुभएको छ।	
+I think you need to keep your mouth closed.	मलाई लाग्छ कि तपाईंले आफ्नो मुख बन्द राख्नुपर्छ।	
+I thought that Tom might be your boyfriend.	टम तिम्रो प्रेमी हुन सक्छ भन्ने सोचेको थिएँ।	
+I thought that we wouldn't have to do that.	मैले सोचेँ कि हामीले त्यसो गर्नु पर्दैन।	
+I want to eat the same thing Tom is eating.	म टमले जे खाइरहेको छ त्यही खान चाहन्छु।	
+I'll bring you a cup of tea while you wait.	तिमी पर्खँदा म एक कप चिया ल्याइदिन्छु।	
+I'm sure Tom will be ready to do that soon.	टम फ्रान्सेली मा आश्चर्यजनक रूपमा राम्रो छ।	
+It's almost three miles from here to there.	यहाँदेखि त्यहाँसम्म करिब तीन किलोमिटर छ।	
+Mary joined the army when she was eighteen.	मेरीअठार वर्षको हुँदा सेनामा भर्ना भएकी थिइन्।	
+Maybe I'm the one who should be doing that.	सायद म नै हुँ जसले त्यसो गर्नु पर्छ।	
+Tell Tom that I'm working as fast as I can.	टमलाई भन्नुहोस् कि म सकेसम्म छिटो काम गरिरहेको छु।	
+The photographs are the only proof we have.	तस्बिरहरू मात्र हामीसँग प्रमाण हुन्।	
+This chair was cheap, but it's comfortable.	यो कुर्सी सस्तो थियो, तर यो सहज छ।	
+This is exactly what I've been looking for.	यो ठ्याक्कै मैले खोजेको कुरा हो।	
+This is the only way to solve this problem.	यो समस्या समाधान गर्ने एक मात्र तरिका हो।	
+Tom asked Mary to take him to the hospital.	उसलाई अस्पताल लैजान टमले मेरीलाई आग्रह गरे।	
+Tom doesn't care whether we do that or not.	टमलाई वास्ता छैन कि हामीले त्यसो गर्छौं वा गर्दैनौं।	
+Tom looked pretty sick when I last saw him.	मैले अन्तिम पटक देख्दा टम एकदमै बिरामी देखिन्थे।	
+Tom said he was glad that you weren't hurt.	टमले भने तपाईलाई चोट नलागेकोमा उ खुसि थियो।	
+Tom wanted to know who Mary was talking to.	टम जान्न चाहन्थे मेरी कोसंग कुरा गर्दै थिहिन्।	
+Tom was aware that Mary was staring at him.	टमलाई थाहा थियो कि मेरीले उसलाई हेरिरहेकी छिन्।	
+Tom was reprimanded for being rude to Mary.	टमलाई मेरीसँग असभ्य व्यवहार गरेकोमा हप्काइयो।	
+We're worried about what might happen next.	हामी अब के हुन सक्छ भनेर चिन्तित छौं।	
+Where is it? I've been searching for hours.	त्यो कहाँ छ? म घण्टौंदेखि खोज्दै छु ।	
+Did you notice that Tom was staring at Mary?	के तपाईंले टमले मेरीलाई हेरिरहेको याद गर्नुभयो?	
+Do you know exactly what you're looking for?	के तपाईलाई थाहा छ ठ्याकै तपाई के खोज्दै हुनुहुन्छ?	
+How many more days are you planning to stay?	अझै कति दिन बस्ने सोचमा हुनुहुन्छ ?	
+I always have trouble pronouncing that word.	मलाई त्यो शब्द उच्चारण गर्न सधैं गाह्रो हुन्छ।	
+I asked Tom why he had never gotten married.	मैले टमलाई सोधेँ किन उसले कहिल्यै बिहे नगरेको।	
+I didn't really like the food that Tom made.	मलाई टमले बनाएको खाना मन परेन।	
+I don't understand the meaning of this word.	मैले यो शब्दको अर्थ बुझिन।	
+I think you spend too much time watching TV.	मलाई लाग्छ तपाईं टिभी हेरेर धेरै समय बिताउनुहुन्छ।	
+I want to eat curry rice for supper tonight.	म आज रातको खानाको लागि भात तरकारी खान चाहन्छु।	
+Neither Tom nor Mary wants to do that today.	न टम न मेरी आज त्यो गर्न चाहन्छन्।	
+Nobody was listening to what Tom was saying.	टमको कुरा कसैले सुनिरहेका थिएनन्।	
+Tom asked Mary to make him something to eat.	टमले मेरीलाई उसका लागी केही खानेकुरा बनाउन आग्रह गरे।	
+Tom doesn't know why Mary wanted to do that.	टमलाई थाहा छैन किन मेरीले त्यसो गर्न चाहान्थिन।	
+Tom isn't as intelligent as you might think.	टम तपाईले सोचे जस्तो बुद्धिमानी छैन।	
+Who's your favorite character in this movie?	यो चलचित्रमा तपाईलाई मन पर्ने पात्र को हो ?	
+Why don't we go and see the cherry blossoms?	फूल फुलेको हेर्न जाऔं।	
+Why don't we go and see the cherry blossoms?	हानामी मनाउन जाऔं।	
+Why don't we go and see the cherry blossoms?	हानामी मनाउन जाने हैन?	
+You probably already know about our company.	सायद तपाईलाई हाम्रो कम्पनी बारेमा पहिले नै थाहा छ।	
+Can I have two hamburgers and a coke, please?	कृपया दुईवटा ह्याम्बर्गर र एउटा कोक दिनुहोस्।	
+Have you made plans for your summer vacation?	के तपाईंले आफ्नो गर्मी बिदाको लागि योजना बनाउनुभएको छ?	
+He is amusing himself by playing video games.	उनी भिडियो गेम खेलेर रमाइलो गरिरहेका छन् ।	
+He is amusing himself by playing video games.	उ भिडियो गेम खेलेर रमाइलो गरिरहेका छ ।	
+How many billionaires are there in the world?	विश्वमा कति अर्बपति छन् ?	
+I didn't realize Tom didn't know how to swim.	टम पौडी खेल्न जान्दैनन् भन्ने मलाई थाहा थिएन।	
+I don't have as much money as I used to have.	मसँग पहिलाको जति पैसा छैन।	
+I don't like to use liquid laundry detergent.	मलाई तरल लुगा धुने डिटर्जेन्ट प्रयोग गर्न मन लाग्दैन।	
+I have only one picture of great-grandmother.	मसँग बुढी हजुरआमाको एउटा मात्र तस्वीर छ।	
+I want to spend the rest of my life with you.	म बाँकी जीवन तिमीसँगै बिताउन चाहन्छु।	
+I'm sorry that I opened your mail by mistake.	मैले गल्तीले तपाईको मेल खोलेकोमा क्षमाप्रार्थी छु।	
+Mt. Everest is the highest peak in the world.	माउन्ट एभरेष्ट संसारको सबैभन्दा अग्लो चुचुरो हो।	
+Please take care of our dog while we're away.	कृपया हामी टाढा हुँदा हाम्रो कुकुरको हेरचाह गर्नुहोस्।	
+That bridge took nearly three years to build.	उक्त पुल निर्माणमा करिब तीन वर्ष लागेको थियो।	
+The driver of the car that hit Tom was drunk.	टमलाई ठक्कर दिने कारको चालक रक्सीले मातेको थियो।	
+There is a station in the center of the city.	शहर को बीच मा एक स्टेशन छ।	
+There was nobody else in the room except Tom.	कोठामा टम बाहेक कोही थिएन।	
+Tom is one of the smartest men I've ever met.	टम मैले भेटेको सबैभन्दा चतुर मान्छे मध्ये एक हो।	
+Tom is studying to become a marine biologist.	टम एक समुद्री जीवविज्ञानी बन्न अध्ययन गर्दैछ।	
+Tom is studying to become a marine biologist.	टम समुद्री जीवविज्ञानी बन्नको लागि अध्ययन गर्दैछ।	
+Tom never told me that he was from Australia.	टमले मलाई आफू अस्ट्रेलियाबाट आएको कुरा कहिल्यै भनेनन्।	
+Tom speaks three languages, including French.	टम फ्रान्सेली सहित तीन भाषा बोल्छन्।	
+Tom speaks three languages, including French.	टम फ्रेन्च सहित तीन भाषा बोल्छ।	
+Tom told me it would be dangerous to do that.	टमले मलाई भने कि यो गर्न खतरनाक हुनेछ।	
+What's the best way to get in touch with you?	तपाईंसँग सम्पर्कमा रहन उत्तम तरिका के हो?	
+What's the weather going to be like tomorrow?	भोलिको मौसम कस्तो रहनेछ?	
+Would you ever accept a ride from a stranger?	के तपाइँ कहिल्यै अपरिचित व्यक्तिबाट सवारी स्वीकार गर्नुहुन्छ?	
+He's a British citizen, but he lives in India.	उनी बेलायती नागरिक हुन् तर उनी भारतमा बस्छन्।	
+I didn't know Tom was that good at doing that.	मलाई थाहा थिएन कि टम त्यो गर्नमा राम्रो थियो।	
+I don't think I can do this without your help.	मलाई लाग्दैन कि म तपाईंको सहयोग बिना यो गर्न सक्छु।	
+I don't think Tom will ever speak to me again.	मलाई लाग्दैन कि टमले मसँग फेरि कहिल्यै बोल्नेछ।	
+I played the violin when I was in high school.	म हाईस्कूलमा हुँदा भायोलिन बजाउथें ।	
+I'd rather stay at home than go to the movies.	म चलचित्र हेर्न जानु भन्दा घरमै बस्न रुचाउँछु ।	
+I'm from Australia, but I live in New Zealand.	म अष्ट्रेलियाबाट हुँ, तर म न्यूजील्याण्डमा बस्छु।	
+My mother is two years younger than my father.	मेरी आमा बुबा भन्दा दुई वर्ष कान्छी हुनुहुन्छ।	
+My parents died when I was thirteen years old.	म १३ वर्षको हुँदा आमाबुवाको मृत्यु भयो।	
+My parents died when I was thirteen years old.	म १३ वर्षको हुँदा मेरा आमाबुवाको मृत्यु भयो।	
+Please put this where children can't reach it.	कृपया बच्चाहरूको पहुँचबाट टाढा राख्नुहोस्।	
+Tom always says funny things to make me laugh.	टमले मलाई हँसाउनको लागि सधैं रमाइला कुराहरू भन्छन्।	
+Tom couldn't come with us because he was sick.	टम हामीसँग आउन सकेन किनभने ऊ बिरामी थियो ।	
+Tom gave a sleeping bag to me a few weeks ago.	टमले केही हप्ता अघि मलाई सुत्ने झोला दिए।	
+Tom has borrowed over 3,000 dollars from Mary.	टमले मेरीबाट ३,००० डलरभन्दा बढी ऋण लिएका छन्।	
+Tom is out playing with the neighborhood boys.	टम छिमेकी केटाहरु संग बाहिर खेल्दै छ।	
+Tom saw a car parked in front of Mary's house.	टमले मेरीको घर अगाडि एउटा कार पार्क गरेको देखे।	
+Tom says he has never tried eating whale meat.	टम भन्छन् कि उनले कहिल्यै ह्वेलको मासु खाने प्रयास गरेनन्।	
+Have you ever eaten anything that Tom's cooked?	के तपाईंले कहिल्यै टमले बनाएको खाना खानुभएको छ?	
+I have a dog. He is black and his name is Tiki.	म संग कुकुर छ। ऊ कालो छ र उसको नाम टिकी हो।	
+I should probably not tell Tom that I'm sleepy.	मैले सायद टमलाई मलाई निद्रा लागेको कुरा भन्नु हुँदैन।	
+I think that car is a little too small for you.	मलाई लाग्छ कि त्यो कार तपाईका लागि अलिकति सानो छ।	
+I'm not the kind of person that you think I am.	म तिमीले सोचेको जस्तो मान्छे होइन।	
+It's nice to see you again after so many years.	धेरै वर्ष पछी फेरी भेट्दा खुशी लाग्यो।	
+Let me teach you a simple way to remember that.	म तपाइँलाई सम्झन को लागी एक सरल तरिका सिकाउँछु।	
+No matter how old you get, you can still learn.	तपाईं जति उमेरको भए पनि सिक्न सक्नुहुन्छ।	
+Tom can't see what's written on the blackboard.	टमले ब्ल्याकबोर्डमा के लेखेको छ भनेर देख्न सक्दैन।	
+Tom forgot to put the milk in the refrigerator.	टमले फ्रिजमा दूध राख्न बिर्सियो।	
+Tom has known Mary since she was a little girl.	टमले मेरीलाई सानी हुँदादेखि नै चिनेका छन्।	
+Tom said he isn't used to this kind of weather.	टमले भने कि उनलाई यस प्रकारको मौसमको बानी छैन।	
+Tom's birthday is exactly one month from today.	टमको जन्मदिन ठ्याक्कै एक महिना टाढा छ।	
+What's the distance between Boston and Chicago?	बोस्टन र शिकागोको बीचको दूरी कति छ?	
+When I was young, we used to swim in the river.	म सानो छँदा, हामी खोलामा पौडी खेल्थ्यौं ।	
+How long will it take me to walk to the station?	मलाई हिड्दै स्टेशनसम्म पुग्न कति मिनेट लाग्ला?	
+I don't have time to answer all those questions.	मसँग ती सबै प्रश्नहरूको जवाफ दिने समय छैन।	
+I don't think they've found a cure for that yet.	मलाई लाग्दैन कि उनीहरूले अहिलेसम्म यसको उपचार फेला पारेका छन्।	
+I'm glad that Tom and Mary are both on our team.	म खुसी छु कि टम र मेरी दुबै हाम्रो टोलीमा छन्।	
+Is there anyone here who hasn't yet eaten lunch?	यहाँ कोही हुनुहुन्छ जसले अहिले सम्म खाजा खाएको छैन?	
+It took nearly three years to build that bridge.	उक्त पुल निर्माणमा करिब तीन वर्ष लागेको थियो।	
+My mother always gets up earlier in the morning.	मेरी आमा सधैं बिहान सबेरै उठ्नुहुन्छ।	
+Students from the suburbs come to school by bus.	उपनगरका विद्यार्थीहरू बसबाट विद्यालय आउँछन् ।	
+Thanks for your suggestion. I'll think about it.	तपाईंको सुझावको लागि धन्यवाद। म यसको बारेमा सोच्नेछु।	
+The car parked in front of Tom's house was blue.	टमको घर अगाडि पार्क गरिएको कार निलो थियो।	
+Tom claims he can accurately predict the future.	टमले भविष्यको सही भविष्यवाणी गर्न सक्ने दाबी गर्छन्।	
+Tom doesn't often have a chance to speak French.	टमसँग प्राय: फ्रेन्च बोल्ने मौका हुँदैन।	
+As long as you remember to do that, you'll be OK.	जबसम्म तपाइँ त्यो गर्न सम्झनुहुन्छ, तपाइँ ठीक हुनुहुनेछ।	
+As requested, we are submitting our final report.	अनुरोध गरे अनुसार, हामी हाम्रो अन्तिम प्रतिवेदन पेश गर्दैछौं।	
+How old were you when you graduated from college?	तपाईंले कलेजबाट स्नातक गर्दा कति वर्षको हुनुहुन्थ्यो?	
+I bought three apples, some eggs and some yogurt.	मैले तीनवटा स्याउ, केही अण्डा र केही दही किनेँ।	
+I didn't think that Tom understood what you said.	टमले तपाईले भनेको कुरा बुझ्नुभयो जस्तो मलाई लागेन।	
+I'm not very likely to find what I'm looking for.	मैले खोजेको कुरा मैले भेट्टाउन सक्ने धेरै सम्भावना छैन।	
+My grandmother is convalescing in a nursing home.	मेरी हजुरआमा नर्सिङ होममा निको भइरहनुभएको छ।	
+The teacher wrote French words on the blackboard.	शिक्षकले ब्ल्याकबोर्डमा फ्रान्सेली शब्दहरू लेखे।	
+Those two shirts are made from the same material.	ती दुई शर्टहरू एउटै सामग्रीबाट बनाइएका हुन्।	
+Tom and Mary first met at a restaurant in Boston.	टम र मेरी पहिलो पटक बोस्टनको एक रेस्टुरेन्टमा भेटेका थिए।	
+Tom has a hard time believing anything Mary says.	टमलाई मेरीले भनेको कुरा पत्याउन गाह्रो हुन्छ।	
+Tom isn't studying French. He's studying English.	टमले फ्रान्सेली भाषा पढिरहेको छैन। ऊ अंग्रेजी पढ्दै छ।	
+Tom started learning French when he was thirteen.	टमले तेह्र वर्षको हुँदा फ्रेन्च सिक्न थाले।	
+What's your favorite song in last year's top 100?	गत वर्षका उत्कृष्ट १०० गीतहरूमध्ये तपाईलाई मन पर्ने गीत कुन हो?	
+I don't think that Tom knows how to read or write.	मलाई लाग्दैन कि टमलाई कसरी पढ्ने वा लेख्न भन्ने थाहा छ।	
+I don't think you have to worry about Tom anymore.	मलाई लाग्दैन कि तपाईंले अब टमको बारेमा चिन्ता लिनु पर्छ।	
+I know that I won't be allowed to do that anymore.	मलाई थाहा छ मलाई अब त्यसो गर्न दिइने छैन।	
+I'm from Australia, but now I live in New Zealand.	म अष्ट्रेलियाबाट हुँ, तर अहिले म न्यूजील्याण्डमा बस्छु।	
+I'm very sorry, but there's really no alternative.	म धेरै माफी चाहन्छु, तर त्यहाँ कुनै पनि विकल्प छैन।	
+I've already told Tom I don't want him to do that.	मैले पहिले नै टमलाई भनिसकेको छु म उसले त्यसो गरून् भन्ने चाहन्न।	
+If you continue doing that, you'll get in trouble.	यदि तपाईंले त्यसो गरिरहनुभयो भने, तपाईं समस्यामा पर्नुहुनेछ।	
+In the first place, we have to decide on the name.	सबैभन्दा पहिले मैले नाम तय गर्नुपर्छ।	
+Japan began to import rice from the United States.	जापानले अमेरिकाबाट चामल आयात गर्न थाल्यो।	
+She wants to be a tennis player when she grows up.	उनी ठूली भएपछि टेनिस खेलाडी बन्न चाहन्छिन्।	
+Tom and I almost never speak French to each other.	टम र म प्राय: एकअर्कासँग फ्रेन्च बोल्दैनौं।	
+You should take an umbrella with you this morning.	बिहान छाता बोकेर जादा राम्रो हुन्छ।	
+Congratulations! You've just won a million dollars!	बधाई छ! तपाईंले भर्खर एक मिलियन डलर जित्नुभएको छ!	
+He walked so fast that I couldn't keep up with him.	ऊ यति छिटो हिँड्यो कि म ऊसंगै रहन सकिन।	
+How much money do you spend on clothing every year?	तपाइँ प्रत्येक वर्ष कपडामा कति खर्च गर्नुहुन्छ?	
+I can't drive anywhere because my car's out of gas.	म कतै ड्राइभ गर्न सक्दिन किनकि मेरो कारको तेल सकिएको छ।	
+I couldn't sleep well because it was noisy outside.	बाहिर कोलाहल भएकोले म राम्ररी सुत्न सकिन।	
+I didn't know that Tom was that good at doing that.	मलाई थाहा थिएन कि टम त्यो गर्नमा राम्रो थियो।	
+I don't think these are Tom's and Mary's umbrellas.	मलाई लाग्दैन कि यी टम र मेरीका छाताहरु हुन्।	
+I don't usually say anything at our staff meetings.	म प्रायः हाम्रा कर्मचारी बैठकहरूमा केही बोल्दिनँ।	
+I have to return this book to the library tomorrow.	मैले यो पुस्तक भोलि पुस्तकालयमा फिर्ता नगरी हुदैन।	
+I hope I'll be able to help you at some other time.	मलाई आशा छ कि म तपाईलाई अर्को पटक मद्दत गर्न सक्छु।	
+I want you to stay in Australia until October 20th.	म तपाईंलाई अक्टोबर २० सम्म अस्ट्रेलियामा बस्नु भन्ने चाहन्छु।	
+I'm telling you this because I'm worried about you.	म तिमीलाई यसो भन्दैछु किनकि म तिम्रो बारेमा चिन्तित छु।	
+It's always important to have money in your pocket.	तपाईको खल्तीमा पैसा हुनु सधैं महत्त्वपूर्ण छ।	
+Mount Everest is the tallest mountain in the world.	माउन्ट एभरेष्ट विश्वको सबैभन्दा अग्लो हिमाल हो।	
+The tallest mountain in the world is Mount Everest.	संसारको सबैभन्दा अग्लो हिमाल माउन्ट एभरेस्ट हो।	
+There are only two prime numbers between 10 and 14.	१० र १४ को बीचमा दुईवटा मात्र रुढ संख्याहरू छन्।	
+Tom and Mary are having a little financial trouble.	टम र मेरी अलि आर्थिक समस्यामा छन्।	
+Tom didn't know that yesterday was Mary's birthday.	टमलाई थाहा थिएन कि हिजो मेरीको जन्मदिन थियो।	
+Tom took a day off from work because he had a cold.	टमले कामबाट एक दिन बिदा लियो किनभने उसलाई चिसो थियो।	
+What's the name of the store where you bought that?	तपाईले त्यो किन्नु भएको पसलको नाम के हो?	
+Better be the head of a dog than the tail of a lion.	सिंहको पुच्छर भन्दा कुकुरको टाउको हुनु राम्रो।	
+Don't look out the window. Concentrate on your work.	झ्याल बाहिर नहेर्नुहोस्। आफ्नो काममा ध्यान दिनुहोस्।	
+I didn't spend as much time studying as I should've.	पढाइमा जति समय दिनुपर्थ्यो, त्यति खर्च गर्न सकिनँ ।	
+I doubt very seriously that Tom did that on purpose.	टमले त्यो जानाजानी गरेको हो भन्नेमा मलाई धेरै गम्भीर शंका छ।	
+I know Tom doesn't know I've never done that before.	मलाई थाहा छ कि टमलाई थाहा छैन मैले यो पहिले कहिल्यै गरेको छैन।	
+This morning was much cooler than yesterday morning.	हिजो बिहानको तुलनामा आज बिहान निकै चिसो थियो।	
+This morning was much cooler than yesterday morning.	हिजो बिहान हेरी आज बिहान निकै चिसो थियो।	
+Tom called his dad to wish him a happy Father's Day.	टमले आफ्नो बुबालाई बुबाको दिनको शुभकामना दिन फोन गरे।	
+What are some of the health benefits of eating fish?	माछा खाँदा स्वास्थ्यमा हुने केही फाइदाहरु के के हुन ?	
+Where did you take the children yesterday afternoon?	हिजो दिउँसो केटाकेटीलाई कहाँ लैजानुभयो ?	
+"Today's my birthday." "It's my birthday today, too."	"आज मेरो जन्मदिन हो।" "मेरो जन्मदिन पनि आज नै हो।"	
+I want to make it clear that I don't want to do that.	म त्यसो गर्न चाहन्न भनेर स्पष्ट पार्न चाहन्छु।	
+Sharkskin can be used like the skin of other animals.	सार्कस्किन अन्य जनावरहरूको छाला जस्तै प्रयोग गर्न सकिन्छ।	
+The train wasn't as crowded as I thought it would be.	रेलमा मैले सोचे जस्तो भीड थिएन।	
+There's nothing I like as much as the smell of roses.	मलाई गुलाबको सुगन्ध भन्दा बढी मनपर्ने केहि छैन।	
+Tom knows a lot more about that than you might think.	टमलाई तपाईंले सोचेभन्दा धेरै कुरा थाहा छ।	
+Tom told Mary not to waste her money on such a thing.	टमले मेरीलाई यस्तो कुरामा आफ्नो पैसा खेर नफाल्नु भन्यो ।	
+Tom was holding a small flashlight in his right hand.	टमले आफ्नो दाहिने हातमा सानो फ्ल्यासलाइट समातिरहेको थियो।	
+You know that that isn't likely to happen, don't you?	तपाईलाई थाहा छ कि त्यो हुने सम्भावना छैन, हैन?	
+I haven't decided yet whether I will attend the party.	पार्टीमा जाने कि नजाने भन्ने मैले अहिलेसम्म निर्णय गरेको छैन।	
+I heard something interesting from a friend yesterday.	मैले हिजो साथीबाट एउटा रोचक कथा सुनें।	
+I think that everyone should study a foreign language.	मलाई लाग्छ कि सबैले विदेशी भाषा पढ्नुपर्छ।	
+If you want to, you can eat the rest of the cake, too.	यदि तपाइँ चाहनुहुन्छ भने, तपाइँ बाँकी केक पनि खान सक्नुहुन्छ।	
+This is a list of products that we don't make anymore.	यो उत्पादनहरूको सूची हो जुन हामीले अब बनाउँदैनौं।	
+Tom gave his three-year-old son a puppy for Christmas.	टमले आफ्नो 3 वर्षीय छोरालाई क्रिसमसको लागि कुकुरको बच्चा दिए।	
+A number of Japanese people travel abroad every summer.	प्रत्येक बर्षको गर्मीमा, धेरै जापानीहरू विदेश भ्रमण गर्छन्।	
+Don't ever challenge someone who's got nothing to lose.	कसैलाई कहिल्यै चुनौती नदिनुहोस् जससँग गुमाउन केहि छैन।	
+Has anyone ever told you what really happened that day?	के त्यो दिन साँच्चै के भयो भनेर कसैले तपाईलाई बताएको छ?	
+I want to buy a new laptop, but I don't have the money.	म नयाँ ल्यापटप किन्न चाहन्छु, तर मसँग पैसा छैन।	
+Tom and I are planning on going to Australia next fall.	टम र म अर्को शरद ऋतुमा अष्ट्रेलिया जाने योजनामा ​​छौं।	
+Tom called his father to wish him a happy Father's Day.	टमले आफ्नो बुबालाई बुबाको दिनको शुभकामना दिन फोन गरे।	
+Tom never knew that Mary lived on the bad side of town.	टमलाई कहिल्यै थाहा थिएन कि मेरी सहरको खराब ठाउँ तिर बस्छिन्।	
+What language do you usually use when talking with Tom?	तपाइँ सामान्यतया टमसँग कुन भाषामा बोल्नुहुन्छ?	
+I hope that I'll be able to help you at some other time.	मलाई आशा छ कि म तपाईलाई अर्को पटक मद्दत गर्न सक्छु।	
+I promised Tom that I wouldn't go to Boston without him.	मैले टमलाई वाचा गरें कि म उबिना बोस्टन जाने छैन।	
+I think I like eating white rice better than brown rice.	मलाई खैरो चामल भन्दा सेतो चामल खान राम्रो लाग्छ।	
+That's delicious. Where did you learn to cook like that?	त्यो स्वादिष्ट छ। यस्तो खाना पकाउन कहाँ सिकेको ?	
+Tom and his friends love to get together and play music.	टम र उनका साथीहरू सँगै बस्न र संगीत बजाउन मन पराउँछन्।	
+Tom likes Boston better than any other place he's lived.	टमले आफू बसेको ठाउँहरु मध्ये बोस्टनलाई धेरै मन पराउँछन्।	
+Tom seemed more concerned about the situation than Mary.	टम मेरी भन्दा अवस्थाको बारेमा बढी चिन्तित देखिन्थे।	
+Has anyone ever told you you've got serious trust issues?	के कसैले तपाईंलाई कहिल्यै भन्यो कि तपाईंसँग गम्भीर विश्वास मुद्दाहरू छन्?	
+I knew that Tom wouldn't be able to find a job in Boston.	मलाई थाहा थियो कि टमले बोस्टनमा जागिर पाउन सक्नेछैनन्।	
+Tom had forgotten his umbrella so I lent him one of mine.	टमले आफ्नो छाता बिर्सेको थियो त्यसैले मैले उसलाई मेरो एउटा दिएँ।	
+Tom should probably not tell Mary what she wants to know.	टमले सायद मेरीलाई उनी के जान्न चाहन्छन् भनेर बताउन हुँदैन।	
+Tom told everybody he and Mary were going to get married.	टमले सबैलाई बताए कि उनी र मेरी विवाह गर्न जाँदैछन्।	
+Who do you think was watching TV in this room last night?	हिजो राती यो कोठामा कसले टिभी हेरिरहेको थियो जस्तो लाग्छ?	
+I have to tell her that the phone rang while she was gone.	मैले उसलाई भन्नु पर्छ कि उनी गएको बेला फोनको घण्टी बज्यो।	
+I hope that I will be able to help you at some other time.	मलाई आशा छ कि म तपाईलाई अर्को पटक मद्दत गर्न सक्छु।	
+The last time we saw each other was about three years ago.	हामीले एकअर्कालाई अन्तिम पटक देखेका थियौं लगभग तीन वर्षअघि।	
+Tom has gone to get a haircut, but he should be back soon.	टम कपाल काट्न गएको छ, तर ऊ चाँडै फर्कनु पर्छ।	
+Tom might not have enough money to buy everything he wants.	टमसँग आफूले चाहेको सबै कुरा किन्न पर्याप्त पैसा नहुन सक्छ।	
+Tom said he read a lot of interesting books over the summer.	टमले गर्मीमा धेरै रोचक किताबहरू पढेको बताए।	
+Tom seemed more concerned about the situation than Mary did.	टम मेरी भन्दा अवस्थाको बारेमा बढी चिन्तित देखिन्थे।	
+Tom told everyone that he and Mary were going to get married.	टमले सबैलाई बताए कि उनी र मेरी विवाह गर्न जाँदैछन्।	
+After winning the Nobel prize, she remained as modest as ever.	नोबेल पुरस्कार जितेपछि उनी सधैँजस्तै नम्र भइन्।	
+Are you still driving that car that your grandfather gave you?	हजुरबुवाले दिनुभएको गाडी तपाईं अझै चलाउँदै हुनुहुन्छ?	
+Has anyone ever told you that you've got serious trust issues?	के कसैले तपाईंलाई कहिल्यै भन्यो कि तपाईंसँग गम्भीर विश्वास समस्याहरू छन् भनेर?	
+He did a lot for his people, but he could have done much more.	उहाँले आफ्ना जनताको लागि धेरै गर्नुभयो, तर उहाँले अझ धेरै गर्न सक्नुहुन्थ्यो।	
+If it's possible, I'd like to exchange this for a larger size.	यदि यो सम्भव छ भने, म यसलाई ठूलो आकारको लागि साट्न चाहन्छु।	
+When I see someone eating hayashi rice, I want to eat it, too.	जब म कसैले हयासी भात खाएको देख्छु, मलाई पनि खान मन लाग्छ।	
+Did you know that both Tom and Mary have houses on Park Street?	के तपाईंलाई थाहा छ कि टम र मेरी दुबैको पार्क स्ट्रीटमा घरहरू छन्?	
+Tom asked Mary to find out what papers needed to be filled out.	टमले मेरीलाई कुन कागजातहरू भर्न आवश्यक छ भनेर पत्ता लगाउन सोधे।	
+"You're friends with Tom, aren't you?" "Yeah." "What's he like?"	"तिमी टमसँग साथी हौ, हैन?" "ओह।" "टम कस्तो मान्छे हो?"	
+The express train does not stop between Shibuya and Naka-Meguro.	एक्सप्रेस ट्रेन शिबुया र नाका-मेगुरोको बीचमा रोक्दैन।	
+"I'm from Australia. Where are you from?" "I'm from New Zealand."	"म अस्ट्रेलियाबाट हुँ। तिमी कहाँबाट हौ?" "म न्युजिल्याण्डबाट हुँ।"	
+"I'm from Australia. Where are you from?" "I'm from New Zealand."	"म अस्ट्रेलियाबाट हुँ। तिमी कहाँबाट हौ?" "म न्युजिल्यान्डबाट आएको हुँ।"	
+"I'm from Australia. Where are you from?" "I'm from New Zealand."	"म अस्ट्रेलियाबाट आएको हुँ। तपाईं कहाँबाट हुनुहुन्छ?" "म न्युजिल्यान्डबाट आएको हुँ।"	
+"I'm from Australia. Where are you from?" "I'm from New Zealand."	"म अस्ट्रेलियाबाट आएको हुँ। तपाईं कहाँबाट हुनुहुन्छ?" "म न्युजिल्याण्डबाट हुँ।"	
+I'm old enough to remember what life was like before the internet.	इन्टरनेट भन्दा पहिलेको जीवन कस्तो थियो भन्ने कुरा सम्झन म पर्याप्त उमेरको छु।	
+Do you have any idea how much money you spent on clothes last year?	तपाईंले गत वर्ष कपडामा कति पैसा खर्च गर्नुभयो भन्ने कुरा थाहा छ?	
+Do you plan to do anything special with your father on Father's Day?	के तपाइँ बुबाको दिनमा बुबासँग केहि विशेष गर्ने योजनामा हुनुहुन्छ?	
+Tom knew that he wasn't likely be able to convince Mary to help him.	टमलाई थाहा थियो कि उसले मेरीलाई मद्दत गर्न मनाउन सक्दैन।	
+The Netherlands is famous for its windmills, tulips, wooden clogs and canals.	नेदरल्याण्ड्स यसको पवनचक्की, घन्टी फूल, काठको चप्पल र नहरहरूको लागि प्रसिद्ध छ।	
+Tom is wondering if any of his kids will remember that today is Father's Day.	आज बुबाको दिन हो भनेर आफ्ना बच्चाहरू मध्ये कुनैले याद गर्नेछन् कि भनेर टम सोचिरहेका छन्।	
+The relationship between the two countries has waxed and waned over the years.	दुई देशबीचको सम्बन्ध विगतका वर्षहरूमा चिसो र खस्किएको छ।	
+The train was derailed and about thirty passengers were either killed or injured.	रेल पटरीबाट खस्यो र करिब तीस यात्रु या त मारिए वा घाइते भए।	
+Tom told Mary that he thought a hippopotamus could run at a speed of about 30 kilometers per hour.	टमले मेरीलाई भन्यो कि उसले सोचेको थियो कि हिप्पोपोटामस लगभग 30 किलोमिटर प्रति घण्टाको गतिमा दौडन सक्छ।	
+I don't remember how old I was when I first heard that song, but I think it was when I was a teenager.	मैले त्यो गीत पहिलो पटक सुन्दा म कति वर्षको थिएँ मलाई याद छैन, तर मलाई लाग्छ कि म किशोरावस्थामा थिएँ।	
+I don't remember how many bottle of wine we drank, but I do remember waking up with a terrible headache.	हामीले कति बोतल वाइन पियौं मलाई याद छैन, तर मलाई उठ्दा अस्याददै टाउको दुखेको याद छ।	
+The difference between the right word and almost the right word is the difference between lightning and the lightning bug.	सही शब्द र लगभग सही शब्द बीचको भिन्नता बत्ति र जुनकिरी बीचको भिन्नता हो।	
+When Tom was walking down the street at night, a man he didn't know threatened him with a knife and robbed him of his cash.	टमलाई राति सडकमा एक अपरिचित व्यक्तिले चक्कु देखाई ज्यानको धम्की दिएर उसको पैसा लुट्यो।	
