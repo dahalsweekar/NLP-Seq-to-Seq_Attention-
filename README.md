@@ -1,4 +1,4 @@
-# Nepali Text Recognition using small labeled dataset
+# NLP-Seq-to-Seq_Attention
 
 ## Introduction
 This repository offers an implementation of text recognition where lstm network is used for seq-to-seq text recognition. Resnet-18 backbone is used for feature extraction.
