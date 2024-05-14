@@ -6,8 +6,6 @@ Project is followed based upon PyTorch tutorial.
 
 ## Task List
   - [ ] Refine English and Nepali (priority) input texts using Regex or other python library.
-  - [ ] Train model on a GPU and visualize training result
-
 
 ### Encoder Network
 The encoder of a seq2seq network is a RNN that outputs some value for every word from the input sentence. For every input word the encoder outputs a vector and a hidden state, and uses the hidden state for the next input word.
